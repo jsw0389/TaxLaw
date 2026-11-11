@@ -21,6 +21,7 @@ jobs:
       - name: 법령 본문 받기
         env:
           LAW_OC: ${{ secrets.LAW_OC }}
+          PYTHONUNBUFFERED: "1"   # 진행 로그가 실시간으로 보이게(중간에 끊겨도 남게)
         run: python scripts/fetch_laws.py
 
       - name: 바뀐 게 있으면 커밋
