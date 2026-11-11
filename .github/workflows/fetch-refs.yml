@@ -9,6 +9,13 @@ on:
   schedule:
     - cron: "0 19 * * 6"   # 매주 일요일 04:00 (한국시간), 법령 받기 1시간 뒤
   workflow_dispatch:        # Actions 탭의 Run workflow 버튼
+    inputs:
+      budget_min:
+        description: "이번 실행에서 쓸 시간(분)"
+        default: "200"
+      limit:
+        description: "시험용: 자료 종류마다 받을 최대 건수 (0=제한 없음)"
+        default: "0"
 
 permissions:
   contents: write
@@ -33,7 +40,8 @@ jobs:
         id: fetch
         env:
           LAW_OC: ${{ secrets.LAW_OC }}
-          REFS_BUDGET_MIN: "200"
+          REFS_BUDGET_MIN: ${{ inputs.budget_min || '200' }}
+          REFS_LIMIT: ${{ inputs.limit || '0' }}
         run: python scripts/fetch_refs.py
 
       - name: 바뀐 게 있으면 커밋
