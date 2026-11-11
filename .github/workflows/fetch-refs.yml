@@ -1,0 +1,56 @@
+name: Fetch refs
+
+# 세법 판례·조세심판원 재결례·해석례·행정규칙을 refs/ 에 받는다 (scripts/fetch_refs.py).
+# 처음에는 몇십만 건이라 한 번에 못 받는다. 한 번에 REFS_BUDGET_MIN 분만 받고 커밋한 뒤,
+# 남은 게 있으면 이 워크플로를 스스로 다시 띄워 이어 받는다. 다 받으면 매주 새로 나온 것만 받는다.
+# 이번 실행에서 한 건도 못 받았으면(서버 차단 등) 다시 띄우지 않는다 — 헛돌며 Actions 시간을 쓰지 않게.
+
+on:
+  schedule:
+    - cron: "0 19 * * 6"   # 매주 일요일 04:00 (한국시간), 법령 받기 1시간 뒤
+  workflow_dispatch:        # Actions 탭의 Run workflow 버튼
+
+permissions:
+  contents: write
+  actions: write            # 이어 받기용으로 자신을 다시 띄우는 데 필요
+
+concurrency:
+  group: fetch-refs
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 판례·해석 받기
+        id: fetch
+        env:
+          LAW_OC: ${{ secrets.LAW_OC }}
+          REFS_BUDGET_MIN: "200"
+        run: python scripts/fetch_refs.py
+
+      - name: 바뀐 게 있으면 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add refs
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+            exit 0
+          fi
+          git commit -q -m "refs: 판례·해석 ${{ steps.fetch.outputs.fetched }}건 추가 $(TZ=Asia/Seoul date +%F) (남음 ${{ steps.fetch.outputs.remaining }})"
+          git pull --rebase origin main
+          git push origin main
+
+      - name: 남은 게 있으면 이어 받기
+        if: steps.fetch.outputs.remaining != '0' && steps.fetch.outputs.fetched != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run fetch-refs.yml --ref main
