@@ -244,34 +244,36 @@ def taxlaw_doc(ntst_id):
 NTST_RE = re.compile(r"ntstDcmId=(\d{10,})")
 
 
-def prec_ntst_id(prec_id):
-    """국세청 출처 판례: 법제처 판례 화면 → iframe → 넘김을 따라가 ntstDcmId 를 찾는다."""
-    page, _, _ = http(LAW_HOST, law_url("lawService.do", target="prec", type="HTML", ID=prec_id),
-                      label=f"prec {prec_id} 화면")
+def html_view(target, id_):
+    """법제처 상세 화면(HTML). 국세청 자료면 (ntstDcmId, ""), 아니면 (None, 화면 글).
+    화면 → iframe → 넘김을 따라가 국세법령정보시스템 문서번호(ntstDcmId)를 찾는다."""
+    page, _, _ = http(LAW_HOST, law_url("lawService.do", target=target, type="HTML", ID=id_),
+                      label=f"{target} {id_} 화면")
     m = NTST_RE.search(page)
     if m:
-        return m.group(1)
+        return m.group(1), ""
     m = re.search(r"<iframe\b[^>]*\bsrc\s*=\s*[\"']?\s*([^\"'>\s]+)", page, re.I)
     if not m:
-        raise FetchError(f"prec {prec_id} 화면에 본문 틀(iframe)이 없음")
+        return None, clean(page)
+    prec_id = f"{target} {id_}"
     url = urllib.parse.urljoin("https://www.law.go.kr", html.unescape(m.group(1)))
     for _ in range(4):
         m = NTST_RE.search(url)
         if m:
-            return m.group(1)
+            return m.group(1), ""
         host = urllib.parse.urlparse(url).hostname or ""
         if not (host.endswith("law.go.kr") or host.endswith("nts.go.kr") or host in OK_HOSTNAMES):
-            raise FetchError(f"prec {prec_id} 넘김이 다른 곳으로 감: {host}")
+            raise FetchError(f"{prec_id} 넘김이 다른 곳으로 감: {host}")
         is_tax = host.endswith("nts.go.kr") or host == TAX_HOSTNAME
         body, _, loc = http(TAX_HOST if is_tax else LAW_HOST, url,
-                            follow=False, label=f"prec {prec_id} 넘김")
+                            follow=False, label=f"{prec_id} 넘김")
         m = NTST_RE.search(body)
         if m:
-            return m.group(1)
+            return m.group(1), ""
         if not loc:
             break
         url = urllib.parse.urljoin(url, loc)
-    raise FetchError(f"prec {prec_id} 국세법령정보시스템 문서번호를 못 찾음")
+    raise FetchError(f"{prec_id} 국세법령정보시스템 문서번호를 못 찾음")
 
 
 # ---------------------------------------------------------------- 글 다듬기
@@ -469,8 +471,15 @@ SOURCES = [
 KEEP_KEYS = re.compile(r"일련번호|일자|번호|명$|링크")   # 목록에 남길 칸(본문 받기·파일 이름에 쓰는 것)
 
 
+OC_RE = re.compile(r"([?&])OC=[^&]*&?")   # 법제처가 상세링크에 인증키(OC)를 넣어 준다. 공개 저장소라 절대 남기지 않는다
+
+
+def no_oc(v):
+    return OC_RE.sub(r"\1", v) if isinstance(v, str) else v
+
+
 def slim(item):
-    return {k: v for k, v in item.items() if v and KEEP_KEYS.search(k)}
+    return {k: no_oc(v) for k, v in item.items() if v and KEEP_KEYS.search(k)}
 
 
 def cat_path(src):
@@ -483,7 +492,7 @@ def load_catalog(src):
     if p.exists():
         for line in p.read_text(encoding="utf-8").splitlines():
             if line.strip():
-                it = json.loads(line)
+                it = slim(json.loads(line))   # 옛 목록에 남은 인증키도 여기서 지워진다
                 cat[it[src.id_field]] = it
     return cat
 
@@ -609,29 +618,71 @@ def stored(src):
 
 # ---------------------------------------------------------------- 본문
 
+def body_size(pairs):
+    return sum(len(t) for k, t in pairs if len(t) > 80 or k in LONG_KEYS)
+
+
+THIN = 300          # 긴 칸 글자 수가 이보다 적으면 본문이 없다고 본다
+_THIN_SEEN = set()  # 자료 종류마다 처음 한 번만 칸 이름을 로그에 남긴다(원인 찾기용)
+
+
+def taxlaw_pairs(dcm):
+    return {"날짜": clean(dcm.get("ntstDcmRgtDt")), "번호": clean(dcm.get("ntstDcmDscmCntn"))}
+
+
 def fetch_one(src, item):
+    """본문 한 건을 받아 파일로. 목록에 날짜·번호가 없으면 본문에서 채운다."""
     id_ = item[src.id_field]
-    title = first(item, src.title_fields)
     origin = "국가법령정보센터 Open API"
-    if src.body == "law":
-        lines = render_fields(pairs_of(law_detail(src.target, id_)))
-    elif src.body == "prec":
-        try:
-            lines = render_fields(pairs_of(law_detail("prec", id_)))
-        except FetchError:
-            dcm, editors, url = taxlaw_doc(prec_ntst_id(id_))
-            lines = render_taxlaw(dcm, editors)
-            origin = f"국세법령정보시스템 {url}"
-    else:  # taxlaw
+    meta = {}
+    lines = None
+
+    def from_taxlaw(ntst):
+        dcm, editors, url = taxlaw_doc(ntst)
+        meta.update(taxlaw_pairs(dcm))
+        return render_taxlaw(dcm, editors), f"국세법령정보시스템 {url}"
+
+    if src.body == "taxlaw":
         m = NTST_RE.search(" ".join(v for k, v in item.items() if "링크" in k))
         if m:
-            dcm, editors, url = taxlaw_doc(m.group(1))
-            lines = render_taxlaw(dcm, editors)
-            origin = f"국세법령정보시스템 {url}"
+            lines, origin = from_taxlaw(m.group(1))
+    if lines is None:
+        try:
+            pairs = pairs_of(law_detail(src.target, id_))
+        except FetchError:
+            if src.body != "prec":
+                raise
+            pairs = []
+        for k, t in pairs:
+            meta.setdefault(k, t)
+        if body_size(pairs) >= THIN or src.current:   # 행정규칙은 짧은 것도 조문이 본문이다
+            lines = render_fields(pairs)
         else:
-            lines = render_fields(pairs_of(law_detail(src.target, id_)))
+            # 법제처 JSON에 본문이 없다 → 상세 화면(HTML)을 본다. 국세청 자료면 국세법령정보시스템으로
+            if src.folder not in _THIN_SEEN:
+                _THIN_SEEN.add(src.folder)
+                print(f"[본문 얇음] {src.folder} {id_}: JSON 칸 {[k for k, _ in pairs]} → 화면(HTML)으로 다시 봄")
+            ntst, page_text = html_view(src.target, id_)
+            if ntst:
+                lines, origin = from_taxlaw(ntst)
+            else:
+                lines = render_fields(pairs)
+                if len(re.sub(r"\s", "", page_text)) >= THIN:
+                    lines += ["", "【본문(상세 화면)】", page_text]
+                    origin = "국가법령정보센터 상세 화면"
+                else:
+                    lines += ["", "※ 본문 없음: 법제처가 제목·기본정보만 제공(원문은 조세심판원 등 기관 누리집에서 확인)"]
+    item = dict(item)
+    for f in src.date_fields:
+        if not src.date(item) and (meta.get(f) or meta.get("날짜")):
+            item[f] = meta.get(f) or meta.get("날짜")
+    for f in src.no_fields:
+        if not first(item, src.no_fields) and (meta.get(f) or meta.get("번호")):
+            item[f] = meta.get(f) or meta.get("번호")
+    title = first(item, src.title_fields)
     head = " | ".join(x for x in (src.folder, first(item, src.no_fields), src.date(item), title) if x)
     text = "\n".join([f"{head} | ID {id_}", f"출처: {origin} (scripts/fetch_refs.py 로 자동 수집)", ""] + lines)
+    text = OC_RE.sub(r"\1", text)
     path = src.path(item)
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_suffix(".tmp")
