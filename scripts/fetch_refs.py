@@ -398,7 +398,11 @@ class Source:
 
     def date(self, item):
         d = re.sub(r"\D", "", first(item, self.date_fields))
-        return d[:8] if len(d) >= 8 else ""
+        if len(d) >= 8:
+            return d[:8]
+        # 조세심판원은 결정일자를 안 준다 → 청구번호(국심1997광0600·조심2023서1234)의 연도로 대신(월일 0000)
+        m = re.search(r"(?<!\d)((?:19|20)\d{2})(?!\d)", first(item, self.no_fields))
+        return f"{m.group(1)}0000" if m else ""
 
     def path(self, item):
         id_ = item[self.id_field]
@@ -453,7 +457,7 @@ SOURCES = [
            body="taxlaw"),
     Source("해석_기재부", "moefCgmExpc", "법령해석일련번호", ("해석일자",), ("안건번호",), ("안건명",),
            body="taxlaw"),
-    Source("해석_행안부", "moisCgmExpc", "법령해석일련번호", ("해석일자",), ("안건번호",), ("안건명",),
+    Source("해석_행안부", "moisCgmExpc", "법령해석일련번호", ("해석일자", "등록일시"), ("안건번호",), ("안건명",),
            keep=keep_mois, need=("안건명",)),
     Source("행정규칙", "admrul", "행정규칙일련번호", ("발령일자", "시행일자"), ("발령번호",), ("행정규칙명",),
            keep=keep_admrul, current=True, need=("소관부처명", "행정규칙명")),
