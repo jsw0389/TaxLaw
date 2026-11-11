@@ -1,1 +1,54 @@
-{}
+{
+ "fails": {},
+ "scan": {
+  "조세심판원": {
+   "complete": false,
+   "page": 2,
+   "pages": 1414,
+   "per": 100,
+   "total": 141382
+  },
+  "판례": {
+   "complete": false,
+   "page": 338,
+   "pages": 1758,
+   "per": 100,
+   "total": 175726
+  },
+  "해석_국세청": {
+   "complete": false,
+   "page": 2,
+   "pages": 1366,
+   "per": 100,
+   "total": 136592
+  },
+  "해석_기재부": {
+   "complete": false,
+   "page": 2,
+   "pages": 24,
+   "per": 100,
+   "total": 2334
+  },
+  "해석_법제처": {
+   "complete": false,
+   "page": 2,
+   "pages": 90,
+   "per": 100,
+   "total": 8927
+  },
+  "해석_행안부": {
+   "complete": false,
+   "page": 2,
+   "pages": 42,
+   "per": 100,
+   "total": 4184
+  },
+  "헌재결정례": {
+   "complete": false,
+   "page": 2,
+   "pages": 388,
+   "per": 100,
+   "total": 38760
+  }
+ }
+}
