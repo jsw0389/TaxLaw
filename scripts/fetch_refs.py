@@ -34,6 +34,7 @@
 - REFS_ONLY: 쉼표로 고른 폴더만 받기(예: "판례,조세심판원"). 시험용
 - REFS_LIMIT: 자료 종류마다 받을 최대 건수. 시험용
 """
+import datetime
 import html
 import json
 import math
@@ -52,6 +53,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "refs"
 STATE = OUT / "_state.json"
+CATALOG = OUT / "_catalog"   # 자료 종류마다 고른 목록(JSONL). 목록을 매번 처음부터 훑지 않으려고 둔다
 # 주소를 바꾸는 환경변수는 모의 서버로 시험할 때만 쓴다
 BASE = os.environ.get("REFS_BASE", "https://www.law.go.kr/DRF")
 TAXLAW = os.environ.get("REFS_TAXLAW", "https://taxlaw.nts.go.kr")
@@ -59,7 +61,8 @@ OC = os.environ.get("LAW_OC", "").strip()
 BUDGET = float(os.environ.get("REFS_BUDGET_MIN", "200")) * 60
 ONLY = {s.strip() for s in os.environ.get("REFS_ONLY", "").split(",") if s.strip()}
 LIMIT = int(os.environ.get("REFS_LIMIT", "0") or 0)
-WORKERS = 4          # 동시 요청 수. 늘려도 상대 서버 응답이 병목이라 별로 안 빨라진다
+WORKERS = 8          # 동시 요청 수. 한 번 다녀오는 데 4~5초 걸려서(2026-11-11 실측) 나란히 보내야 한다
+LIST_SHARE = 0.5     # 시간 예산 가운데 목록 훑기에 쓸 수 있는 몫. 나머지는 본문 받기에 남긴다
 MAX_FAILS = 3        # 이만큼 실패한 건은 건너뛴다
 PAGE = 100           # 목록 한 쪽 건수(API 최대)
 STARTED = time.monotonic()
@@ -170,10 +173,10 @@ def law_url(endpoint, **params):
     return f"{BASE}/{endpoint}?" + urllib.parse.urlencode({"OC": OC, **params})
 
 
-def law_list_page(target, page):
+def law_list_page(target, page, **extra):
     """목록 한 쪽(XML). (전체 건수, 항목 목록[dict])"""
     body, _, _ = http(LAW_HOST, law_url("lawSearch.do", target=target, type="XML",
-                                        display=PAGE, page=page), label=f"{target} 목록 {page}쪽")
+                                        display=PAGE, page=page, **extra), label=f"{target} 목록 {page}쪽")
     try:
         root = ET.fromstring(body.strip())
     except ET.ParseError:
@@ -456,35 +459,138 @@ SOURCES = [
 
 
 # ---------------------------------------------------------------- 목록
+#
+# 전체 목록이 크다(판례 17만 5천 건, 한 쪽 100건에 4~5초). 매번 처음부터 훑으면 시간이 다 간다.
+# 그래서 고른 항목을 refs/_catalog/<자료>.jsonl 에 남기고,
+# - 처음에는 오래된 것부터(sort=dasc) 끝까지 훑되, 시간이 모자라면 다음 실행에 이어서 훑는다.
+# - 다 훑은 뒤에는 최신 것부터(sort=ddes) 저장된 가장 최근 날짜보다 60일 앞까지만 본다.
+# 행정규칙은 현행본만 두므로 매번 처음부터 다시 훑는다(건수가 적다).
 
-def scan(src):
-    """목록 전체를 훑어 세법 자료만 고른다. (항목 dict 목록, 목록이 완전한가)"""
-    total, items = law_list_page(src.target, 1)
-    if not items:
-        return [], total == 0
-    pages = math.ceil(total / len(items))
-    complete = True
-    with ThreadPoolExecutor(WORKERS) as pool:
-        futures = {pool.submit(law_list_page, src.target, p): p for p in range(2, pages + 1)}
-        for f in as_completed(futures):
-            try:
-                items += f.result()[1]
-            except FetchError as e:
-                complete = False
-                print(f"::warning::[{src.folder}] {e}")
+KEEP_KEYS = re.compile(r"일련번호|일자|번호|명$|링크")   # 목록에 남길 칸(본문 받기·파일 이름에 쓰는 것)
+
+
+def slim(item):
+    return {k: v for k, v in item.items() if v and KEEP_KEYS.search(k)}
+
+
+def cat_path(src):
+    return CATALOG / f"{src.folder}.jsonl"
+
+
+def load_catalog(src):
+    cat = {}
+    p = cat_path(src)
+    if p.exists():
+        for line in p.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                it = json.loads(line)
+                cat[it[src.id_field]] = it
+    return cat
+
+
+def save_catalog(src, cat):
+    CATALOG.mkdir(parents=True, exist_ok=True)
+    keys = sorted(cat, key=lambda k: (len(k), k))   # 일련번호 차례. 새 항목만 diff 에 생기게
+    lines = [json.dumps(cat[k], ensure_ascii=False, sort_keys=True) for k in keys]
+    cat_path(src).write_text("\n".join(lines) + ("\n" if lines else ""), encoding="utf-8")
+
+
+def list_time_left():
+    return STARTED + BUDGET * LIST_SHARE - time.monotonic()
+
+
+def check_fields(src, items):
     for field in src.need:
-        if not any(field in it for it in items):
-            print(f"::warning::[{src.folder}] 목록에 '{field}' 칸이 없음 → 고르기가 안 됨. "
-                  f"있는 칸: {sorted(items[0])}")
-    seen, picked = set(), []
+        if items and not any(field in it for it in items):
+            print(f"::warning::[{src.folder}] 목록에 '{field}' 칸이 없음 → 고르기가 안 됨. 있는 칸: {sorted(items[0])}")
+
+
+def add_items(src, cat, items):
+    n = 0
     for it in items:
-        id_ = it.get(src.id_field, "")
-        if id_ and id_ not in seen and src.keep(it):
-            seen.add(id_)
-            picked.append(it)
-    print(f"[목록] {src.folder}: 전체 {total}건 중 세법 자료 {len(picked)}건"
-          + ("" if complete else " (일부 쪽 실패)"))
-    return picked, complete
+        id_ = it.get(src.id_field)
+        if id_ and id_ not in cat and src.keep(it):
+            cat[id_] = slim(it)
+            n += 1
+    return n
+
+
+def full_scan(src, cat, st):
+    """오래된 것부터 끝까지. 다 못 하면 st['page']에 다음에 훑을 쪽을 남긴다. 새로 고른 건수를 돌려준다."""
+    extra = {"sort": "dasc"}
+    page = max(1, int(st.get("page", 1)))
+    total, items = law_list_page(src.target, page, **extra)
+    if not items:
+        st.update(complete=True, page=page)
+        return 0
+    if page == 1:
+        check_fields(src, items)
+    per = int(st.get("per") or len(items))   # 한 쪽 건수. 이어 훑을 때 마지막 쪽이 짧아도 첫 쪽 값을 쓴다
+    pages = max(1, math.ceil(total / per))
+    added = add_items(src, cat, items)
+    page += 1
+    batch = WORKERS * 3
+    while page <= pages and list_time_left() > 0:
+        todo = list(range(page, min(pages, page + batch - 1) + 1))
+        got = {}
+        with ThreadPoolExecutor(WORKERS) as pool:
+            futures = {pool.submit(law_list_page, src.target, p, **extra): p for p in todo}
+            for f in as_completed(futures):
+                try:
+                    got[futures[f]] = f.result()[1]
+                except FetchError as e:
+                    print(f"::warning::[{src.folder}] {e}")
+        for p in todo:            # 앞에서부터 이어진 쪽만 반영한다. 빠진 쪽이 있으면 거기서 다음에 다시
+            if p not in got:
+                break
+            added += add_items(src, cat, got[p])
+            page = p + 1
+        if page <= todo[-1]:
+            break
+    st.update(page=page, pages=pages, total=total, per=per, complete=page > pages)
+    if st["complete"]:
+        st["full_done"] = today()
+    print(f"[목록] {src.folder}: {min(page - 1, pages)}/{pages}쪽(전체 {total}건), 세법 자료 {len(cat)}건 (+{added})"
+          + ("" if st["complete"] else " — 다음 실행에 이어 훑음"))
+    return added
+
+
+def today():
+    return (datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=9)).strftime("%Y%m%d")
+
+
+RESCAN_DAYS = 28   # 최신 쪽만 보면 날짜가 예전인데 늦게 등록된 건을 놓친다. 이만큼 지나면 처음부터 다시 훑는다
+
+
+def days_before(yyyymmdd, n):
+    try:
+        d = datetime.date(int(yyyymmdd[:4]), int(yyyymmdd[4:6]), int(yyyymmdd[6:8]))
+    except ValueError:
+        return ""
+    return (d - datetime.timedelta(days=n)).strftime("%Y%m%d")
+
+
+def new_scan(src, cat, st):
+    """다 훑은 뒤: 최신 것부터. 저장된 가장 최근 날짜보다 60일 앞까지 내려가면 멈춘다(최대 50쪽)."""
+    newest = max((src.date(it) for it in cat.values()), default="")
+    stop = days_before(newest, 60) if newest else ""
+    added, p = 0, 0
+    for p in range(1, 51):
+        _, items = law_list_page(src.target, p, sort="ddes")
+        if not items:
+            break
+        dates = [src.date(it) for it in items if src.date(it)]
+        rising = sum(1 for a, b in zip(dates, dates[1:]) if a < b)
+        if p == 1 and len(dates) > 10 and rising > len(dates) // 10:
+            # 정렬이 안 먹는다 → 최신 몇 쪽만 보는 방법을 못 쓴다. 다음부터 처음부터 다시 훑는다
+            print(f"::warning::[{src.folder}] 최신순 정렬이 안 됨 → 다음 실행에 목록을 처음부터 다시 훑음")
+            st.update(complete=False, page=1)
+            break
+        added += add_items(src, cat, items)
+        if not stop or (dates and max(dates) < stop):
+            break
+    print(f"[목록] {src.folder}: 최신 {p}쪽 확인, 세법 자료 {len(cat)}건 (+{added})")
+    return added
 
 
 ID_RE = re.compile(r"_(\d+)\.txt$")
@@ -537,32 +643,41 @@ def fetch_one(src, item):
 # ---------------------------------------------------------------- 실행
 
 def load_state():
+    """{"fails": {자료: {ID: 실패 횟수}}, "scan": {자료: {page, pages, total, complete}}}"""
     try:
-        return json.loads(STATE.read_text(encoding="utf-8"))
+        state = json.loads(STATE.read_text(encoding="utf-8"))
     except (FileNotFoundError, json.JSONDecodeError):
-        return {}
+        state = {}
+    if "fails" not in state and "scan" not in state:   # 2026-11-11 첫 판의 모양({자료: {ID: 횟수}})
+        state = {"fails": state}
+    state.setdefault("fails", {})
+    state.setdefault("scan", {})
+    return state
 
 
 def save_state(state):
-    state = {k: dict(sorted(v.items())) for k, v in sorted(state.items()) if v}
-    STATE.write_text(json.dumps(state, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    out = {
+        "fails": {k: dict(sorted(v.items())) for k, v in sorted(state["fails"].items()) if v},
+        "scan": {k: dict(sorted(v.items())) for k, v in sorted(state["scan"].items()) if v},
+    }
+    STATE.write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
 
 def interleave(queues):
     """자료 종류마다 최근 것부터 줄 세운 것을 한 건씩 번갈아 섞는다."""
     out, i = [], 0
-    while any(queues):
+    longest = max((len(q) for q in queues), default=0)
+    while i < longest:
         for q in queues:
             if i < len(q):
                 out.append(q[i])
         i += 1
-        if all(i >= len(q) for q in queues):
-            break
     return out
 
 
 def write_readme(summary):
-    rows = [f"| {s['folder']} | {s['stored']} | {s['target']} | {s['left']} | {s['failed']} |" for s in summary]
+    rows = [f"| {s['folder']} | {s['stored']} | {s['target']} | {s['left']} | {s['failed']} | {s['scan']} |"
+            for s in summary]
     md = [
         "# 세법 판례·심판례·해석례·행정규칙 (자동 수집)",
         "",
@@ -574,23 +689,41 @@ def write_readme(summary):
         "- 파일 첫 줄: `자료 | 번호 | 날짜 | 제목 | ID`. 둘째 줄: 출처",
         "- 판례는 법제처 분류가 '세무'이거나 국세청 출처인 것. 헌재·법제처 해석은 사건명·안건명에 세목 낱말이 든 것",
         "- 국세청·기재부 해석과 국세청 출처 판례 본문은 국세법령정보시스템(taxlaw.nts.go.kr)에서 받았다",
-        "- 처음 모으는 동안은 '남음'이 0이 될 때까지 워크플로가 스스로 이어 받는다",
+        "- `_catalog/` 는 고른 목록(아직 본문을 안 받은 것 포함), `_state.json` 은 이어 받기 상태다",
+        "- 처음 모으는 동안은 '남음'이 0이 되고 목록을 다 훑을 때까지 워크플로가 스스로 이어 받는다",
         "",
-        "| 자료 | 저장 | 대상(목록) | 남음 | 3회 실패로 건너뜀 |",
-        "|---|---|---|---|---|",
+        "| 자료 | 저장 | 대상(고른 목록) | 남음 | 3회 실패로 건너뜀 | 목록 훑기 |",
+        "|---|---|---|---|---|---|",
     ] + rows
     (OUT / "README.md").write_text("\n".join(md) + "\n", encoding="utf-8")
 
 
-def old_summary():
-    rows = {}
-    f = OUT / "README.md"
-    if f.exists():
-        for line in f.read_text(encoding="utf-8").splitlines():
-            c = [x.strip() for x in line.strip().strip("|").split("|")]
-            if len(c) == 5 and c[1].isdigit():
-                rows[c[0]] = dict(folder=c[0], stored=c[1], target=c[2], left=c[3], failed=c[4])
-    return rows
+def update_catalog(src, cat, st):
+    """목록을 갱신한다. 새로 고른 것이 있거나 훑은 쪽이 늘었으면 True."""
+    if src.current:
+        # 현행본: 매번 처음부터. 다 훑었을 때만 목록을 갈아 끼우고, 현행이 아니게 된 파일을 지운다
+        fresh, s2 = {}, {}
+        full_scan(src, fresh, s2)
+        new = sum(1 for k in fresh if k not in cat)
+        if s2.get("complete") and fresh:
+            cat.clear()
+            cat.update(fresh)
+            for id_, path in stored(src).items():
+                if id_ not in cat:
+                    path.unlink()   # 폐지·개정으로 현행이 아니게 된 것. git 이력에는 남는다
+            st.update(complete=True, page=1)
+            return new > 0
+        for k, v in fresh.items():
+            cat.setdefault(k, v)
+        return new > 0
+    if st.get("complete") and st.get("full_done", "") < days_before(today(), RESCAN_DAYS):
+        print(f"[목록] {src.folder}: 마지막으로 다 훑은 지 {RESCAN_DAYS}일이 지나 처음부터 다시 훑음")
+        st.update(complete=False, page=1)
+    before = st.get("page", 1)
+    if st.get("complete"):
+        return new_scan(src, cat, st) > 0
+    added = full_scan(src, cat, st)
+    return added > 0 or st.get("page", 1) != before
 
 
 def main():
@@ -599,43 +732,31 @@ def main():
     OUT.mkdir(exist_ok=True)
     state = load_state()
     sources = [s for s in SOURCES if not ONLY or s.folder in ONLY]
-    queues, info, scanned, timed_out = [], {}, 0, False
+    queues, cats, listed, progressed = [], {}, 0, False
 
     for src in sources:
-        if over_budget():
-            print("::warning::목록을 다 훑기 전에 시간이 다 됨")
-            timed_out = True
-            break
-        try:
-            items, complete = scan(src)
-        except FetchError as e:
-            print(f"::warning::[{src.folder}] 목록 실패: {e}")
-            continue
-        scanned += 1
+        cat = load_catalog(src)
+        st = state["scan"].setdefault(src.folder, {})
+        if list_time_left() > 0 or not st:
+            try:
+                progressed |= update_catalog(src, cat, st)
+                listed += 1
+            except FetchError as e:
+                print(f"::warning::[{src.folder}] 목록 실패: {e}")
+            save_catalog(src, cat)
+        else:
+            print(f"[목록] {src.folder}: 목록 몫의 시간이 다 돼 이번에는 건너뜀")
+        cats[src.folder] = cat
         have = stored(src)
-        fails = state.setdefault(src.folder, {})
-        pending = []
-        if src.current:
-            # 현행본: 이름이 같은데 일련번호가 바뀌었으면(개정) 옛 파일을 지우고 새로 받는다
-            want = {it[src.id_field] for it in items}
-            for id_, p in have.items():
-                if id_ not in want and complete and items:
-                    p.unlink()   # 폐지·개정으로 현행이 아니게 된 것. git 이력에는 남는다
-            have = {k: v for k, v in have.items() if k in want}
-        for it in items:
-            id_ = it[src.id_field]
-            if id_ not in have and fails.get(id_, 0) < MAX_FAILS:
-                pending.append(it)
+        fails = state["fails"].setdefault(src.folder, {})
+        pending = [it for id_, it in cat.items() if id_ not in have and fails.get(id_, 0) < MAX_FAILS]
         pending.sort(key=src.date, reverse=True)
         if LIMIT:
             pending = pending[:LIMIT]
         queues.append([(src, it) for it in pending])
-        info[src.folder] = dict(folder=src.folder, target=len(items), have=len(have),
-                                skipped=sum(1 for it in items if it[src.id_field] not in have
-                                            and fails.get(it[src.id_field], 0) >= MAX_FAILS))
-        print(f"[대기] {src.folder}: 저장 {len(have)}건, 이번에 받을 것 {len(pending)}건")
+        print(f"[대기] {src.folder}: 목록 {len(cat)}건, 저장 {len(have)}건, 이번에 받을 것 {len(pending)}건")
 
-    if sources and not scanned and not timed_out:
+    if sources and not listed and not any(cats.values()):
         sys.exit("[오류] 모든 목록을 못 받음 (인증키·IP 등록·서버 상태 확인). refs/ 는 바꾸지 않음")
 
     tasks = interleave(queues)
@@ -659,41 +780,44 @@ def main():
                 continue
             except Exception as e:   # 한 건 실패는 기록만 하고 계속
                 with lock:
-                    n = state[src.folder].get(id_, 0) + 1
-                    state[src.folder][id_] = n
+                    n = state["fails"][src.folder].get(id_, 0) + 1
+                    state["fails"][src.folder][id_] = n
                 if n >= MAX_FAILS:
                     print(f"::warning::[{src.folder}] {id_} {MAX_FAILS}회 실패로 건너뜀: {e}")
                 continue
             with lock:
-                state[src.folder].pop(id_, None)
+                state["fails"][src.folder].pop(id_, None)
                 done[src.folder] += 1
                 fetched += 1
                 if fetched % 500 == 0:
                     mins = (time.monotonic() - STARTED) / 60
                     print(f"[진행] {fetched}건 받음 ({mins:.0f}분)")
 
-    prev = old_summary()
     summary, remaining = [], 0
     for src in SOURCES:
-        if src.folder in info:
-            i = info[src.folder]
-            have = len(stored(src))
-            fails = state.get(src.folder, {})
-            failed = sum(1 for v in fails.values() if v >= MAX_FAILS)
-            left = max(0, i["target"] - have - failed)
-            remaining += left
-            summary.append(dict(folder=src.folder, stored=have, target=i["target"], left=left, failed=failed))
-            print(f"[완료] {src.folder}: 이번 {done.get(src.folder, 0)}건, 저장 {have}/{i['target']}, 남음 {left}")
-        elif src.folder in prev:
-            summary.append(prev[src.folder])
-            remaining += int(prev[src.folder]["left"] or 0) if src in sources else 0
+        cat = cats.get(src.folder)
+        if cat is None:
+            cat = load_catalog(src)
+        st = state["scan"].get(src.folder, {})
+        have = len(stored(src))
+        fails = state["fails"].get(src.folder, {})
+        failed = sum(1 for v in fails.values() if v >= MAX_FAILS)
+        left = max(0, len(cat) - have - failed)
+        scan_txt = "완료" if st.get("complete") else (f"{st.get('page', 1) - 1}/{st['pages']}쪽" if st.get("pages") else "시작 전")
+        if src in sources:
+            # 목록을 덜 훑었으면 남은 게 있다고 친다(행정규칙은 매번 새로 훑으므로 빼고)
+            remaining += left + (0 if st.get("complete") or src.current else 1)
+        summary.append(dict(folder=src.folder, stored=have, target=len(cat), left=left, failed=failed, scan=scan_txt))
+        if src in sources:
+            print(f"[완료] {src.folder}: 이번 {done.get(src.folder, 0)}건, 저장 {have}/{len(cat)}, 남음 {left}, 목록 {scan_txt}")
     save_state(state)
     write_readme(summary)
 
+    progress = 1 if fetched or progressed else 0
     out = os.environ.get("GITHUB_OUTPUT")
     if out:
         with open(out, "a", encoding="utf-8") as fh:
-            fh.write(f"fetched={fetched}\nremaining={remaining}\n")
+            fh.write(f"fetched={fetched}\nremaining={remaining}\nprogress={progress}\n")
     print(f"[요약] 이번에 {fetched}건 받음, 남은 것 {remaining}건, "
           f"{(time.monotonic() - STARTED) / 60:.0f}분 걸림")
 
