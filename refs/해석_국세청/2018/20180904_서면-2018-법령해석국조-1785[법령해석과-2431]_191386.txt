@@ -1,0 +1,104 @@
+해석_국세청 | 서면-2018-법령해석국조-1785[법령해석과-2431] | 20180904 | 인도거주자가 제공한 독립적 인적용역에 대하여 국내에서 과세할 수 있는지 여부 | ID 191386
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000344962 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 인도거주자가 제공한 독립적 인적용역에 대하여 국내에서 과세할 수 있는지 여부
+문서번호: 서면-2018-법령해석국조-1785
+회신번호: 법령해석과-2431
+생산일자: 20180904
+
+【요지】
+인도 거주자가 용역사업계약을 체결하고 계약기간동안 국내에서 예비적ㆍ보조적 활동이 아닌 사업의 본질적이고 중요한 업무를 수행하는 경우 동 업무수행장소는 「소득세법」 제120조 및 「한ㆍ인도 조세조약」 제5조에 따른 고정사업장에 해당함.
+
+【회신】
+귀 서면질의의 경우 인도 거주자가 독립된 자격으로 내국법인과 소프트웨어 체계 구축 관련 프로젝트 용역사업계약을 체결하고 계약기간동안 국내에서 예비적․보조적 활동이 아닌 사업의 본질적이고 중요한 업무를 수행하는 경우 동 업무수행장소는 「소득세법」 제120조 및 「한․인도 조세조약」 제5조에 따른 고정사업장에 해당하며 이때 인도 거주자가 지급받는 용역대가는 「한․인도 조세조약」 제14조에 따라 국내에서 과세되는 것입니다.
+
+【본문】
+1. 사실관계
+
+○ 내국법인 갑은 인도의 거주자 A와 다음과 같이 S/W 체계 구축 관련 용역계약을 체결하였음
+
+- 인도인의 인적용역 제공 예정기간은 약 90일～180일임
+
+- 인도인은 별도의 법인에 소속되어 있지 않으며 개인자격으로 용역을 제공함
+
+- 인도인은 질의법인의 사무실 중 파티션으로 구분된 공간을 사무실로 사용할 예정임
+
+2. 질의내용
+
+○ 인도 거주자가 내국법인과 체결한 용역계약에 따라 국내에서 독립적 인적용역을 제공하는 경우 해당 용역수행 장소를 고정사업장으로 보아 독립적 인적용역소득에 대하여 국내에서 과세할 수 있는지 여부
+
+3. 관련법령
+
+○ 소득세법 제119조【비거주자의 국내원천소득】
+
+비거주자의 국내원천소득은 다음 각 호와 같이 구분한다.
+
+6. 국내에서 대통령령으로 정하는 인적용역을 제공함으로써 발생하는 소득(국외에서 제공하는 인적용역 중 대통령령으로 정하는 용역을 제공함으로써 발생하는 소득이 조세조약에 따라 국내에서 발생하는 것으로 간주되는 경우 그 소득을 포함한다). 이 경우 그 인적용역을 제공받는 자가 인적용역 제공과 관련하여 항공료 등 대통령령으로 정하는 비용을 부담하는 경우에는 그 비용을 제외한 금액을 말한다.
+
+○ 소득세법 시행령 제179 조【비거주자의 국내원천소득의 범위 】
+
+⑥ 법 제119조제6호 전단에서"대통령령으로 정하는 인적용역"이란 다음 각 호의 어느 하나에 해당하는 용역을 말하고, "국외에서 제공하는 인적용역 중 대통령령으로 정하는 용역"이란 국외에서 제공하는 제2호에 해당하는 용역을 말한다.
+
+1. 변호사·공인회계사·세무사·건축사·측량사·변리사 기타 이와 유사한 전문직업인이 제공하는 용역
+
+2. 과학기술·경영관리 기타 이와 유사한 분야에 관한 전문적 지식 또는 특별한 기능을 가진 자가 당해 지식 또는 기능을 활용하여 제공하는 용역
+
+3. 직업운동가가 제공하는 용역
+
+4. 배우·음악가 기타 연예인이 제공하는 용역
+
+○ 소득세법 제120조 【비거주자의 국내사업장】
+
+① 비거주자가 국내에 사업의 전부 또는 일부를 수행하는 고정된 장소를 가지고 있는 경우에는 국내사업장이 있는 것으로 한다.
+
+② 제1항에서 규정하는 국내사업장에는 다음 각 호의 어느 하나에 해당하는 장소를 포함하는 것으로 한다.
+
+1. 지점, 사무소 또는 영업소
+
+2. 상점이나 그 밖의 고정된 판매장소
+
+3. 작업장, 공장 또는 창고
+
+4. 6개월을 초과하여 존속하는 건축 장소, 건설·조립·설치공사의 현장 또는 이와 관련된 감독을 하는 장소
+
+5. 고용인을 통하여 용역을 제공하는 장소로서 다음 각 목의 어느 하나에 해당하는 장소
+
+가. 용역이 계속 제공되는 12개월 중 합계 6개월을 초과하는 기간 동안 용역이 수행되는 장소
+
+나. 용역이 계속 제공되는 12개월 중 합계 6개월을 초과하지 아니하는 경우로서 유사한 종류의 용역이 2년 이상 계속적·반복적으로 수행되는 장소
+
+6. 광산·채석장 또는 해저천연자원이나 그 밖의 천연자원의 탐사 장소 및 채취 장소[국제법에 따라 우리나라가 영해 밖에서 주권을 행사하는 지역으로서 우리나라의 연안에 인접한 해저지역의 해상과 하층토(下層土)에 있는 것을 포함한다]
+
+○ 소득세법 제121조 【비거주자에 대한 과세방법】
+
+② 국내사업장이 있는 비거주자와 제119조제3호에 따른 소득이 있는 비거주자에 대해서는 제119조제1호부터 제7호까지, 제8호의2 및 제10호부터 제12호까지의 소득(제156조제1항 및 제156조의3부터 제156조의6까지의 규정에 따라 원천징수되는 소득은 제외한다)을 종합하여 과세하고, 제119조제8호 및 제9호에 따른 소득이 있는 비거주자에 대해서는 거주자와 같은 방법으로 분류하여 과세한다. 다만, 제119조제9호에 따른 소득이 있는 비거주자로서 대통령령으로 정하는 비거주자에 게 과세할 경우에 제89조제1항제3호 및 제95조제2항 표 외의 부분 단서는 적용하지 아니한다.
+
+○ 한·인도 조세조약 제5조 【고정사업장】
+
+1. 이 협정의 목적상, “고정사업장”이란 기업의 사업이 전적으로 또는 부분적으로 수행되는 고정된 사업장소를 말한다.
+
+3. “고정사업장”이란 또한 다음을 포함한다.
+
+가. 건축현장이나 건설, 설치 또는 조립 공사 또는 그와 관련된 감독 활동. 다만, 그러한 현장, 공사 또는 활동이 183일을 초과하여 존속하는 경우에 한정한다.
+
+나. 기업이, 피고용인 또는 자문용역을 포함하여, 용역을 제공할 목적으로 기업에 고용된 그 밖의 인력을 통하여 그러한 용역을 제공하는 경우. 그러나 그러한 성격의 활동이 (동일하거나 관련된 공사를 위하여) 그 국가 내에서 어느 12개월의 기간 이내에 단일기간 또는 통산한 기간으로 183일을 초과하여 지속되는 경우에 한정한다.
+
+○ 한·인도 조세조약 제14조 【독립적 인적용역】
+
+1. 한쪽 체약국의 거주자가 전문직업적 용역 또는 그 밖의 유사한 성격의 독립적 활동으로부터 얻는 소득에 대해서는 그러한 소득이 다른 쪽 체약국에서도 과세될 수 있는 다음의 경우를 제외하고 그 한쪽 체약국에서만 과세한다.
+
+가. 그 거주자가 자신의 활동을 수행할 목적으로 다른 쪽 체약국에 정기적으로 이용할 수 있는 고정시설을 가지고 있는 경우. 그러한 경우에는 그 고정시설에 귀속시킬 수 있는 소득에 대해서만 그 다른 쪽 국가에서 과세할 수 있다. 또는
+
+나. 그 거주자가 어느 12개월의 기간 중 총 183일 이상의 단일기간 또는 통산한 기간 동안 다른 쪽 체약국에 체재하는 경우. 그러한 경우에는 그 다른 쪽 국가에서 수행한 그의 활동으로부터 취득하는 소득에 대해서만 그 다른 쪽 국가에서 과세할 수 있다.
+
+○ OECD모델조세조약 제5조에 대한 주석서 2
+
+Before 2000, income from professional services and other activities of an independent character was dealt under a separate Article, i.e. Article 14. The provisions of that Article were similar to those applicable to business profits but it used the concept of fixed base rather than that of permanent establishment since it had originally been thought that the latter concept should be reserved to commercial and industrial activities. The elimination of Article 14 in 2000 reflected the fact that there were no intended differences between the concepts of permanent establishment, as used in Article 7, and fixed base, as used in Article 14, or between how profits were computed and tax was calculated according to which of Article 7 or 14 applied. The elimination of Article 14 therefore meant that the definition of permanent establishment became applicable to what previously constituted a fixed base.
+
+과거 2000년도 이전에는 전문 용역 및 기타 독립적 성격의 활동으로부터의 이윤은 별개의 조문(즉, 제14조)에서 다루어지고 있었다. 그 조문의 조항은 사업이윤에 적용되는 조문과 유사하나, 고정사업장의 개념이 아닌 고정적 시설의 개념을 적용하고 있었다. 이는 당초 고정사업장의 개념은 상업상 및 산업상의 활동에만 적용 가능한 것으로 해석되었기 때문이다. 2000년에 제14조를 삭제함으로써 제7조에 사용된 고정사업장의 개념과 제14조의 적용에 따라 이윤 및 조세의 산정방법에 차이가 존재하지 않는다는 점을 반영하고 있다. 이런 연유로 제14조의 삭제는 종래 고정적 시설을 구성하고 있던 것에 대하여 고정사업장의 정의를 적용하는 것이 가능하게 되었다는 것을 의미한다.
+
+○ OECD모델조세조약 제5조에 대한 주석서 28
+
+Since the place of business must be fixed, it also follows that a permanent establishment can be deemed to exist only if the place of business has a certain degree of permanency, i.e. if it is not of a purely temporary nature. A place of business may, however, constitute a permanent establishment even though it exists, in practice, only for a very short period of time because the nature of the business is such that it will only be carried on for that short period of time. It is sometimes difficult to determine whether this is the case. Whilst the practices followed by member countries have not been consistent in so far as time requirements are concerned, experience has shown that permanent establishments normally have not been considered to exist in situations where a business had been carried on in a country through a place of business that was maintained for less than six months (conversely, practice shows that there were many cases where a permanent establishment has been considered to exist where the place of business was maintained for a period longer than six months). One exception has been where the activities were of a recurrent nature; in such cases, each period of time during which the place is used needs to be considered in combination with the number of times during which that place is used (which may extend over a number of years). 이하생략
+
+사업을 행하는 장소는 일정하여야 하므로 고정사업장은 사업을 행하는 장소가 어느 정도의 고정성을 갖고 있는 경우, 즉, 단순히 일시적인 성질의 것이 아닌 경우에만 존재하는 것으로 볼 수 있다. 그러나, 사업을 행하는 장소는 실제 매우 단기간만 존재하는 경우에 있어서도, 고정사업장은 있다. 사업의 성질이 단기간 내에만 행하여지는 것인 경우이다. 동 내용의 타당성 여부는 간혹 결정하기 곤란한 경우가 있다. 각 회원국의 기간 요건에 관한 실무상 관행이 일관되지 않았던 반면, 경험적으로 봤을 때 통상 사업이 특정 국가에서 6개월도 유지되지 않은 장소를 통하여 행해진 경우에는 고정사업장은 존재하지 않는다는 점을 시사하여왔다(반대로, 실무관행은 사업의 장소가 6개월 이상 유지되고 있는 경우에는 고정사업장이 존재한다고 다수의 사례가 존재하는 점을 나타내고 있다). 이하생략

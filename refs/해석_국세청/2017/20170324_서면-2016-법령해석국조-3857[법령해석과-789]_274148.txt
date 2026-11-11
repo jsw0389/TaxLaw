@@ -1,0 +1,32 @@
+해석_국세청 | 서면-2016-법령해석국조-3857[법령해석과-789] | 20170324 | 한·프랑스 조세조약상 교직자 등 면세조항에 대한 해석 | ID 274148
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000224753 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 한·프랑스 조세조약상 교직자 등 면세조항에 대한 해석
+문서번호: 서면-2016-법령해석국조-3857
+회신번호: 법령해석과-789
+생산일자: 20170324
+
+【요지】
+프랑스 거주자가 강의나 연구 목적으로 국내에 2년을 초과하여 근로계약을 체결한 경우에도 해당 계약기간 중 최초 2년의 보수는 「한·프랑스 조세조약」제21조 규정에 따라 면세 적용됨
+
+【회신】
+귀 서면질의의 경우 [기획재정부 국제조세협력과-168, 2017.3.20.]을 참조하시기 바랍니다.
+[기획재정부 국제조세협력과-168, 2017.3.20.]
+프랑스 거주자가 강의나 연구 목적으로 우리나라에서 2년을 초과하여 근로계약을 체결한 경우에도 해당 계약기간 중 최초 2년의 보수는 「한·프랑스 조세협약」제21조 규정에 따라 면세되는 것입니다. 끝.
+
+【본문】
+1. 사실관계
+
+○ 프랑스 국적 교수가 프랑스에서 국내 교육기관으로 이직하면서 4년간 근로계약을 체결함
+
+3. 관련법령
+
+○ 한․프랑스 조세조약 제21조【교직자 및 연구원】[1981.01.17]
+
+1. 일방국을 방문할 당시 또는 그 직전에 타방국의 거주자이거나 거주자이었으면서 강의나 연구에 종사할 목적으로 동 일방국에 체재하는 교직자나 연구원은 이와 같은 활동과 관련한 보수에 대하여 2년을 초과하지 아니하는 기간동안 동 일방국의 조세로부터 면제된다.
+
+2. 본조는 이와 같은 연구가 공공의 이익을 위한 것이 아니라 일차적으로 특정의 인 또는 그 이상의 인의 사적 이익을 위하여 수행되는 경우에는 동 연구로부터 받는 소득에 대하여 적용되지 아니한다.
+
+1. A teacher or a researcher who is or was immediately before visiting a State a resident of the other State, and who is present in the first mentioned State for the purpose of teaching or engaging in research shall be exempt from tax in that State for a period not exceeding two years on remuneration in respect of such activities.
+
+2. This article shall not apply to income from research if such research is undertaken not in the public interest but primarily for the private benefit of a specific person or persons.

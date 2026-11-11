@@ -1,0 +1,86 @@
+조세심판원 | 조심 2018서1812 | 20240411 | 청구법인이 페루 소재 법인 발행주식을 양도하고 그 양도소득에 대하여 페루 과세당국에 납부한 쟁점세액과 관련하여, 한-페루 조세조약에 따라 적정하게 납부된 세액이 아니라고 보아 외국납부세액 이월공제 대상액에서 감액경정한 처분의 당부 | ID 982238
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+
+【재결요지】
+청구법인이 제출한 증빙 등으로는 재무상태표상 운송시스템과 플랜트 등이 부동산에 해당하는지 여부가 불분명하므로 부동산이 확인되는 자산을 제외한 나머지 자산들로 산정한 비율이 50% 미만에 해당하는 것으로 판단됨
+
+【이유】
+1. 처분개요가. 청구법인은 원유 및 천연가스의 탐사·개발·생산 사업을 영위하고 있는 법인으로 2000년경 페루공화국(이하 “페루”라 한다)의 가스 수송법인 AAA(이하 “AAA-사”라 한다) 발행주식 23,310,050주(지분율 11.19%로 이하 “이 건 주식”이라 한다)를 취득하였다가 2015.7.7. OOO달러(USD)에 매각하였고, 관련 양도소득에 대하여 2015.8.17. 페루 과세당국(이하 “BBB”이라 한다)에 법인소득세 OOO원(이하 “쟁점세액” 이라 합니다)을 신고·납부한 후, 2015사업연도 법인세 신고 시 외국납부세액 미공제 잔액에 쟁점세액을 포함하여 신고하였다.나. 서울지방국세청장은 2017.5.29.부터 2017.9.1.까지 청구법인의 2012∼2013사업연도에 대한 법인통합조사를 실시한 결과, 청구법인이 페루에 신고·납부한 쟁점세액은「대한민국과 페루공화국 간의 소득에 대한 조세의 이중과세 방지와 탈세 예방을 위한 협약」(이하 “한-페루 조세조약”이라 한다)에 따라 적정하게 납부한 세액이 아니므로「법인세법」 제57조에 따른 외국납부세액공제의 적용대상이 아니라고 보아 2017.10.17. 쟁점세액을 제외하여 외국납부세액 미공제 잔액을 감액경정하는 내용 등의 세무조사 결과를 청구법인에 통지하였다.다. 청구법인은 이에 불복하여 2018.1.8. 심판청구를 제기하였다.2. 청구법인 주장 및 처분청 의견가. 청구법인 주장(1) 현행 한-페루 조세조약 및 관련 법령 등에 따르면 이 건 주식의 양도와 관련한 법인소득세를 페루에서 납부하여야 한다.(가) 한-페루 조세조약 제13조는 자산가치의 50%를 초과하는 부분이 "부동산"으로 이루어진 자산의 양도소득은 법인 소재지국에서 과세하도록 되어 있고, 같은 조약 6조에서는 "부동산"의 정의는 소재지국 국내법에 따른다고 규정하고 있으며, 페루 세법은 "부동산"의 정의 또는 범위가 규정되어 있지 않으나, 페루 민법(Civil Code) 제885조(immovable,부동산)에는 Concessions of public services(공공서비스 제공에 관한 권리)를 명확하게 부동산으로 규정하고 있다.(나) AAA-사는 페루 정부로부터 천연가스 운송권을 무상으로 부여받았는데, 이것은 페루 민법에서 부동산으로 규정하는 concession에 해당하고, 「가스관을 통한 탄화수소 운송에 관한 법률」에 따르면 파이프라인 등 설비를 수송시스템(Transportation System)이라고 정의(Concession 기간 만료시 국가에 반납해야 한다고 규정)하면서, 수송시스템(Transportation system)은 Concession Assets이라고 규정하고 있는바, 결국 AAA-사가 보유한 파이프라인, 가압펌프, 펌프스테이션 등 설비는 부동산으로 분류되는 Concession자산이라는 결론이 도출되므로 AAA-사는 보유 자산 중 부동산이 차지하는 비율은 50%를 초과하여 페루에서 과세권이 있다.(2) 페루 과세관청이 적정하게 납부해야 할 법인소득세라고 두 차례나 공적으로 의사표명한 것을 처분청이 부적정하다고 판단하는 것은 부당하다.(가) 청구법인은 사전에 BBB로부터 법인소득세 납부대상이라는 권고를 받았고, 외부 전문가인 CCC 법무법인으로부터도 같은 내용의 자문을 받아 쟁점세액을 납부하였는바, 앞서 살펴본 바와 같이 한-페루 조세조약 및 현지 법률(세법, 민법, 탄화수소 운송에 관한 법률)에 따르면 청구법인이 쟁점세액을 페루에 납부한 것은 잘못이 없다.(나) 또한 청구법인은 쟁점세액의 환급을 요구하는 경정청구를 페루 과세당국에 제기하였으나 거부통지를 받았고, 이에 대한 불복청구 역시 기각결정을 받았는바, 조세조약 상대국의 결정 또한 존중되어야 하는 것이고, 국외원천소득이 있는 납세자의 입장에서는 이 건과 같이 조세조약 체결국이 서로 자국에 과세권이 있다고 주장하게 되는 경우 국제적 이중과세의 불이익을 받게 된다.나. 처분청 의견(1) AAA-사 보유 자산 중 부동산이 차지하는 비율은 50% 미만이므로 청구법인의 AAA-사 주식 매각에 따른 소득은 한-페루 조세조약 제13조 4항에 따라 부동산 소재 체약국(페루)에서에서 과세될 수 없다.(가) 청구법인은 AAA-사 재무제표상 토지·건물, 운송시스템, 플랜트 및 설비 등 전체 유형자산을 “부동산”으로 분류하여 부동산 비율(64.11%)를 산정하였으나, 페루 민법상 운송시스템, 플랜트 및 설비는 부동산으로 열거되어 있지 아니하고, 부동산으로 열거되지 않은 자산은 동산으로 간주되는 것이며, 페루의「가스관을 통한 탄화수소에 관한 법률」에서 운송시스템(Transport system)은 동산 및 부동산(movable and immovable property)으로 구성된 기능적인 시스템이라고 명확하게 규정되어 있다. Supreme Decree No.041-99-EM(Transport of Hydrocarbons through pipelines regulations(가스관을 통한 탄화수소 운송에 관한 법률)
+2.34. Transport system : Certain set of movable and immovable property, and in general all pipelines, construction works, equipment and facilities required for the Transport of Hydrocarbons. They will be used by the Concessionaire under the terms of their Contract with the Peruvian State
+
+(나) 압착플랜트, 파이프라인 내부검사설비, 안정성 공장, 공정진행공장 또한 페루민법 제885조및 886조에 따르면 부동산이 아닌 동산으로 분류되어 있는바, AAA-사의 유형자산 중 토지와 건물을 제외한 기타 자산들은 동산 또는 부동산으로 분류될 수 있고, 이 경우 부동산비율이 50% 미만(17.9%∼43.2%)에 해당하므로 한-페루 조세조약 제13조 4항에 따라 부동산 소재 체약국(페루)에서 과세될 수 없다.(2) 페루민법 제885조(immovable, 부동산)은 Concessions of public service(공공서비스 제공에 관한 권리)를 부동산으로 분류하고 있으나, AAA-사의 개별 자산들은 이에 해당되지 않는다.(가) 청구법인은 파이프라인, 압착플랜트 등의 자산들이 동산이지만, 이들 개별 자산들이 페루의「가스관을 통한 탄화수소에 관한 법률」에서 수송시스템으로 규정되어 있고, 수송시스템과 사업허가권이 양허자산(Asset of Concession)으로 규정되어 있으므로 개별자산(동산) 역시 페루민법 제885조에 열거된 Concessions of public service(공공서비스 제공에 관한 권리)로 분류되어야 함을 주장하나, 개별자산(동산)을 수송시스템으로 규정하고 양허자산(Asset of Concession)으로 분류한 것은 공공사업의 특성상 사업이 차질 없이 진행되도록 하기 위한 목적에서 개별 조항으로 규정한 것일 뿐, 가스관이나 기타 설비가 부동산에 해당하는지 여부는 이와 별개로 판단하여야 하고, 페루 민법상 가스관이나 기타 설비를 부동산으로 보는 규정이 없는 한, 사업 허가권을 제외한 파이프라인, 압착플랜트 등의 개별 자산들은 동산으로 분류하여야 한다.(나) 청구법인이 이 건 주식을 취득할 당시 계약서를 보면 파이프라인, 압착플랜트 등의 개별 자산들은 페루민법 제886조(movable, 동산)에 따른 동산으로 규정되어 있다. Concession Asset
+According to their nature, the pipelines, equipment and accessories located at the pumping and regulating stations are movable property, in accordance with Article 886 of the Civil Code.
+
+(다) 페루세법 제9조는 재산, 토지 및 이와 관련된 권리(properties, lands and the rights related thereto)의 양도를 과세대상으로 열거하고 있을 뿐, 부동산에 대한 정의가 규정되어 있지 않는바, (페루 민법에 부동산과 동산이 열거되어 있음), 페루 거주자에게 과세하지 않는 법인소득세를 한-페루 조세조약에 근거하여 비거주자에게만 과세하는 것은 조세형평에 어긋난다.3. 심리 및 판단가. 쟁점청구법인이 페루에 납부한 법인소득세를 외국납부세액공제 대상이 아니라고 보아 외국납부세액 미공제 잔액을 감액경정한 처분의 당부나. 관련 법령 등 : ＜별지＞ 기재다. 사실관계 및 판단(1) 청구법인과 처분청이 제출한 심리자료에서 다음과 같은 내용이 확인된다.(가) AAA-사는 페루 아마존 정글에 있는 88광구 등에서 생산한 천연가스를 총 1,293km의 송유관 설비를 통해 Lima시 등으로 수송하는 사업을 영위하는 회사로, 천연가스 운송시스템, 파이프라인, 가압펌프 등이 주요 자산으로 확인되고, 청구법인은 2000년경 취득한 이 건 주식(지분율 11.19%)을 2015.7.7. 스페인의 DDD사(3.94%)와 캐나다의 EEE사(7.25%)에게 나누어 매각하였다.(나) 청구법인은 페루 현지 법무법인(CCC)으로부터 이 건 주식의 양도와 관련한 법인소득세를 한-페루 조세조약 제13조 제3항에 따라 페루에 납부하여 한다는 자문을 받았고, 이에 따라 2015.8.17. 쟁점세액을 페루 과세당국(BBB)에 신고·납부하였으나, 이후 페루 현지 회계법인 FFF의 경정청구 제안에 따라 2015.11.25. BBB에게 쟁점세액의 환급을 구하는 경정청구를 하였고, BBB은 2016.3.21. 청구법인에게 경정청구 거부통지를 하였는바, 청구법인의 경정청구 취지는 AAA-사 전체 자산 중 부동산이 차지하는 비중이 50%를 초과하지 않으므로 한-페루 조세조약 제13조 6항에 따라 청구법인의 거주지국인 대한민국에서 과세되어야 한다는 것이나, BBB은 AAA-사의 전체 자산 중 부동산이 차지하는 비중이 50%를 초과하므로 한-페루 조세조약 제13조 4항에 따라 부동산 소재지국인 페루에서 과세되어야 한다고 보았다.(다) 처분청은 청구법인에 대한 법인통합조사를 실시하여, 2017.10.10. 이 건 주식 양도소득은 거주지국인 우리나라에서 과세되어야 한다고 보아 쟁점세액을 감액경정하는 내용의 세무조사 결과를 청구법인에게 통지하였는바, 청구법인과 처분청 간 AAA-사 보유 자산에 대한 부동산 분류기준의 차이는 아래 ＜표1＞과 같고, 청구법인은 2017.10.26. 이중과세 해소를 위한 우리나라 국세청과 페루 과세당국 간의 상호합의를 신청하였고, 우리나라 국세청은 2017.12.27. BBB에 상호합의 개시를 요청하였으며, 현재 페루 당국과 협의가 진행 중에 있다.＜표1＞ 청구법인과 처분청 간 부동산 분류기준의 차이ㅇㅇㅇ(라) 청구법인의 외국납부세액 공제 신고내역을 보면, 청구법인이 2015사업연도 신고한 외국납부세액공제 명세서에 기재된 페루의 외국납부세액 발생액 및 공제액의 내역은 아래 ＜표2＞와 같고, 2015사업연도 산출세액에서 공제된 외국납부세액공제액 OOO원은 2012년도 및 2013년도 발생분이 이월된 금액으로 쟁점세액은 2015사업연도에 공제되지 못하였고, 현재까지도 전액 이월되어 남아 있는 것으로 확인된다.＜표2＞ 청구법인의 2015사업연도 페루 외국납부세액공제 명세서 내역ㅇㅇㅇ(2) 이상의 사실관계 및 관련 법령 등을 종합하여 살피건대, 청구법인은 AAA-사 전체 자산 중 부동산이 차지하는 비율이 50%를 초과하는바, 한-페루 조세조약 제13조 4항에 따라 이 건 주식의 양도차익과 관련한 쟁점세액이 부동산 소재지국인 페루에서 과세되어야 한다고 주장하나,청구법인이 제출한 페루 과세당국(BBB)의 환급거부 통지문 등의 자료만으로는 AAA-사 전체 자산 중 부동산이 차지하는 비율이 50%를 초과하는지 여부가 객관적으로 입증된다고 보기 어려운 점, 청구법인은 AAA-사 재무상태표상 토지·건물, 운송시스템, 플랜트 및 설비 등 전체 유형자산을 부동산으로 분류하여 부동산 비율(64.11%)를 산정한 것으로 보이나, 페루 민법상 운송시스템, 플랜트 및 설비는 부동산으로 열거되어 있지 아니하고, 부동산으로 열거되지 않은 자산의 경우 동산으로 간주되는 것으로 나타나며, 페루의「가스관을 통한 탄화수소에 관한 법률」에서 운송시스템(Transport system)은 동산 및 부동산(movable and immovable property)으로 구성된 기능적인 시스템이라고 규정되어 있는 등 운송시스템을 구성하는 파이프라인 등의 개별 설비(자산)가 부동산에 해당하는지 여부가 불분명한 점, 청구법인이 이 건 주식을 취득할 당시 계약서에서도 파이프라인, 압착플랜트 등의 개별 자산들이 페루민법 제886조에 따른 동산(movable property)으로 규정되어 있는 점 등을 종합하면, AAA-사의 유형자산 중 토지와 건물을 제외한 나머지 자산들이 부동산에 해당한다고 단정하기 어렵고, 기타 자산들이 동산으로 분류될 경우 AAA-사의 전체 자산 중 부동산이 차지하는 비율이 50% 미만(17.9%∼43.2%)에 해당하므로 청구주장을 받아들이기 어렵다고 판단된다.4. 결론이 건 심판청구는 심리결과 청구주장이 이유 없으므로「국세기본법」제80조의2및 제65조 제1항 제2호에 의하여 주문과 같이 결정한다.＜별지＞ 관련 법령 등(1) 대한민국과 페루공화국 간의 소득에 대한 조세의 이중과세 방지와 탈세 예방을 위한 협약제6조(부동산 소득)1. 한쪽 체약국의 거주자가 다른 쪽 체약국에 소재하는 부동산으로부터 취득하는 소득(농업 또는 임업으로부터 발생하는 소득을 포함한다)에 대하여는 그 다른 쪽 국가에서 과세할 수 있다.2. “부동산”이란 해당 부동산이 소재하는 체약국의 법에 따른 의미를 가진다. 이 용어는 어떠한 경우에도 부동산에 부속되는 재산, 농업과 임업에 사용되는 가축과 장비, 토지재산에 관한 일반법의 규정이 적용되는 권리, 부동산의 용익권 및 광산, 광천 및 그 밖의 천연자원의 채취 또는 그 채취권에 대한 대가로서 가변적 또는 고정적인 지급금에 대한 권리를 포함한다. 선박 및 항공기는 부동산으로 보지 아니한다.제13조(양도소득)1. 한쪽 체약국의 거주자가 다른 쪽 체약국에 소재하는 제6조에 언급된 부동산의 양도로부터 취득하는 소득에 대하여는 그 다른 쪽 국가에서 과세할 수 있다.4. 한쪽 체약국의 거주자가 그 가치의 50퍼센트를 초과하는 부분이 직접 또는 간접적으로 다른 쪽 체약국에 소재하는 부동산으로 이루어진 지분의 양도로부터 취득하는 소득에 대하여는 그 다른 쪽 국가에서 과세할 수 있다.6. 제1항, 제2항, 제3항, 제4항 및 제5항에 언급된 재산을 제외한 모든 재산의 양도로부터 발생하는 소득에 대하여는 그 양도인이 거주자인 체약국에서만 과세한다(2) 법인세법제57조(외국납부세액 공제등) ① 내국법인의 각 사업연도의 과세표준에 국외원천소득이 포함되어 있는 경우 그 국외원천소득에 대하여 대통령령으로 정하는 외국법인세액(이하 이 조에서 “외국법인세액”이라 한다)을 납부하였거나 납부할 것이 있는 경우에는 제21조 제1호에도 불구하고 다음 각 호의 방법 중 하나를 선택하여 적용받을 수 있다.1. 제55조에 따라 산출한 해당 사업연도의 법인세액(토지등 양도소득에 대한 법인세액과 제56조에 따른 미환류소득에 대한 법인세액은 제외한다)에 국외원천소득이 해당 사업연도의 과세표준에서 차지하는 비율(「조세특례제한법」이나 그 밖의 법률에 따라 면제되거나 세액 감면을 적용받는 경우에는 대통령령으로 정하는 비율)을 곱하여 산출한 금액을 한도(이하 이 조에서 “공제한도”라 한다)로 외국법인세액을 해당 사업연도의 법인세액에서 공제하는 방법(3) 법인세법 시행령제94조(외국납부세액의 공제) ① 법 제57조 제1항 각 호 외의 부분에서 “대통령령으로 정하는 외국법인세액”이란 외국정부(지방자치단체를 포함한다. 이하 같다)에 의하여 과세된 다음 각 호의 세액(가산세 및 가산금은 제외한다)을 말한다. 다만, 「국제조세조정에 관한 법률」 제10조 제1항에 따라 내국법인의 소득이 감액조정된 금액중 국외특수관계인에게 반환되지 아니하고 내국법인에게 유보되는 금액에 대하여 외국정부가 과세한 금액을 제외한다.1. 초과이윤세 및 기타 법인의 소득 등을 과세표준으로 하여 과세된 세액2. 법인의 소득 등을 과세표준으로 하여 과세된 세의 부가세액3. 법인의 소득 등을 과세표준으로 하여 과세된 세와 동일한 세목에 해당하는 것으로서 소득외의 수익금액 기타 이에 준하는 것을 과세표준으로 하여 과세된 세액※ (참고) 페루 현지 법령 ㅇ 페루 세법(Tax Code of Peru, 영문 번역)
+
+Article 9.- In general, whatever the nationality or domicile of the parties involved in the operations and the place of celebration or fulfillment of the contracts, it is considered Peruvian source income:
+
+a) Those produced by properties/lands and the rights related thereto, including those arising from their sale, when the properties/lands are located in the territory of the Republic.
+
+b) Those produced by goods or rights, including those arising from their disposal, when the goods are physically located or the rights are used economically in the country.
+In the case of the royalties referred to in Article 27, the income is from a Peruvian source when the goods or rights for which the royalties are paid are used economically in the country or when the royalties are paid by an individual domiciled in the country.
+
+c) Those produced by capital, as well as interest, commissions, bonuses and any additional sum to the interest agreed for loans, credits or other financial operation, when the capital is placed or is used economically in the country; or when the payer is a subject domiciled in the country.
+Included in the concept of payer is the Administrator Fund Society of an Investment Fund or Mutual Investment Fund in Securities, to the Securitization Company of a Trust Fund and to the trustee of the Banking Trust.
+The incomes may originate, among others, by the participation in funds of any type of entity, by the transfer to third parties of a capital, by capitalization operations or by life or disability insurance contracts that do not originate in personal work.
+
+d) Dividends and any other form of distribution of profits, when the company or company that distributes, pays or credits them is domiciled in the country, or when the investment fund, trustee assets or the bank trustee that distributes them, pay or prove they are incorporated or established in the country.
+Likewise, Peruvian income is considered to be the yields of the ADRs (American Depositary Receipts) and GDRs (Global Depositary Receipts) whose underlying assets are shares issued by companies domiciled in the country.
+
+e) Those originated in civil, commercial, business or any other kind of activities that take place in the national territory.
+
+f) Those originated in personal work that take place in national territory.
+The income obtained in their country of origin by non-domiciled natural persons, who enter the country temporarily for the purpose of carrying out activities related to: acts prior to the realization of foreign investments or business of foreign companies, are not included in clauses e) and f). any kind; acts intended to supervise or control the investment or the business, such as data or information gathering or conducting interviews with people in the public or private sector; acts related to the hiring of local personnel; acts related to the signing of agreements or similar acts.
+
+g) Life annuities and pensions that have their origin in personal work, when they are paid by a subject or entity domiciled or incorporated in the country.
+
+h) Those obtained by the disposal, redemption or redemption of shares and shares representing the capital, investment shares, certificates, securities, bonds and commercial papers, securities representing mortgage certificates, bearer bonds or other bearer securities and other transferable securities When companies, companies, Investment Funds, Mutual Funds of Investment in Securities or Trust Equities that have issued them are incorporated or established in Peru.
+Likewise, Peruvian income is considered to be income obtained from the sale of ADRs (American Depositary Receipts) and GDRs (Global Depositary Receipts) that have shares issued by companies domiciled in the country as underlying assets.
+
+i) Those obtained by digital services provided through the Internet or any adaptation or application of protocols, platforms or technology used by the Internet or any other network through which equivalent services are provided, when the service is used economically, use or consume in the country.
+
+ㅇ 페루 민법(Civil Code of Peru, 영문 번역)
+
+Article 885. - Are immovable goods(부동산)
+- Soil, subsoil and over ground
+- The sea, lakes, rivers, springs, streams and waters
+- Miners, quarries and hydrocarbon deposits
+- Dams and docks
+- Concessions of public services
+- Mining concessions obtained by individuals
+- Rights of registrable property on the registry
+- Other property to which the law confers such quality corrected
+
+Article 886. - Are movable goods(동산)
+- Any kind of ground vehicles
+- Natural forces capable of appropriation
+- Construction in the land of another made for a temporary purpose
+- Materials from construction or demolition if they are not attached to the ground
+- The values (titles) of any class or the instruments evidencing the acquisition of credit or personal rights
+- The econonomic rights of authors, inventors, patents, names, trademarks and similar
+- Any kind of income or pension
+- The shares or participation of rach partner in companies or associations, although they belong to real estate
+- Other goods that can be carried from one place to another
+- Other goods not covered by Article 885
+
+ㅇ Supreme Decree No.041-99-EM(Transport of Hydrocarbons through pipelines regulations, 가스관을 통한 탄화수소 운송에 관한 법률)
+
+Article 2.-When “Transport of Hydrocarbons through pipelines regulations” mentions, among others, the following words or phrases with initial capital letters, they shall be understood as :
+- 2.2. Assets of the Concession : The Transport System and the rights that are essential for rendering Transport service, will be transferred or returned, as appropriate, by the Concessionaire to the Peruvian State upon termination of its Concession Contract, and that will be given in concession by the Peruvian State to a new C oncessionaire.
+- 2.7. Concession : Rights granted by the Peruvian State to an individual or a company in order to provide Transport service, including the right to use the “Assets of the Concession” for the provision of such service
+- 2.34. Transport system : Certain set of movable and immovable property, and in general all pipelines, construction works, equipment and facilities required for the Transport of Hydrocarbons. They will be used by the Concessionaire under the terms of their Contract with the Peruvian State
+의결일자: 20240411
+
+【사건명】
+청구법인이 페루 소재 법인 발행주식을 양도하고 그 양도소득에 대하여 페루 과세당국에 납부한 쟁점세액과 관련하여, 한-페루 조세조약에 따라 적정하게 납부된 세액이 아니라고 보아 외국납부세액 이월공제 대상액에서 감액경정한 처분의 당부
+
+【주문】
+심판청구를 기각한다.
+세목: 법인
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 982238
+재결례유형코드: 429150
+재결례유형명: 조세
+관련법령: 「법인세법」 제57조 제1항 / 「법인세법」 시행령제94조 제15항
