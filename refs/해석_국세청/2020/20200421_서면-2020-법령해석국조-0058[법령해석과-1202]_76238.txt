@@ -1,0 +1,60 @@
+해석_국세청 | 서면-2020-법령해석국조-0058[법령해석과-1202] | 20200421 | 한·브라질 조세조약 제11조 제3항 나목의 적용 범위 | ID 76238
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000434880 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 한·브라질 조세조약 제11조 제3항 나목의 적용 범위
+문서번호: 서면-2020-법령해석국조-0058
+회신번호: 법령해석과-1202
+생산일자: 20200421
+
+【요지】
+브라질 정부 등이 지분 일부만을 간접으로 소유한 기관(「한-브라질 조세조약」 제11조 제3항 나목 영문본상 "agency"를 말함)은 동 규정의 적용대상에 해당합니다. 동 규정에 따라 브라질에서만 과세되는 이자의 범위는 해당 기관이 발행한 증권, 채권 또는 사채로부터 생기는 이자 전액임
+
+【회신】
+귀 서면질의의 경우 기획재정부의 해석(기획재정부 조세정책과-385, 2020.4.14.)을 참조하시기 바랍니다.
+
+브라질 정부 등이 지분 일부만을 간접으로 소유한 기관(「한-브라질 조세조약」 제11조 제3항 나목 영문본상 "agency"를 말함)은 동 규정의 적용대상에 해당합니다. 동 규정에 따라 브라질에서만 과세되는 이자의 범위는 해당 기관이 발행한 증권, 채권 또는 사채로부터 생기는 이자 전액입니다.
+
+【본문】
+* A법인이 발행한 채권에서 이자 발생
+
+2. 질의내용
+
+○ 한·브라질 조세조약에서는 “브라질 정부 등(이하 ‘정부’)이 간접으로 소유한 기관”이 발행한 채권 등의 이자는 브라질에서만 과세되고 우리나라에서는 과세되지 아니하는 것으로 규정되어 있는바(한·브라질 조세조약 제11조제3항나목)
+
+-(쟁점①) 브라질 정부가 “지분의 일부만 간접으로 소유한 기관”이 한·브라질 조세조약 제11조제3항나목의 기관에 해당하는지 여부
+
+-(쟁점②) (쟁점①이 2안일 경우) 브라질에서만 과세되는 이자의 범위가 “거주자가 지급받은 이자 전액”인지 or 거주자가 지급받은 이자 중 “브라질 정부의 해당기관에 대한 지분율 해당분 이자”인지 여부
+
+3. 관련법령
+
+○ 한·브라질 조세조약 제11조【이자】
+
+1. 일방체약국에서 발생하여 타방체약국의 거주자에게 지급되는 이자에 대하여는 동 타방체약국에서 과세할 수 있다.
+
+3. 제1항 및 제2항의 규정에 불구하고,
+
+가. 일방체약국에서 발생하여, 정치적 하부조직 또는 지방당국을 포함한 타방체약국의 정부, 그 타방체약국의 중앙은행 또는 동정부, 중앙은행 또는 양자가 직접 또는 간접으로 소유하는 기관(금융기관 포함)에 지급되는 이자에 대하여는 동 일방체약국에서 면세한다.
+
+a) Interest arising in a Contracting State and paid to the government of the other Contracting State including a political subdivision or a local authority thereof, the Central Bank of that other Contracting State, or any agency(including a financial institution) wholly owned directly or indirectly by that Government, Central Bank or both shall be exempt from tax in the first-mentioned State;
+
+나. 정치적 하부조직 또는 지방당국을 포함한 일방체약국의 정부, 동 일방체약국의 중앙은행 또는 동 정부, 중앙은행 또는 양자가 직접 또는 간접으로 소유하는 기관(금융기관 포함)에 의해 발생되는 증권, 채권 또는 사채로부터 생기는 이자에 대하여는 동 일방체약국에서만 과세한다.
+
+b) Interest from securities, bonds or debentures issued by the government of a Contracting State including a political subdivision or a local authority thereof, the Central Bank of that other Contracting State, or any agency (including a financial institution) owned directly or indirectly by that Government, Central Bank or both shall be taxable only in that State.
+
+4. 본 조에서 사용되는 "이자"라 함은 저당여부와 채무자의 이윤에 대한 참가권의 수반여부에 관계없이 정부증권, 채권 또는 사채 및 모든 종류의 채권으로부터 생기는 소득과 소득이 발생하는 체약국의 세법에 의한 금전대부로부터 발생되는 소득과 유사한 기타의 소득을 의미한다.
+
+○ 한·브라질 조세조약 제24조【무차별】
+
+4. 일방체약국의 기업의 자본의 일부 또는 전부가 타방체약국의 1인 또는 2인 이상의 거주자에 의하여 직접 또는 간접으로 소유되거나 지배되는 경우, 그 기업은 자본이 직접 또는 간접으로 제3국의 1인 또는 2인 이상의 거주자에 의하여 전부 또는 일부가 소유되거나 지배되는 동 일방체약국의 기타 유사한 기업이 부담하거나 부담하게 할지도 모르는 조세 또는 이와 관련된 요건과 다르거나 그보다 과중한 조세 또는 이와 관련된 요건을 동 일방체약국에서 부담하지 아니한다.
+
+4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of a third State, are or may be subjected.
+
+○ OECD모델조약 제11조에 대한 주석
+
+국가 또는 정치적 하부조직이 지급하는 이자
+
+7.5 이자 지급자가 국가 자체, 정치적 하부조직 혹은 법적 기관인 경우, 대여자가 원천징수세액을 보상받기 위해 이자율을 올린다면 원천징수세액은 결국 그 국가에서 부담하게 되는 결과가 된다. 이 경우, 그 국가가 이자소득을 원천과세하여 얻는 이익은 차입비용의 증가에 의해 상쇄된다. 이러한 이유로 대부분의 국가들은 이러한 이자에 대하여 모든 원천과세를 면제하고 있다.
+
+○ 한·브라질 조세조약 제3조【일반적 정의】
+
+2. 일방체약국이 이 협약을 적용함에 있어서 정의되지 아니한 용어는, 문맥에 따라 달리 해석되지 아니하는 한, 이 협약이 적용되는 조세에 관련된 동 체약국의 법에서 가지는 의미를 가진다.

@@ -1,0 +1,126 @@
+해석_국세청 | 서면-2020-법령해석국조-0327[법령해석과-1906] | 20200619 | 유한책임사원으로만 구성된 단체에 해당하는지 여부 | ID 242664
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000435007 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 유한책임사원으로만 구성된 단체에 해당하는지 여부
+문서번호: 서면-2020-법령해석국조-0327
+회신번호: 법령해석과-1906
+생산일자: 20200619
+
+【요지】
+유한책임파트너쉽(limited liability partnership)의 파트너가 자신이 출자한 금액을 초과하여 책임을 부담하는 경우 해당 유한책임파트너쉽은 법인세법 시행령 제2조 제2항 제2호의 “구성원이 유한책임사원으로만 구성된 단체”에 해당하지 아니하는 것임
+
+【회신】
+귀 서면질의에서 제시된 미국 뉴욕주법(New York Partnership Law)에 따라 설립된 유한책임파트너쉽(Limited Liability Partnership, 이하 LLP)의 경우, 해당 LLP와 해당 LLP의 파트너간에 체결된 파트너쉽 계약 및 뉴욕주법 제26조 제(c)항에 따라 해당 파트너는 자신의 출자금액을 초과하여 책임을 부담할 수 있으므로 해당 LLP는 「법인세법 시행령」 제2조 제2항 제2호의 “구성원이 유한책임사원으로만 구성된 단체”에 해당하지 아니하는 것입니다.
+
+【본문】
+○ 질의인은 미국 뉴욕주 소재 로펌인 AAA LLP(Limited Liability Partnership)의 국내 사무소로 ｢외국법자문사법｣에 따라 외국법자문법률사무소 설립인가 취득 후 대한변호사협회에 외국법자문법률사무소로 등록하였으며
+
+- 상기 국외본점인 AAA LLP를 법인세법상 외국법인으로 보아 법인세 신고․납부의무를 이행하고 있음
+
+○ New York Partnership Law Section 26 Nature of partner's liability (d)에 따르면 등록된 LLP의 파트너의 과반수가 합의한 범위에서, 등록된 LLP의 모든 또는 특정 부채, 채무에 대한 파트너로서의 역량범위 내에서 책임범위에 대한 조정이 가능하고
+
+- AAA LLP는 파트너쉽 계약에 따라 파트너 과반수 이상의 합의로 “AAA LLP를 상대로 제기된 이슈 해결에 소요된 비용”에 대하여 파트너들의 책임을 아래와 같이 규정하고 있음
+
+사건 발생시 지위
+
+비용 지출시 지위
+
+분담 여부 및 분담률
+
+Partner
+
+Partner
+
+분담(지분율 비례)
+
+Partner
+
+Partner 아님
+
+분담(지분에 따른 부분 내에서 위원회가 결정하는 수준)
+
+Partner 아님
+
+Partner
+
+분담하지 아니함
+
+2. 질의내용
+
+○ New York Partnership Law에 따라 뉴욕주에 설립된 AAA LLP가 ｢법인세법 시행령｣ 제2조 제2항 제2호의 “구성원이 유한책임사원으로만 구성된 단체”에 해당하는지 여부
+
+3. 관련법령
+
+○ 법인세법 제2조【정의】
+
+3. "외국법인"이란 본점 또는 주사무소가 외국에 있는 단체(사업의 실질적 관리장소가 국내에 있지 아니하는 경우만 해당한다)로서 대통령령으로 정하는 기준에 해당하는 법인을 말한다
+
+○ 법인세법 시행령 제2조【정의】[2019.02.12.-29529호로 개정된 것]
+
+②법 제2조제3호에서 "대통령령으로 정하는 기준에 해당하는 법인"이란 다음 각 호의 어느 하나에 해당하는 단체를 말한다.
+
+1. 설립된 국가의 법에 따라 법인격이 부여된 단체
+
+2. 구성원이 유한책임사원으로만 구성된 단체
+
+3. 삭제 <2019212>
+
+4.그 밖에 해당 외국단체와 동종 또는 유사한 국내의 단체가 ｢상법｣ 등 국내의 법률에 따른 법인인 경우의 그 외국단체
+
+○ 법인세법 시행령 제2조【정의】[2019.02.12.-29529호로 개정되기 전의 것]
+
+② 「법인세법」 제1조제3호에서 "대통령령으로 정하는 기준에 해당하는 법인"이란 다음 각 호의 어느 하나에 해당하는 단체를 말한다
+
+1. 설립된 국가의 법에 따라 법인격이 부여된 단체
+
+2. 구성원이 유한책임사원으로만 구성된 단체
+
+3. 구성원과 독립하여 자산을 소유하거나 소송의 당사자가 되는 등 직접 권리·의무의 주체가 되는 단체
+
+4. 그 밖에 해당 외국단체와 동종 또는 유사한 국내의 단체가「상법」 등 국내의 법률에 따른 법인인 경우의 그 외국단체
+
+○ 상법 제279조【유한책임사원의 책임】(합자회사)
+
+①유한책임사원은 그 출자가액에서 이미 이행한 부분을 공제한 가액을 한도로 하여 회사채무를 변제할 책임이 있다
+
+②회사에 이익이 없음에도 불구하고 배당을 받은 금액은 변제책임을 정함에 있어서 이를 가산한다
+
+○ 상법 제287조의7【사원의 책임】(유한책임회사)
+
+사원의 책임은 이 법에 다른 규정이 있는 경우 외에는 그 출자금액을 한도로 한다.
+
+○ 상법 제553조【사원의 책임】(유한회사)
+
+사원의 책임은 본법에 다른 규정이 있는 경우 외에는 그 출자금액을 한도로 한다.
+
+□ New York Partnership Law
+
+○ Section 26 Nature of partner's liability
+
+(a) Except as provided in subdivision (b) of this section, all partners are liable:
+
+(a) 이 조의 (b)항에서 규정된 경우를 제외하고 모든 파트너는 다음에 대해 책임을 진다.
+
+1. Jointly and severally for everything chargeable to the partnership under sections twenty-four and twenty-five
+
+1. 24조 및 25조 하에 파트너십에 청구할 수 있는 모든 것에 대해 공동 및 각각
+
+2. Jointly for all other debts and obligations of the partnership; but any partner may enter into a separate obligation to perform a partnership contract
+
+2. 파트너십의 다른 모든 부채 및 의무에 대해 공동으로; 그러나 어떤 파트너는 파트너십의 계약에 대한 의무를 각각 수행할 수도 있다.
+
+(b) Except as provided by subdivisions (c) and (d) of this section,
+
+(b) 본 조의 (c)항과 (d)항에 의해 규정된 경우를 제외하고
+
+no partner of a partnership which is a registered limited liability partnership is liable or accountable, directly or indirectly (including by way of indemnification, contribution or otherwise), for any debts, obligations or liabilities of, or chargeable to, the registered limited liability partnership or each other,
+
+등록된 limited liability partnership(이하 “LLP”)의 파트너는 직간접으로(면책, 원인제공, 혹은 기타의 방법을 포함하여) 등록된 LLP 혹은 서로에 대한 어떠한 부채, 의무 혹은 책임, 혹은 지불해야할 책임이나 의무를 지지 않는다.
+
+(c) Notwithstanding the provisions of subdivision (b) of this section, (i) each partner, employee or agent of a partnership which is a registered limited liability partnership shall be personally and fully liable and accountable for any negligent or wrongful act or misconduct committed by him or her or by any person under his or her direct supervision and control while rendering professional services on behalf of such registered limited liability partnership
+
+이 조의 (b)호에 불구하고, (i) 등록된 LLP의 각각의 파트너들, 종업원 혹은 대리인은 그 자신 혹은 그의 직접 관리와 통제하에 있는 어떠한 사람에 의한 어떠한 부주의 혹은 불법의 행위나 부당한 짓에 대하여 그 등록된 LLP를 대신하여 개인적으로 그리고 전적으로 책임을 져야 한다.
+
+(d) Notwithstanding the provisions of subdivision (b) of this section, all or specified partners of a partnership which is a registered limited liability partnership may be liable in their capacity as partners for all or specified debts, obligations or liabilities of a registered limited liability partnership to the extent at least a majority of the partners shall have agreed unless otherwise provided in any agreement between the partners
+
+본 조 (b)호에도 불구하고 등록된 LLP의 파트너의 과반수가 합의한 범위에서, 등록된 LLP의 모든 또는 특정 부채, 채무에 대한 파트너로서의 역량범위 내에서 책임범위에 대한 조정이 가능하다.
