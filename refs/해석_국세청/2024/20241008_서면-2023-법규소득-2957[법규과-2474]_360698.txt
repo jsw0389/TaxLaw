@@ -1,0 +1,203 @@
+해석_국세청 | 서면-2023-법규소득-2957[법규과-2474] | 20241008 | 미국 세법상 상장지수증권의 배당금 상당액으로서 국외에서 원천징수된 금액이 소득세법상 배당소득에 해당하는지 | ID 360698
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=200000000000006616 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 미국 세법상 상장지수증권의 배당금 상당액으로서 국외에서 원천징수된 금액이 소득세법상 배당소득에 해당하는지
+문서번호: 서면-2023-법규소득-2957
+회신번호: 법규과-2474
+생산일자: 20241008
+요지: 미국 세법에 따라 배당금의 실제 지급 없이 배당 지급으로 간주된 금액은 「소득세법」제17조에 따른 배당소득에 해당하지 아니한 것임
+
+【회신】
+귀 서면질의 신청의 경우 아래 기획재정부의 해석(기획재정부 금융세제과 - 490, 2024.09.24.)을 참조하시기 바람.
+
+기획재정부 금융세제과 - 490, 2024.09.24.
+귀 질의와 같이 미국 세법에 따라 배당금의 실제 지급 없이 배당 지급으로 간주된 금액을 사유로 미국 내에서 원천징수가 이루어진 경우, 배당 지급으로 간주된 금액은 「소득세법」제17조에 따른 배당소득에 해당하지 아니한 것입니다. 끝.
+
+【본문】
+1. 사실관계
+
+○국내 거주자들은 질의법인을 통하여 미국 상장주식의 가격을 반영하는 Index 지수를 추종하는 상장지수증권(이하 “쟁점증권상품”)에 투자하고 있는바
+
+-쟁점증권상품은 특정한 Index를 추종하는 상품일 뿐 그 Index를 구성하는 상장주식을 직접 보유하는 것은 아님
+
+-즉, 쟁점증권상품의 투자자들은 Index를 구성하는 회사들의 지분을 소유하거나 이로부터 배당 혹은 분배금을 지급받을 권리를 보유하고 있지 않음
+
+○쟁점증권상품의 투자자들은 채권만기, 콜 혹은 조기상환시 해당 날짜의 Index 지수 변동을 반영한 금액(이하 “지수반영가치”)에서 레버리지 관련 비용(해당 종목이 레버리지 상품인 경우)을 차감한 금액을 받게 되며, 이는 매 영업일마다 계산됨
+
+-한편, 쟁점증권상품은 미국 증권시장에 상장된 상품이므로 만기, 콜, 혹은 조기상환에 따른 수익실현과는 별개로 시장에서 거래될 수 있는바
+
+-쟁점증권상품의 투자자들은 만기나 조기상환시에 지수반영가치에 상당한 금액을 수취하거나(이하 “환매”) 그 전에 증권상품을 시장에서 매도하는 방법으로 이익을 실현하게 됨
+
+○쟁점증권상품의 Index를 구성하는 주식에서 배당이 발생한 경우, 해당 금액은 배당락일 직전 거래일의 종가를 기준으로 다시 동일 종목에 재투자하는 것으로 보아 Index를 산정하게 됨
+
+-이 경우 Index를 산정할 때 해당 구성 종목의 주식 수를 증가시키는 방식으로 Index 지수에 반영되나, 투자자가 보유하는 쟁점금융상품의 좌수에는 변동이 없음
+
+○미국의 원천징수의무자들은 쟁점증권상품의 Index 구성 주식에서 배당이 발생한 경우로서 관련 규정(26 U.S. Code §871⒨)의 요건을 충족한 경우에
+
+-실제 배당금이 지급되지 않았음에도 국내 거주자들의 투자계좌에서 출금하는 방식으로 배당성격에 상당하는 금액(dividend equivalent payment, 이하 “쟁점배당금상당액”)이 배당된 것으로 간주하여 원천징수의무를 이행함
+
+2. 질의요지
+
+○국내 거주자들이 미국 상장주식의 가격을 반영하는 Index 지수를 추종하는 상장지수증권에 투자한 경우로서, 배당금의 실제 지급 없이도 쟁점배당금상당액이 발생하여 미국 내에서 원천징수가 이루어진 경우
+
+-쟁점배당금상당액이 국내 거주자의 배당소득에 해당하는지 여부 및 배당소득에 해당한다고 볼 경우 수입시기
+
+3. 관련 법령
+
+○소득세법 제17조【배당소득】
+
+① 배당소득은 해당 과세기간에 발생한 다음 각 호의 소득으로 한다. <개정 2012.1.1, 2017.12.19., 2020.12.29>
+
+5의2. 국내 또는 국외에서 받는 대통령령으로 정하는 파생결합증권 또는 파생결합사채로부터의 이익
+
+9. 제1호부터 제5호까지, 제5호의2, 제6호 및 제7호에 따른 소득과 유사한 소득으로서 수익분배의 성격이 있는 것
+
+○소득세법 시행령 제26조의2【집합투자기구의 범위 등】
+
+④ 제1항에 따른 집합투자기구로부터의 이익(이하 "집합투자기구로부터의 이익"이라 한다)에는 집합투자기구가 제1호 각 목의 방법으로 취득한 제2호 각 목의 증권(제1호다목의 방법으로는 제2호나목의 증권을 취득하는 경우로 한정한다) 또는 장내파생상품증권(「자본시장과 금융투자업에 관한 법률」에 따른 장내파생상품을 말한다. 이하 같다)의 거래나 평가로 발생한 손익을 포함하지 않는다. 다만, 비거주자 또는 외국법인이 「자본시장과 금융투자업에 관한 법률」 제9조제19항제2호에 따른 일반 사모집합투자기구나 「조세특례제한법」 제100조의15에 따른 동업기업과세특례를 적용받지 않는 기관전용 사모집합투자기구를 통하여 취득한 주식 또는 출자증권{「자본시장과 금융투자업에 관한 법률」 제8조의2제4항제1호에 따른 증권시장(이하 "증권시장"이라 한다)에 상장된 주식 또는 출자증권으로서 양도일이 속하는 연도와 그 직전 5년의 기간 중 그 주식 또는 출자증권을 발행한 법인의 발행주식 총수 또는 출자총액의 100분의 25 이상을 소유한 경우로 한정한다}의 거래로 발생한 손익은 집합투자기구로부터의 이익에 포함한다. <개정 2010.12.30, 2013.8.27, 2015.2.3, 2015.10.23, 2018.2.13, 2022.2.15, 2023.2.28>
+
+○소득세법 시행령 제26조의3【배당소득의 범위】
+
+① 법 제17조제1항제5호의2에서 "대통령령으로 정하는 파생결합증권 또는 파생결합사채로부터의 이익"이란 다음 각 호의 어느 하나에 해당하는 이익을 말한다. <개정 2018.2.13>
+
+1. 「자본시장과 금융투자업에 관한 법률」 제4조제7항에 따른 파생결합증권(이하 "파생결합증권"이라 한다)으로부터 발생한 이익. 다만, 당사자 일방의 의사표시에 따라 증권시장 또는 이와 유사한 시장으로서 외국에 있는 시장에서 매매거래되는 특정 주권의 가격이나 주가지수 수치의 변동과 연계하여 미리 정해진 방법에 따라 주권의 매매나 금전을 수수하는 거래를 성립시킬 수 있는 권리를 표시하는 증권 또는 증서로부터 발생한 이익은 제외한다.
+
+2. 파생결합증권 중 「자본시장과 금융투자업에 관한 법률」 제4조제10항에 따른 기초자산의 가격ㆍ이자율ㆍ지표ㆍ단위 또는 이를 기초로 하는 지수 등의 변동과 연계하여 미리 정해진 방법에 따라 이익을 얻거나 손실을 회피하기 위한 계약상의 권리를 나타내는 것으로서 증권시장에 상장되어 거래되는 증권 또는 증서(이하 "상장지수증권"이라 한다)를 계좌 간 이체, 계좌의 명의변경, 상장지수증권의 실물양도의 방법으로 거래하여 발생한 이익. 다만, 증권시장에서 거래되는 주식의 가격만을 기반으로 하는 지수의 변화를 그대로 추적하는 것을 목적으로 하는 상장지수증권을 계좌 간 이체, 계좌의 명의변경 및 상장지수증권의 실물양도의 방법으로 거래하여 발생한 이익은 제외한다.
+
+3. 「상법」 제469조제2항제3호에 따른 사채로부터 발생한 이익
+
+○소득세법 시행령 제46조【배당소득의 수입시기】
+
+배당소득의 수입시기는 다음 각 호에 따른 날로 한다. <개정 1996.12.31, 1998.12.31, 2003.12.30, 2005.2.19, 2007.2.28, 2009.2.4, 2010.2.18, 2010.12.30, 2012.2.2., 2018.2.13>
+
+8. 파생결합증권 또는 파생결합사채로부터의 이익: 그 이익을 지급받은 날. 다만, 원본에 전입하는 뜻의 특약이 있는 분배금은 그 특약에 따라 원본에 전입되는 날로 한다.
+
+○소득세법 시행규칙 제14조【상장지수증권으로부터의 이익에 대한 과세표준 계산방식 등】
+
+①영 제26조의3제1항제2호 본문에 따른 상장지수증권(이하 "상장지수증권"이라 한다)으로부터의 이익을 분배받는 경우 투자자가 보유하는 상장지수증권의 증권당 배당소득금액(이하 이 조에서 "증권당 배당소득금액"이라 한다)은 다음 각 호의 구분에 따른 금액으로 한다. <개정 2018.3.21>
+
+1. 영 제26조의3제1항제2호 단서에 따라 증권시장에서 거래되는 주식의 가격만을 기반으로 하는 지수의 변화를 그대로 추적하는 것을 목적으로 하는 상장지수증권: 상장지수증권을 발행하는 자가 투자자에게 증권당 분배하는 금액(영 제26조의2제4항 각 호의 증권 또는 장내파생상품의 평가로 발생한 손익은 제외한다)
+
+2. 제1호 외의 상장지수증권: 상장지수증권의 분배 시 과세표준기준가격(상장지수증권의 기초자산을 구성하는 가격ㆍ이자율ㆍ지표ㆍ단위 또는 이를 기초로 하는 지수 등의 증권당 평가금액에서 영 제26조의2제4항 각 호의 증권 또는 장내파생상품의 평가로 발생한 손익을 제외하여 산정한 금액을 말한다. 이하 이 조에서 같다)에서 매수 시 과세표준기준가격을 뺀 후 직전 분배 시 발생한 과세되지 아니한 투자자별 손익을 더하거나 뺀 금액. 이 경우 상장지수증권으로부터의 이익으로서 상장지수증권을 발행한 자가 투자자에게 분배하는 금액을 한도로 한다.
+
+② 상장지수증권의 환매 및 매도 또는 상장폐지(이하 이 조에서 "환매 등"이라 한다)를 통하여 상장지수증권으로부터의 이익을 받는 경우 상장지수증권의 증권당 배당소득금액은 다음 각 호의 구분에 따른 금액으로 한다.
+
+1. 제1항제1호에 해당하는 상장지수증권: 환매 등(상장지수증권의 매도는 제외한다)이 발생하는 시점의 과세표준기준가격에서 직전 분배 직후의 과세표준기준가격(최초 설정 후 분배가 없었던 경우에는 최초 설정 시 과세표준기준가격을 말한다)을 뺀 금액
+
+2. 제1호 외의 상장지수증권: 환매 등이 발생하는 시점의 과세표준기준가격에서 매수 시 과세표준기준가격을 뺀 후 직전 분배 시 발생한 과세되지 아니한 투자자별 손익을 더하거나 뺀 금액
+
+③상장지수증권(제1항제1호에 해당하는 상장지수증권은 제외한다)을 증권시장에서 매도하는 경우의 증권당 배당소득금액은 제2항제2호에도 불구하고 같은 호에 따라 계산된 금액과 매수ㆍ매도 시의 과세표준기준가격을 실제 매수ㆍ매도 가격으로 하여 같은 호에 따라 계산된 금액 중 적은 금액으로 한다.
+
+④투자자별 배당소득금액은 다음 계산식에 따라 계산한 금액으로 한다.
+
+○자본시장과 금융투자업에 관한 법률 제4조【증권】
+
+① 이 법에서 "증권"이란 내국인 또는 외국인이 발행한 금융투자상품으로서 투자자가 취득과 동시에 지급한 금전등 외에 어떠한 명목으로든지 추가로 지급의무(투자자가 기초자산에 대한 매매를 성립시킬 수 있는 권리를 행사하게 됨으로써 부담하게 되는 지급의무를 제외한다)를 부담하지 아니하는 것을 말한다. 다만, 다음 각 호의 어느 하나에 해당하는 증권은 제2편제5장, 제3편제1장(제8편부터 제10편까지의 규정 중 제2편제5장, 제3편제1장의 규정에 따른 의무 위반행위에 대한 부분을 포함한다) 및 제178조ㆍ제179조를 적용하는 경우에만 증권으로 본다. <개정 2013.5.28, 2015.7.24>
+
+1. 투자계약증권
+
+2. 지분증권, 수익증권 또는 증권예탁증권 중 해당 증권의 유통 가능성, 이 법 또는 금융관련 법령에서의 규제 여부 등을 종합적으로 고려하여 대통령령으로 정하는 증권
+
+② 제1항의 증권은 다음 각 호와 같이 구분한다.
+
+1. 채무증권
+
+2. 지분증권
+
+3. 수익증권
+
+4. 투자계약증권
+
+5. 파생결합증권
+
+6. 증권예탁증권
+
+⑦ 이 법에서 "파생결합증권"이란 기초자산의 가격ㆍ이자율ㆍ지표ㆍ단위 또는 이를 기초로 하는 지수 등의 변동과 연계하여 미리 정하여진 방법에 따라 지급하거나 회수하는 금전등이 결정되는 권리가 표시된 것을 말한다. 다만, 다음 각 호의 어느 하나에 해당하는 것은 제외한다. <개정 2013.5.28, 2016.3.29, 2017.4.18, 2022.12.31>
+
+1. 발행과 동시에 투자자가 지급한 금전등에 대한 이자, 그 밖의 과실(果實)에 대하여만 해당 기초자산의 가격ㆍ이자율ㆍ지표ㆍ단위 또는 이를 기초로 하는 지수 등의 변동과 연계된 증권
+
+2. 제5조제1항제2호에 따른 계약상의 권리(제5조제1항 각 호 외의 부분 단서에서 정하는 금융투자상품은 제외한다)
+
+3. 해당 사채의 발행 당시 객관적이고 합리적인 기준에 따라 미리 정하는 사유가 발생하는 경우 주식으로 전환되거나 그 사채의 상환과 이자지급 의무가 감면된다는 조건이 붙은 것으로서 제165조의11제1항에 따라 주권상장법인이 발행하는 사채
+
+3의2. 「은행법」 제33조제1항제2호부터 제4호까지의 규정에 따른 상각형 조건부자본증권, 은행주식 전환형 조건부자본증권 및 은행지주회사주식 전환형 조건부자본증권
+
+3의3. 「금융지주회사법」 제15조의2제1항제2호 또는 제3호에 따른 상각형 조건부자본증권 또는 전환형 조건부자본증권
+
+3의4. 「보험업법」 제114조의2제1항제1호에서 제3호까지의 규정에 따른 상각형 조건부자본증권, 보험회사주식 전환형 조건부자본증권 및 금융지주회사주식 전환형 조건부자본증권
+
+4. 「상법」 제469조제2항제2호, 제513조 및 제516조의2에 따른 사채
+
+5. 그 밖에 제1호부터 제3호까지, 제3호의2부터 제3호의4까지 및 제4호에 따른 금융투자상품과 유사한 것으로서 대통령령으로 정하는 금융투자상품
+
+○자본시장과 금융투자업에 관한 법률 제8조의2【금융투자상품시장 등】
+
+② 이 법에서 "거래소"란 증권 및 장내파생상품의 공정한 가격 형성과 그 매매, 그 밖의 거래의 안정성 및 효율성을 도모하기 위하여 제373조의2에 따른 금융위원회의 허가를 받아 금융투자상품시장을 개설하는 자를 말한다.
+
+③ 이 법에서 "거래소시장"이란 거래소가 개설하는 금융투자상품시장을 말한다.
+
+④ 거래소시장은 다음 각 호와 같이 구분한다.
+
+1. 증권시장: 증권의 매매를 위하여 거래소가 개설하는 시장
+
+2. 파생상품시장: 장내파생상품의 매매를 위하여 거래소가 개설하는 시장
+
+○26 U.S. Code §871 – Tax on nonresident alien individuals
+
+(m) TREATMENT OF DIVIDEND EQUIVALENT PAYMENTS
+
+(1) IN GENERAL
+
+For purposes of subsection (a), Sections 881 and 4948(a), and chapters 3 and 4, a dividend equivalent shall be treated as a dividend from sources within the United States.
+
+(2) DIVIDEND EQUIVALENT
+
+For purposes of this subsection, the term “dividend equivalent” means-
+
+(A) any substitute dividend made pursuant to a securities lending or a sale-repurchase transaction that (directly or indirectly) is contingent upon, or determined by reference to, the payment of a dividend from sources within the United States,
+
+(B) any payment made pursuant to a specified notional principal contract that (directly or indirectly) is contingent upon, or determined by reference to, the payment of a dividend from sources within the United States, and
+
+(C) any other payment determined by the Secretary to be substantially similar to a payment described in subparagraph (A) or (B)
+
+(3) SPECIFIED NOTIONAL PRINCIPAL CONTRACT
+
+For purposes of this subsection, the term “specified notional principal contract” means-
+
+(A) any notional principal contract if-
+
+(ⅰ) in connection with entering into such contract, any long party to the contract transfers the underlying security to any short party to the contract,
+
+(ⅱ) in connection with the termination of such contract, any short party to the contract transfers the underlying security to any long party to the contract,
+
+(ⅲ) the underlying security is not readily tradable on an established securities market,
+
+(ⅳ) in connection with entering into such contract, the underlying security is posted as collateral by any short party to the contract with any long party to the contract, or
+
+(ⅴ) such contract is identified by the Secretary as a specified notional principal contract,
+
+(B) in the case of payments made after the date which is 2 year after the date of the enactment of this subsection, any notional principal contract unless the Secretary determines that such contract is of a type which does not have the potential for tax avoidance.
+
+(4) DEFINITIONS
+
+For purposes of paragraph (3)(A)-
+
+(A) Long party
+
+The term “long party” means, with respect to any underlying security of any notional principal contract, any party to the contract which is entitled to receive any payment pursuant to such contract which is contingent upon, or determined by reference to, the payment of a dividend from sources within the United States with respect to such underlying security.
+
+(B) Short party
+
+The term “short party” means, with respect to any underlying security of any notional principal contract, any party to the contract which is not a long party with respect to such underlying security.
+
+(C) Underlying security
+
+The term “underlying security” means, with respect to any notional principal contract, the security with respect to which the dividend referred to in paragraph (2)(B) is paid. For purposes of this paragraph, any index or fixed basket of securities shall be treated as a single security.
+
+(5) PAYMENTS DETERMINED ON GROSS BASIS
+
+For purposes of this subsection, the term “payment” includes any gross amount which is used in computing any net amount which is transferred to or from the taxpayer.
+
+(6) PREVENTION OF OVER-WITHHOLDING
+
+In the case of any chain of dividend equivalents one or more of which is subject to tax under subsection (a) or section 881, the Secretary may reduce such tax, but only to the extent that the taxpayer can establish that such tax has been paid with respect to another dividend equivalent in such chain, or is not otherwise due, or as the Secretary determines is appropriate to address the role of financial intermediaries in such chain. For purposes of this paragraph, a dividend shall be treated as a dividend equivalent.

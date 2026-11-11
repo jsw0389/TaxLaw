@@ -1,0 +1,56 @@
+해석_국세청 | 서면-2024-국제세원-2267[국제세원담당관-355] | 20250507 | 부동산 전세계약금이 위약금으로 대체된 경우 한-홍콩 조세조약상 소득구분 | ID 1335187
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=200000000000011990 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 부동산 전세계약금이 위약금으로 대체된 경우 한-홍콩 조세조약상 소득구분
+문서번호: 서면-2024-국제세원-2267
+회신번호: 국제세원담당관-355
+생산일자: 20250507
+
+【요지】
+국내 소재 부동산의 소유자인 홍콩 거주자가 수령한 전세 계약금이 임차인의 계약 위반으로 인해 위약금으로 대체된 경우, 해당 금액은 ｢소득세법｣ 제119조제12호가목 및 ｢한-홍콩 조세조약｣ 제20조에 따른 국내원천 기타소득에 해당하는 것임
+
+【회신】
+국내 소재 부동산의 소유자인 홍콩 거주자가 수령한 전세 계약금이 임차인의 계약 위반으로 인해 위약금으로 대체된 경우, 해당 금액은 ｢소득세법｣ 제119조제12호가목 및 ｢한-홍콩 조세조약｣ 제20조에 따른 국내원천 기타소득에 해당하는 것입니다.
+
+【본문】
+1. 사실관계
+
+○ 질의자는 국내 소재 부동산을 보유하고 있는 홍콩 거주자로 해당 부동산에 대해 임차인과 전세계약을 체결하고 계약금을 수령하였으나 임차인의 계약상 의무 불이행으로 인해 계약을 해지하고 수령한 계약금을 위약금으로 대체함
+
+2. 질의내용
+
+○ 부동산 임대사업자가 아닌 홍콩 거주자가 수령한 국내 소재 주택의 전세 계약금이 계약 해지로 인해 위약금으로 대체된 경우, 해당 금액이 ｢한-홍콩 조세조약｣ 상 기타소득에 해당하는지 여부
+
+3. 관련법령
+
+○ ｢소득세법｣ 제119조【비거주자의 국내원천소득】
+
+비거주자의 국내원천소득은 다음 각 호와 같이 구분한다.
+
+12.국내원천 기타소득: 제1호부터 제8호까지, 제8호의2, 제9호부터 제11호까지의 규정에 따른 소득 외의 소득으로서 다음 각 목의 어느 하나에 해당하는 소득
+
+가.국내에 있는 부동산 및 그 밖의 자산 또는 국내에서 경영하는 사업과 관련하여 받은 보험금, 보상금 또는 손해배상금
+
+○ ｢대한민국 정부와 중국인민공화국 홍콩특별행정구 정부 간의 소득에 대한 조세의 이중과세 방지와 탈세 예방을 위한 협정｣
+
+제20조【기타 소득】
+
+1.이 협정의 앞선 조들에서 다루어지지 아니한 한쪽 체약당사자 거주자의 소득항목에 대해서는 소득의 발생지와 상관없이 그 당사자에서만 과세한다.
+
+2.한쪽 체약당사자의 거주자인 소득 수취인이 다른 쪽 체약당사자에서 그곳에 소재하는 고정사업장을 통하여 사업을 수행하고, 그 소득의 지급원인이 되는 권리 또는 재산이 그러한 고정사업장과 실질적으로 관련되는 경우, 제1항의 규정은 제6조제2항에서 정의된 부동산으로부터 발생하는 소득을 제외한 소득에는 적용되지 아니한다. 그러한 경우에는 제7조의 규정이 적용된다.
+
+3.제1항의 규정에도 불구하고, 한쪽 체약당사자에서 발생하여 다른 쪽 체약당사자의 거주자에게 지급되는 보험연금은 그 한쪽 체약당사자에서만 과세한다.
+
+4.제1항에 언급된 인과 그 외 인, 또는 이들 양자와 제삼자 간의 특수관계로 인하여 제1항에 언급된 소득액이 그러한 특수관계가 없었더라면 그들 간에 합의되었을 금액을 초과하는 경우, 이 조의 규정은 그 합의되었을 금액에 대하여만 적용된다. 그러한 경우, 그 소득의 초과 부분에 대해서는 이 협정의 다른 적용 가능한 규정을 적절히 고려하여 각 체약당사자의 법에 따라 과세할 수 있다.
+
+1.Items of income of a resident of a Contracting Party, wherever arising, not dealt with in the foregoing Articles of this Agreement shall be taxable only in that Party.
+
+2.The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting Party, carries on business in the other Contracting Party through a permanent establishment situated therein and the right or property in respect of which the income is paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
+
+3.Notwithstanding the provisions of paragraph 1, annuities arising in a Contracting Party and paid to a resident of the other Contracting Party shall be taxable only in the first-mentioned Party.
+
+4.Where, by reason of a special relationship between the person referred to in paragraph 1 and some other person, or between both of them and some third person, the amount of the income referred to in paragraph 1 exceeds the amount (if any)which would have been agreed upon between them in the absence of such a relationship, the provisions of this Article shall apply only to the last mentioned amount. In such case, the excess part of the income shall remain taxable according to the laws of each Contracting Party, due regard being had to the other applicable provisions of this Agreement.
+
+○ 법규국조2014-14, 2014.2.7.
+
+-국내 소재 부동산의 소유자인 캐나다 거주자가 법원의 조정결정에 따라 부동산을 정당한 권원 없이 불법으로 점유하여 사용한 자로부터 손해배상금을 지급받는 경우, 동 손해배상금은「소득세법」제119조제12호가목및「한·캐나다조세조약」제21조에따른 국내원천 기타소득에 해당하는 것이며, 해당 소득을 지급하는자는「소득세법」제156조제1항제3호에 따라 지급금액의 20%(지방소득세 별도)를 소득세로 원천징수하는 것임.
