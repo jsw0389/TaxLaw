@@ -1,5 +1,9 @@
 {
- "fails": {},
+ "fails": {
+  "해석_행안부": {
+   "281508": 1
+  }
+ },
  "scan": {
   "조세심판원": {
    "complete": false,
@@ -10,7 +14,7 @@
   },
   "판례": {
    "complete": false,
-   "page": 338,
+   "page": 675,
    "pages": 1758,
    "per": 100,
    "total": 175726
