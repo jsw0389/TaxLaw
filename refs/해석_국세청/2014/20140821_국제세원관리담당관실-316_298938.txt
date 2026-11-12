@@ -1,0 +1,94 @@
+해석_국세청 | 국제세원관리담당관실-316 | 20140821 | 브라질에서 수취한 사용료소득의 제한세율 | ID 298938
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000154424 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 브라질에서 수취한 사용료소득의 제한세율
+문서번호: 국제세원관리담당관실-316
+생산일자: 20140821
+요지: 한-브라질 조세조약 제12조에 해당하는 사용료(상표권 제외)를 수취하는 경우 10%의 제한세율을 적용하는 것임
+
+【회신】
+내국법인이 브라질에서 수취하는 소득이 「한-브라질 조세조약」제12조【사용료】에 해당하는 경우(상표권 제외) 10%의 제한세율을 적용하는 것이며,
+이 경우 외국납부세액공제는 「한-브라질 조세조약」에 따른 제한세율에 상당하는 세액을 한도로 하여 브라질 세법에 따라 적법하게 납부한 세액을 적용하는 것입니다.
+
+【본문】
+1. 질의내용 요약
+
+가. 사실관계
+
+○질의법인은 브라질 회사에 콘텐츠를 제공하고 매월 대가를 수령하기로 함
+
+나. 질의요지
+
+○ 브라질에서 수취하는 사용료소득의 제한세율
+
+○ 제한세율을 초과한 외국납부세액의 공제 가능 여부
+
+2. 질의내용에 대한 자료
+
+가. 관련 조세법령(법률, 시행령, 시행규칙) 등
+
+○「법인세법」제57조 【외국 납부 세액공제 등】
+
+① 내국법인의 각 사업연도의 과세표준에 국외원천소득이 포함되어 있는 경우 그 국외원천소득에 대하여 대통령령으로 정하는 외국법인세액(이하 이 조에서 "외국법인세액"이라 한다)을 납부하였거나 납부할 것이 있는 경우에는 제21조제1호에도 불구하고 다음 각 호의 방법 중 하나를 선택하여 적용받을 수 있다.
+
+1. 제55조에 따라 산출한 해당 사업연도의 법인세액(토지등 양도소득에 대한 법인세액은 제외한다)에 국외원천소득이 해당 사업연도의 과세표준에서 차지하는 비율(괄호생략)을 곱하여 산출한 금액을 한도(이하 이 조에서 "공제한도"라 한다)로 외국법인세액을 해당 사업연도의 법인세액에서 공제하는 방법
+
+2. 국외원천소득에 대하여 납부하였거나 납부할 외국법인세액을 각 사업연도의 소득금액을 계산할 때 손금에 산입하는 방법
+
+○「한-브라질 조세조약」제12조【사용료】
+
+2. 그러나, 그러한 사용료는 사용료가 발생하는 체약국에서 동국의 법에 따라 과세될 수 있다. 다만, 수령인이 사용료의 수익적 소유자인 경우에 그렇게 부과되는 조세는 다음을 초과하여서는 아니된다.
+
+가. 상표의 사용 또는 사용권으로부터 발생하는 총 사용료의 25퍼센트
+
+나. 기타 모든 경우에는 총사용료의 15퍼센트
+
+3. 본 조에서 사용되는 "사용료"라 함은 문학, 예술 또는 학술작품(영화필름, 텔레비젼 또는 라디오 방송용 필름 또는 테이프를 포함)의 저작권, 특허, 상표, 의장이나 신안, 도면, 비밀공식이나 비밀공정의 사용 또는 사용권 및 산업적, 상업적 또는 학술적 장비의 사용 또는 사용권 또는 산업적, 상업적 또는 학술적 경험에 관한 정보의 대가로서 받는 모든 종류의 지급금을 의미한다.
+
+○「한-브라질 조세조약」(영어본) Article 12.【Royalties】
+
+2. However, such royalties may also be taxed in the Contracting State in which they arise and according to the laws of that State, but if the recipient is the beneficial owner of the royalties, the tax so charged shall not exceed
+
+a) 25 percent of the gross amount of the royalties arising from the use of or the right to use trade marks;
+
+b) 15 percent of the gross amount of the royalties in all other cases.
+
+3. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work (including cinematograph films, films or tapes for television or radio broadcasting), any patent, trade mark, design or model, plan, secret formula or process, or for the use of, or the right to use, industrial, commercial or scientific equipment, or for information concerning industrial, commercial or scientific experience.
+
+○「한·브라질 조세조약」상 사용료,배당 제한세율 인하에 따른 조치
+
+「한·브라질 조세조약」상 의정서 제3조에 따라 배당소득 및 사용료 소득에 대한 제한세율이 다음과 같이 인하되었음
+
+ㅁ 근거규정
+
+○ 재정경제부 국제조세과-490 (2007.8.8) 공문
+
+ㅁ 적용시기
+
+○ 배당소득 : ’98.1.1. 지급 분부터 적용
+
+○ 사용료소득 : 저작권 ’98.1.1. 지급하는 분부터
+
+기타 ’06.1.1. 지급하는 분부터
+
+ㅁ 제한세율 인하내역
+
+○ 배당소득에 대한 제한세율 인하
+
+· 당초 15% → 10% 인하
+
+○ 사용료(Royalty) 소득에 대한 제한세율 인하
+
+· 저작권(Copyright) : 당초 15% → 10% 인하
+
+· 기 타(All other cases) : 당초 15% → 10% 인하
+
+※ 상표권(Trademark right) : 종전과 같음 (25%)
+
+나. 유사사례 (판례, 심판례, 심사례, 예규)
+
+○ 국제세원관리담당관실-61, 2012.2.9.
+
+특정금전신탁이 인도네시아 국채에 투자하여 발생하는 이자소득에 대하여 인도네시아에서 납부한 세액이 있는 경우 특정금전신탁이익의 수익자인 거주자 또는 내국법인은 해당 국외원천소득에 대한 소득세 또는 법인세 과세표준 신고시 특정금전신탁이 인도네시아에서 납부한 세액에 대하여 「소득세법」제57조 또는 「법인세법」제57조에 의한 외국납부세액공제를 적용할 수 있는 것이며,
+
+이 경우 공제대상 외국납부세액은 「한-인도네시아 조세조약」제11조 규정에 따른 제한세율(10%)에 상당하는 세액을 한도로 하여 인도네시아 세법에 따라 적법하게 납부한 세액을 적용하는 것입니다.

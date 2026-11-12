@@ -1,0 +1,445 @@
+조세심판원 | 조심 2022관0149 | 20230413 | 쟁점물품의 외면에 사용된 목재가 HS 제44류 소호주 제2호 내지 관세율표 제44류 국내주 제1호의 열대산 목재에 해당하는 것으로 보아 HSK 제4412.31-4011호 등으로 분류하여 관세 등을 부과한 처분의 당부 | ID 52002
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+
+【재결요지】
+쟁점물품 외면에 사용된 쟁점목재와 관련한 처분청의 국제간접검증에 따른 수출국 지방정부 등의 회신내용 등에 비추어 쟁점목재는 HS 제44류 소호주 제2호 내지 관세율표 제44류 국내주 제1호에 따른 열대산 목재에 해당하는 것으로 판단됨
+
+【이유】
+1. 처분개요가. 청구법인은 2020.10.12.부터 2022.6.10.까지 OOO 소재 AAA(이하 “쟁점수출자”라 한다)로부터 수입신고번호 OOO 외 OOO건으로 목재 합판(이하 “쟁점물품”이라 한다)을 수입하면서, 쟁점물품의 품목번호를 HSK 제4412.31-4011호, 제4412.31-4021호, 제4412.31-4019호, 제4412.31-4029호(이하 제4412.31-4011호 또는 제4412.31-4021호로 신고한 것을 “쟁점①물품”, 제4412.31-4019호 또는 제4412.31-4029호로 신고한 것을 “쟁점②물품”이라 하며, 이들을 합하여 “쟁점물품”이라 한다)호로 신고하였고, 처분청은 이를 수리하였다.나. 청구법인은 2021.11.9. 쟁점②물품 일부(OOO)에 대하여 품목번호를 HSK 제4412.31-4011호 또는 제4412.31-4021호로 변경하는 보정 또는 수정신고 절차를 통해 세율차이로 인한 부족세액을 납부하였다.다. 청구법인은 2021.10.12.부터 2022.7.25.까지 쟁점물품의 품목번호를 HSK 제4412.31-4019호 또는 제4412.31-4029호로, 이에 따른 관세율을 「대한민국과 OOO 회원국 정부 간의 포괄적 경제협력에 관한 기본협정 하의 상품무역에 관한 협정」(이하 “한-OOO FTA”라 한다)에 따른 협정관세율 5%로 변경하면서 OOO와 같이 그 세율차이에 따른 관세 OOO원 및 부가가치세 OOO원 합계 OOO원을 과다납부한 것으로 보아 이를 환급하여 달라는 취지의 경정청구를 하였으나, 처분청은 쟁점물품의 외면에 사용된 목재(메란티 다운 르바르, 이하 “쟁점목재”라 한다)가 관세율표 제44류 국내주 제1호의 열대산 목재에 해당하는 것으로 보아 2021.12.13.부터 2022.8.22.까지 위 경정청구를 거부(이하 “쟁점처분”이라 한다)하였다.라. 청구법인은 이에 불복하여 OOO와 같이 2021.3.11. 등에 심판청구를 제기하였다.2. 청구법인 주장 및 처분청 의견가. 청구법인 주장(1) 쟁점이 동일한 다른 사건의 FTA 원산지 간접검증과정에서 쟁점물품의 한쪽 외면의 플라이(ply)가 HS 제44류 소호주 제2호(2017년 이후 관세율표 제44류 국내주 제1호와 같다)의 열대산 목재에 해당하지 않는다는 취지의 OOO 관세당국의 회신을 예외적인 사유가 구체적으로 뒷받침되지 않음에도 이를 배척하고 청구법인의 경정청구를 거부한 처분은 FTA 협정에 위배되어 위법하다.처분청은 「자유무역협정의 이행을 위한 관세법의 특례에 관한 법률」(이하 “FTA 특례법”이라 한다)의 원산지 검증절차에 따라 인도네시아 당국에 간접검증방식으로 쟁점물품의 원산지 및 쟁점물품의 한쪽 외면의 플라이가 HS 제44류 소호주 제2호의 열대산 목재에 해당하는지 여부에 대하여 질의하였고, 이에 대하여 OOO 당국은 2019.10.16. 및 2020.4.6. 회신 이외에도 2020.9.24. OOO을 통하여 “V-Legal Document에 기재된 Meranti Daun Lebar(이하 “쟁점목재”라 한다)는 Mernati Bakau와 동일 수종이 아님” 이라고 회신하였는데, 이는 처분청이 메란티 다운 르바르가 메란티 바카우와 동일한 수종이라고 생각하여 질의한 것에 OOO 당국이 수출자로부터 수령한 OOO개의 합판샘플을 정밀분석한 결과를 회신한 것이다.OOO 당국은 현지 수출자인 OOO 등에게도 벌목지에는 관세율표 제44류 국내주 제1호의 열대산 목재에 해당하는 메란티 바카우가 존재할 가능성이 없다거나, 메란티 바카우가 발견되지 않았다거나 메란티 바카우가 확인되지 않는다고 명시적으로 회신하였다.(2) 쟁점목재의 명칭은 관세율표 제44류 국내주 제1호에 특게되어 있지 아니할 뿐만 아니라 HS해설서의 제44류 부속서인 ‘특정열대산 목재의 명칭’에 기재된 표준명, 종명 및 지역명 어디에도 기재되어 있지 아니하므로 HSK 분류상 기타의 목재로 보아야 하고, 쇼레아(속)에 해당한다고 하여 반드시 HS 분류상 열대산 목재 88종에 해당하는 것은 아니며, HS 해설서에서 광범위하게 분류하고 있는 ‘열대산 목재’에 해당하는 것도 아니다.처분청은 쇼레아(속)에 해당하면 모두 열대산 목재 88종에 해당하므로 (메란티 바카우가 아니더라도) 쟁점처분은 정당하다는 취지의 의견이나, 처분청 의견에 따르더라도 쇼레아(속) 중 ‘종’ 단위 학명이 부여된 수종은 196종이나 되는데 HS 해설서 제44류 부속서 특정열대산 목재 중 쇼레아(속)에 해당되는 종은 97종 밖에 없으므로 이 의견 또한 부당하다.즉, 처분청은 쇼레아(속)에는 196개의 ‘종’이 있다고 인정하면서도, 쟁점처분을 위하여 “일반적으로 쇼레아(속)의 수종은 모두 열대산 목재 88종에 해당한다”는 명백히 잘못된 전제에서 출발하고 있는 것으로 보이는바, 만약 처분청 의견처럼 쇼레아속에 해당하기만 하면 모두 특정 열대산 목재에 속하는 것이라면, (i) HS 해설서에서 쇼레아속 중 여러 종을 특게하고 있을 하등의 이유가 없을 뿐만 아니라, (ii) 쟁점목재가 쇼레아속에 해당하는 것은 분명한바, 애당초 처분청이 굳이 조사하거나 확인할 필요도 없었다는 점을 고려하면, 처분청 의견은 그 자체로 납득하기 어렵다.(3) 처분청은 쟁점물품의 현품을 확보하여 어떤 수종을 사용한 합판인지 또는 열대산 수종에 해당한다면 HS해설서의 제44류 부속서에 열대산 수종 중 어떤 표준명에 해당하는지 등을 확인하였어야 함에도 인터넷 검색 및 관련 서적에 대한 비교만으로 쟁점물품의 외면에 사용된 쟁점목재가 열대산 목재에 해당한다고 결론을 짓고 쟁점처분을 하였는바, 이는 처분청이 입증책임을 다하지 않은 위법이 존재한다.나. 처분청 의견(1) 처분청은 위해 국제간접검증 및 학술자료 등을 근거로 쟁점목재가 특정 열대산 목재에 해당함을 입증하여 쟁점처분을 하였으므로 처분청이 국제간접검증의 결과를 아무런 근거없이 배척하였다는 취지의 청구주장은 부당하다.처분청은 쟁점물품에 대한 국제간접검증을 요청하면서 OOO 당국에 쟁점물품의 원산지충족 여부 및 쟁점목재의 HS 제44류 소호주 제2호의 ‘특정 열대산 목재’에 분류되는지를 함께 질의하여 쟁점물품의 원산지증명서를 발급한 OOO 등 OOO곳의 지방정부로부터 검증결과를 회신 받았는데, 당초 대부분의 OOO 지방정부와 수출자는 쟁점목재는 ‘메란티 바카우’나 ‘레드 메란티와 같은 수종이고, 이는 HS 제44류 소호주 제2호의 ‘특정 열대산 목재’에 해당한다는 내용으로 회신하였다. 그러다가 일부 지방정부는 당초 의견을 번복하며 “쟁점목재는 HS 제44류 소호주 제2호에 열거되어 있지 않다”라고 회신하면서, 회신내용에 대해 어떠한 사유나 근거제시를 하지 않아 처분청은 이를 신뢰할 수 없었고, 더구나 OOO곳의 지방정부 및 OOO곳의 수출자는 여전히 2차 질의에서도 1차 질의에서 회신한 내용 그대로 쟁점목재가 열대산 목재 88종에 해당한다는 의견을 유지하였다.청구법인은 OOO 당국이 ‘메란티 다운 르바르’는 ‘메란티 바카우’와 동일 수종이 아니라고 회신한 것에 대하여 쟁점목재가 특정 열대산 목재에 해당되지 않는다고 편협하게 해석하고 있으나, 이는 문언 내용 그대로 쟁점목재가 메란티 바카우(Shorea uliginosa)에 해당하지 않는다는 것일 뿐, 이에서 나아가 특정 열대산 목재에 해당하지 않는다는 의미는 아니다.오히려 OOO 당국은 ‘메란티 다운 르바르’로 불리는 목재를 Shorea 속으로 취급할 경우 다크 레드 메란티로 분류하고, Shorea uliginosa로 취급할 경우 메란티 바카우로 분류할 수 있다고 설명하면서, 합판 샘플에서 Shorea uliginosa가 확인되지 않으므로 결국 다크 레드 메란티로 분류하여야 한다는 취지로 회신하였다.OOO가 OOO 주재 OOO에게 보낸 서한문 역시 위와 동일한 취지로, “OOO 수출자들의 한정된 목재 식별 기술로 수종을 확인하는 것은 쉽지 않고, 붉은색을 띠는 목재를 ‘Meranti daun lebar’로 분류한다.”라고 설명하였고, OOO 일부 지방정부는 쟁점목재는 ‘Meranti Merah(Red meranti의 OOO 지역명)’라고 회신하였는바, 처분청은 쟁점목재가 붉은색을 띠는 메란티 나무, 즉 다크레드 메란티로 분류되는 것이 합당하다고 판단하였으므로 쟁점처분은 국제간접검증의 회신문 취지를 존중한 적법한 처분이다.(2) V-legal 서류에 쟁점목재의 학명은 쇼레아속(Shorea sp.)으로 기재되어 있고, 일반명은 Meranti daun lebar로 확인되는데, 쟁점목재는 메란티 다크 레드이거나 쇼레아속 목재는 모두 특정 열대산 목재 88종에 해당된다.처분청은 HS 해설서의 체계를 고려하여 (쟁점목재가 표준명과 지역명에 열거되어 있는지 만을 형식적으로 판단한 것이 아니라) 학명, 지역명 등을 종합적으로 고려하여 그 실질에 따라 판단하였고, 국제간접검증 회신에 따라 쟁점목재가 Shorea속(Shorea spp.) ‘다크 레드 메란티’에 속하는 특정 열대산 목재에 해당한다고 보아 한-OOO FTA 협정세율의 적용을 배제한 것이다.청구법인은 쟁점목재가 Shorea 속에 해당한다는 점은 다투지 아니하면서도, 쟁점목재의 V-legal 서류상 학명이 ‘Shorea sp.’로 기재된 이유는 ‘종(species)’ 단위 학명이 밝혀지지 않은 수종이기 때문인바, 쟁점목재의 학명이 Shorea Uliginosa에 해당하는 경우와 같이 구체적인 종 단위까지 확인된 경우에 한하여 그 학명(속명+종명)에 따라 특정 열대산 목재로 구분될 수 있을 뿐이고, ‘메란티 다운 르바르’가 HS 해설서의 표준명, 지역명 그 어디에도 포함되어 있지 아니하므로 구체적인 종 단위까지 특게되지 않은 경우에는 그 어떤 특정 열대산 목재 해당하지 아니하는 ‘기타’ 세번으로 분류하여야 한다는 취지로 주장한다.쟁점목재는 천연림에서 벌채된 목재이고, OOO는 천연림에서 벌채된 나무에 대해서는 Shorea 속에 해당하기만 하면 그 학명을 Shorea sp. 또는 Shorea spp.로 기재하는 것을 허용하고 있으므로 쟁점목재가 특정 열대산 목재에 해당하는지 여부는 HS 해설서의 체계를 고려하여 학명, 지역명 등을 종합적으로 고려하여 그 실질에 따라 어떤 표준명에 대응하는지를 판단하여야 한다.나무를 심거나 씨를 뿌려 키우는 인공조림의 경우 생산자가 수종을 선택하여 식재하기 때문에 학명을 ‘종’까지 구체적으로 기재하도록 요구할 수 있으나, 천연림의 경우 벌목업자들이 나무의 정확한 ‘종’까지 알기 어려울 뿐만 아니라 ‘종’까지 확인할 합리적인 이유 역시 없기에, 천연림에서 벌채된 나무에 대해서는 Shorea 속에 해당하기만 하면 그 학명을 Shorea sp. 또는 Shorea spp.로 기재하는 것으로 판단된다.따라서 쟁점목재의 학명이 ‘Shorea sp.’로 기재된 이유는 쟁점목재가 천연림에서 벌채된 목재로서 따로 ‘종’ 단위까지 확인할 이유가 없는 Shorea 속 메란티 나무에 해당하는 것이 명백하기 때문이다.식물학자인 OOO(이하 “OOO”이라 한다)은 Shorea 속 나무를 목재의 비중이 높은 발라우 그룹과 비중이 낮은 메란티 그룹으로 구분한 뒤, 메란티 그룹을 다시 목재의 색깔에 따라 화이트메란티, 옐로메란티, 레드메란티로 분류하였는데, HS 해설서에 수록된 Shorea 속 목재의 표준명도 크게 발라우 그룹과 메란티 그룹으로 분류되어 있고, 각 그룹은 다시 목재의 색깔에 따라 세분화하여 분류되는 점을 고려하면, Shorea 속 목재에 관한 HS 해설서상 표준명 역시 OOO의 직관적인 Shorea 속 분류체계에 기초한 것으로 보인다.HS 해설서는 Shorea 속 열대산 목재의 학명에 공통적으로 ‘Shorea spp.’를 기재하면서 그 이하에 구체적으로 종명까지 특정된 학명들을 기재하고 있는데, 학명에 공통적으로 ‘Shorea spp.’를 기재하면서 그 아래에 구체적 종명까지 확인된 학명들을 기재하고 있는 이유는 각 표준명으로 취급되는 특징을 가진 수종들을 예시함으로써 Shorea 속 목재를 식별하고 분류하는 데 편의를 제공하기 위한 것이고, 청구법인의 주장처럼 구체적인 종 단위까지 특게되지 않은 경우 열대산 목재에 해당하지 않는다면 종 단위까지 구체적으로 기재된 학명만을 기재하면 족할 것이지 공통적으로 ‘Shorea spp.’를 함께 기재할 이유가 없다.이 건의 쟁점은 학명이 ‘Shorea spp.’로 기재된 쟁점목재의 품목분류인 것인바, 쟁점목재는 천연림에서 벌채된 메란티 나무로 그 학명은 Shorea sp.인 점, HS 해설서는 Shorea 속 목재를 모두 특정 열대산 목재로 포함하고 있는 점, 쟁점목재는 현지에서 가장 흔한 메란티 나무로서 짙은 붉은 색을 띠는 성상을 가지고 있는 점, 이에 OOO의 회신 역시 ‘메란티 다운 르바르(Shorea sp.)’로 불리는 목재를 다크 레드 메란티로 분류할 수 있다고 회신하고 있는 점, 나아가 실제로 수출자들도 쟁점목재와 동일한 일반명을 가진 목재를 상업적으로 다크레드메란티로 거래하고 있는 점 등을 종합적으로 고려하면, 쟁점목재는 관세율표 제44류 국내주 제1호의 다크 레드 메란티(Dark Red Meranti)에 속하는 특정 열대산 목재에 해당한다.(3) 수입하는 물품이 협정관세의 적용대상이라는 점에 대해서는 이를 주장하는 청구법인이 증명책임을 부담하는 것인바, 단순히 HS 해설서의 표준명, 지역명 그 어디에도 포함되어 있지 않다는 점만을 피상적으로 살펴 특정 열대산 목재에 해당하지 않는다는 청구법인의 주장은 타당하지 않다.앞서 살펴본 바와 같이 처분청은 HS 해설서의 체계를 고려하여 (쟁점목재가 표준명과 지역명에 열거되어 있는지만을 형식적으로 판단한 것이 아니라) 학명, 지역명 등을 종합적으로 고려하여 그 실질에 따라 판단하였고, 청구법인의 주장처럼 구체적인 종 단위까지 특게되지 않은 경우 그 어떤 특정 열대산 목재에 해당하지 않는다고 본다면 학명에 공통적으로 ‘Shorea spp.’를 기재한 이유를 설명할 방도가 없으며, 국제간접검증 회신에 따라 쟁점목재가 Shorea속 ‘다크레드 메란티’에 속하는 특정 열대산 목재에 해당한다고 보아 쟁점처분을 한 것이다.3. 심리 및 판단가. 쟁 점쟁점물품의 외면에 사용된 관세율표 제44류 국내주 제1호의 열대산 목재에 해당하는지 여부나. 관련 법령 등 : ＜별지3＞ 기재다. 사실관계 및 판단(1) 쟁점물품은 각 플라이(ply)의 두께가 OOOmm인 단판 OOO매 이상의 홀수의 플라이(ply)를 직각으로 교차하여 적층한 두께 OOOmm 이상 OOOmm 미만의 목재 합판으로, 쟁점물품의 ‘V-legal 문서’에 기재된 쟁점목재의 일반명은 ‘메란티 다운 르바르(Meranti Daun Lebar)’이고, 학명은 ‘쇼레아속(Shrorea sp.)’인 것으로 나타난다(2) OOO는 불법 벌목과 불법 목재거래를 방지하고 산림자원을 관리하기 위하여 목재 제품의 수출입을 규제하면서, 자국에서 수출되는 목재가 합법적인 산품임을 증명하기 위해 2013년부터 목재합법성 보증시스템(System Verifikasi Legalitas Kayu, SVLK)을 운영하고 있는데, 이 시스템에 따라 목재합법성 검증기관이 발급한 ‘V-legal 문서’에는 발급기관명, V-legal 문서 발급 번호, 수출국, 수출업체명, 목재의 일반명과 학명(Common name and Scientific name), HS code, 벌채국, 부피, 중량, 수량이 기재되어 있다.(3) HS 협약은 국제 무역에 있어서 열대산 목재의 비중이 증가하는 현실을 반영하고 전 지구적 산림자원의 관리를 용이하게 하고자 1996년 HS 개정 시 제44류 소호주 제2호에 특정 열대산 목재를 지정하였는데, 해당 열대산 목재는 ‘발라우(Balau)ㆍ다크 레드 메란티(Dark Red Meranti)ㆍ라이트 레드 메란티(Light Red Meranti)ㆍ메란티 바카우(Meranti Bakau)ㆍ화이트 메란티(White Meranti)ㆍ옐로 메란티(Yellow Meranti) 등을 포함한 총 88개의 표준명’으로 되어 있고, 각 표준명에는 해당 목재의 학명(속명 또는 속명과 종명까지 표시)과 목재 생산국 및 소비국에서 부르는 지역명이 연계되어 있다.이들 열대산 목재의 이름은 OOO가 권고한 표준명에 따라 지정한 것이며, 이들 표준명(pilot-name)은 주요 생산국이나 소비국에서 사용하는 일반명을 기초로 한 것이다.이후 2017년 HS 개정 시, OOO, OOO 등은 임업자원의 교역 모니터링과 무역통계 수집을 위해 열대산 목재의 범위를 확대하는 개정안을 제출하였고, OOO는 이 개정안을 수용하여 종전에 88개의 표준명만을 정하고 있던 제44류 소호주 제2호를 삭제하고, 열대산 목재의 범위를 306개의 표준명으로 확대하여 HS 해설서 부록에 삽입하였다.우리나라는 2017년 HS 개정시 위 HS 제44류 소호주 제2호의 내용을 신설된 관세율표 제44류 국내주 제1호에 그대로 반영하였다.(4) 청구법인은 쟁점목재의 이름(메란티 다운 르바르)이 HS 해설서 부록의 표준명과 지역명 어디에도 기재되어 있지 않으므로 특정 열대산 목재가 아니라는 취지로 주장하고, 처분청은 표준명이 다양한 지역명을 모두 반영할 수는 없어 편의상 대표성을 부여하여 지정한 일종의 표제이므로 특정 열대산 목재에 해당하는지 여부는 목재의 분류체계를 고려하여 표준명뿐만 아니라 지역명과 학명을 함께 검토하여야 한다는 의견이다.(5) V-legal 서류에 따르면, 쟁점목재의 학명은 쇼레아속(Shorea sp.), 일반명은 메란티 다운 르바르인 것으로 확인되는데, 인터넷에서 쇼레아를 검색하면 쇼레아속은 열대우림의 나무로 196종(species)이 있고, 상업적으로는 lauan, luan, lawaan, meranti, seraya, balau, bangkirai, Philippine mahogany 등의 일반명으로 거래되고 있다고 나타나며, 처분청은 식물학자 OOO 분류체계를 기초로 쇼레아속의 목재는 Balau, Red Meranti, White Meranti, Yellow Meranti로 구분되고 이들에 대한 특정 열대산 목재의 표준명은 Balau redㆍBalau yellowㆍSal, Meranti dark redㆍMernati light redㆍMeranti bakauㆍAlan, Meranti white, Meranti yellow로 구분된다고 하면서, 쇼레아속 목재는 모두 특정 열대산 목재에 분류된다는 의견이다.한편, 위 lauan, seraya, meranti 등은 특정 열대산 목재 중 표준명 Meranti dark red의 지역명에 포함되어 있다.(6) V-legal 코드를 보면 학명에 Shorea sp.로 기재된 것과 구체적인 ‘종’의 이름이 기재된 것이 있는데, 이는 V-legal 문서 작성지침인 OOO 규정(OOO)의 부록 OOO에 따른 것으로, V-legal 코드작성시 나무의 ‘종’은 반드시 구체적으로 기재되어야 하고, 천연림(hutan alam)을 제외하고는 sp.와 spp.를 사용하지 않도록 규정하고 있다(예 : Tectona grandis로 기재되어야 하고, Tectona sp.로 기재하여서는 안됨). 그러나 천연림의 경우에는 sp.와 spp.를 일반적으로 사용한다고 하면서 그러한 예로 Shorea sp.을 들고 있다.V-legal 코드 1001은 쟁점목재로 학명이 Shorea sp.로만 기재되어 있는 것에 비해 1005 Meranti Merah, 1011 Meranti Merah tua, 1012 Meranti Merah Muda, 1014 Meranti Merah, 1028 Meranti Kuning, 1029 Meranti Puth, 1100 Meranti Batu 등은 모두 학명이 ‘Shorea + 종명’으로 표기되어 있다.(7) 국제간접검증 과정에서 OOO 지방정부별로 쟁점목재의 분류에 대한 회신내용을 보면 OOO와 같이 OOO 외 OOO개 지방정부가 쟁점목재는 특정 열대산 목재에 해당하는 HS 제4412.31호(2016년 HS 기준)에 분류된다고 회신하였다.(8) OOO 산하 연구기관인 OOO에서 발간한 “OOO 무역목재의 분류”에서는 Meranti merah tua를 Meranti daun lebar, Meranti kelungkung daun, pengarawan buaya로 부른다고 하고, 국제협력 산림보호 프로젝트인 ‘OOO’가 발간한 “OOO 자연 늪지 숲의 나무”에서는 거래명이 Meranti Merah인 목재를 ‘Meranti daun lebar, Meranti kelungkum(Sumatra), Pengarawan buaya(Kalamantan barat)’ 등의 지역명으로 부르며 Red Meranti로 알려져 있다고 설명하고 있다.(9) OOO 지방정부는 쟁점목재와 Meranti Bakau는 다른 수종으로 쟁점목재의 벌채구역에 Meranti Bakau가 존재할 가능성이 없다고 회신하였으며, OOO가 2019.2.18. 회신한 내용, OOO가 2020.8.10. 회신한 내용 및 OOO의 목재합법성 서류 발급기관인 OOO가 2020.8.14. 회신한 내용 등에는 쟁점목재의 벌목 지역에 Meranti Bakau가 존재할 가능성이 없거나 발견되지 않았다고 기재되어 있다.(10) OOO청장은 2019.7.9. OOO 관세당국에 쟁점물품이 원산지기준을 충족하는지 여부와 쟁점물품의 외면에 사용된 목재의 수종을 확인하여 줄 것을 요청하였고, 이에 대하여 OOO 관세당국은 2020.4.6. 쟁점물품은 원산지기준을 충족하고 있고, 쟁점물품의 외면에 쟁점목재(메란티 다운 르바르)가 사용되었다고 회신하였다.(11) 다른 업체가 2020.8.24. 처분청의 2020.7.24.자 과세전통지에 대하여 과세전적부심사를 청구하자, OOO청장이 2020.12.23. 재조사 결정을 하였고, 처분청은 2021.1.15. 및 2021.4.9. OOO에 관세당국에 쟁점물품에 대한 샘플 분석결과 확인된 수종 및 그 분석결과를 알 수 있는 서류를 제출하여 줄 것과 쟁점목재의 상세 학명 및 HS 제44류 소호주 제2호의 열대산 목재에 해당하는지 여부에 대하여 추가로 질의하였으나, OOO 관세당국은 2021.2.23. 및 2021.6.11. 샘플에서 확인된 종명 및 근거자료는 제출하지 아니한 채 샘플에서는 Uliginosa종이 발견되지 않았으며, 쟁점목재를 쇼레아속으로 취급할 경우 ‘다크 레드 메란티’로 분류가능하나, Uliginosa종으로 취급할 경우에는 메란티 바카우로 분류가능하다고 회신하였다.(12) OOO 지방정부는 2019.9.4. ‘쟁점물품의 외면에 사용된 목재는 쟁점목재, 빈탄구르, 케나리이고, 이들은 HS 제44류 소호주 제2호에 해당하지 않는다’는 취지로 회신하였고, 처분청은 2020.7.27. 이 회신과 관련하여 OOO 지방정부에 원산지증명서 별로 사용된 목재를 구분하여 줄 것을 요청하였으나, OOO 지방정부는 2020.8.24. 구분할 수 없다고 회신하였다.(13) 이상의 사실관계 및 관련 법령 등을 종합하여 살피건대, 청구법인은 쟁점목재가 관세율표 제44류 국내주 제1호에 규정하고 있는 특정 열대산 목재의 표준명이나 지역명 어디에도 열거되어 있지 아니하고 처분청 또한 쟁점목재가 특정 열대산 목재의 어느 수종에 해당하는지에 대하여 구체적으로 입증하지 못하였음에도 특정 열대산 목재에 해당하는 것으로 단정하고 청구법인의 경정청구를 거부한 처분은 잘못이라고 주장한다.그러나, 쟁점물품과 동일한 물품의 외면에 사용된 목재의 품목분류와 관련하여 OOO 등 OOO 지방정부는 쟁점목재가 특정 열대산 목재에 해당한다고 하면서 쟁점물품을 HS 제4412.31호(2016년 HS 기준)로 분류하여야 한다고 회신하였고, OOO 관세당국도 쟁점목재를 쇼레아속으로 취급할 경우 ‘다크 레드 메란티’로 분류할 수 있다고 회신한 점, OOO 산하 연구기관인 OOO에서 발간한 “OOO 무역목재의 분류”에서 표준명 Meranti dark red의 지역명에 연계된 Meranti merah tua를 Meranti daun lebar로 부르고, 국제협력 산림보호 프로젝트인 ‘OOO’가 발간한 “OOO 자연 늪지 숲의 나무”에서도 거래명이 Meranti Merah인 목재를 Meranti daun lebar라는 지역명으로 부르면서 Red Meranti라고 하고 있으며, 인터넷에서 쇼레아를 상업적으로 부르는 lauan, meranti, seraya 등은 표준명 Meranti dark red에 연계된 지역명에 모두 포함되어 있는 점, OOO의 쇼레아속 목재의 분류체계에 따르면 메란티류는 모두 특정 열대산 목재의 어느 하나에 해당되는 것으로 보이는 점, 청구법인은 저율의 협정관세율이 적용되는 품목이라고 주장하면서도 쟁점목재가 특정 열대산 목재가 아니라는 주장만 할 뿐 어떤 수종의 목재인지에 대하여 달리 근거를 제시하지 아니하고 있는 점 등에 비추어 처분청이 쟁점목재를 특정 열대산 목재에 해당하는 것으로 보아 경정청구를 거부한 이 건 처분은 잘못이 없다고 판단된다.4. 결론이 건 심판청구는 심리결과 청구주장이 이유 없으므로「관세법」제131조와「국세기본법」 제80조의2및 제65조 제1항 제2호에 의하여 주문과 같이 결정한다.＜별지3＞ 관련 법령 등(1) 관세법 [별표] 관세율표관세율표의 해석에 관한 통칙관세율표의 품목분류는 다음 원칙에 따른다.1.이 표의 부(部)·류(類)·절(節)의 표제는 참조하기 위하여 규정한 것이다. 법적인 목적상 품목분류는 각 호(號)의 용어와 관련 부나 류의 주(註)에 따라 결정하되, 각 호나 주에서 따로 규정하지 않은 경우에는 다음 각 호의 규정에 따른다.6.법적인 목적상 어느 호(號) 중 소호(小號)의 품목분류는 같은 수준의 소호(小號)들만을 서로 비교할 수 있다는 점을 조건으로 해당 소호(小號)의 용어와 관련 소호(小號)의 주(註)에 따라 결정하며, 위의 모든 통칙을 준용한다. 또한 이 통칙의 목적상 문맥에서 달리 해석되지 않는 한 관련 부(部)나 류(類)의 주(註)도 적용한다.제44류목재와 그 제품, 목탄국내주:1. 제4412.31호에서 “이 류의 국내주 제1호의 열대산 목재”란 다음 목재 중의 하나를 말한다.아부라(Abura)ㆍ아까주다푸리케(Acajou d'Afrique)ㆍ아프로모지아(Afrormosia)ㆍ아코(Ako)ㆍ아란(Alan)ㆍ안디로바(Andiroba)ㆍ아닌그레(Aningre)ㆍ아보디레(Avodire)ㆍ아조베(Azobe)ㆍ발라우(Balau)ㆍ발사(Balsa)ㆍ보세크레어(Bosse clair)ㆍ보세폰세(Bosse fonce)ㆍ카티보(Cativo)ㆍ세드로(Cedro)ㆍ다베마(Dabema)ㆍ다크레드메란티(Dark Red Meranti)ㆍ디베토우(Dibetou)ㆍ도우시에(Doussie)ㆍ프라미레(Framire)ㆍ프레이조(Freijo)ㆍ프로마거(Fromager)ㆍ푸마(Fuma)ㆍ게롱강(Geronggang)ㆍ이롬바(Ilomba)ㆍ임부아(Imbuia)ㆍ이페(Ipe)ㆍ이로코(Iroko)ㆍ자보티(Jaboty)ㆍ제루통(Jelutong)ㆍ제퀴티바(Jequitiba)ㆍ종콩(Jongkong)ㆍ카풀(Kapur)ㆍ켐파스(Kempas)ㆍ케루잉(Keruing)ㆍ코시포(Kosipo)ㆍ코티베(Kotibe)ㆍ코토(Koto)ㆍ라이트레드메란티(Light Red Meranti)ㆍ림바(Limba)ㆍ로우로(Louro)ㆍ마카란두바(Macaranduba)ㆍ마호가니(Mahogany)ㆍ마코레(Makore)ㆍ만디오퀘이라(Mandioqueira)ㆍ만소니아(Mansonia)ㆍ멩쿠랑(Mengkulang)ㆍ메란티바카우(Meranti Bakau)ㆍ메라완(Merawan)ㆍ 멜바우(Merbau)ㆍ멜포(Merpauh)ㆍ멜사와(Mersawa)ㆍ모아비(Moabi)ㆍ니안곤(Niangon)ㆍ니야토(Nyatoh)ㆍ오베체(Obeche)ㆍ오꾸메(Okoume)ㆍ온자빌리(Onzabili)ㆍ오레이(Orey)ㆍ오방콜(Ovengkol)ㆍ오지고(Ozigo)ㆍ파다우크(Padauk)ㆍ팔다오(Paldao)ㆍ파리산드레드과테말라(Palissandre de Guatemala)ㆍ파리산드레드파라(Palissandre de Para)ㆍ파리산드레드리오(Palissandre de Rio)ㆍ파리산드레드로세(Palissandre de Rose)ㆍ파우아말레로(Pau Amarelo)ㆍ파우말핌(Pau Marfim)ㆍ풀라이(Pulai)ㆍ푸나(Punah)ㆍ콰루바(Quaruba)ㆍ라민(Ramin)ㆍ사팰리(Sapelli)ㆍ사퀴-사퀴(Saqui-Saqui)ㆍ세퍼티르(Sepetir)ㆍ시포(Sipo)ㆍ수쿠피라(Sucupira)ㆍ수렌(Suren)ㆍ타우아리(Tauari)ㆍ티크(Teak)ㆍ티아마(Tiama)ㆍ토라(Tola)ㆍ비롤라(Virola)ㆍ화이트라왕(White Lauan)ㆍ화이트메란티(White Meranti)ㆍ화이트세라야(White Seraya)ㆍ옐로메란티(Yellow Meranti)(2) 품목분류 적용기준에 관한 고시[별표1] HS해설서제44류의 [소호해설]특정열대산 목재의 명칭제4403호, 제4407호, 제4408호, 제4409호와 제4412호의 관련 소호에 있어서, 열대산 목재의 이름은 열대산 목재 국제기술협회(ATIBT), 국제발전을 위한 프랑스 농업 연구센터(CIRAD) 와 국제열대목재기구(ITTO)가 권고한 표준명에 따라 지정한 것이며, 이들 표준명(pilot-name)은 주요 생산국이나 소비국에서 사용하는 일반명을 기초로 한 것이다.관련 표준명을 여기에 대응하는 학명과 속명과 함께 이 류의 총설 끝 부록에 게재한다.부속서 Pilot-names
+Scientific names
+Local names
+
+Alan
+
+Shorea albida Sym.
+
+Malaysia
+
+Alan-Batu,
+Red Selangan,
+Meraka,
+Selangan Merah,
+Alan-Paya
+
+Balau red
+
+Shorea spp.
+
+Shorea balangeran (Korth.) Burck
+
+Shorea collina Ridl.
+
+Shorea guiso Blume
+
+Shorea inaequilateralis Sym.
+
+Shorea kunstleri King
+
+Shorea ochrophloia Strugnell ex Desch.
+Indonesia
+
+Malaysia
+
+Philippines
+
+Thailand
+
+Germany
+UK
+Belangeran,
+Balau Merah
+Balau Laut Merah,
+Damar Laut Merah,
+Balau Membatu,
+Balau Merah,
+Red Selangan Batu,
+Membatu,
+Seri,
+Selangan Batu Merah,
+Seraya Sirup,
+Selangan Batu No. 1,
+Sengawan,
+Semayur,
+Empenit-Meraka
+Guijo,
+Gisok
+Makata,
+Chankhau
+
+Red Balau
+Red Balau
+
+Balau yellow
+
+Shorea spp.
+
+Shorea argentea C.F.C. Fisher
+
+Shorea atrinervosa Sym.
+
+Shorea balangeran (Korth.) Burck
+
+Shorea barbata Brandis
+
+Shorea ciliata King
+
+Shorea exelliptica W. Meijer
+
+Shorea foxworthyi Sym.
+
+Shorea gisok Foxw.
+
+Shorea glauca King
+
+Shorea laevis Ridl.
+
+Shorea laevifolia (Parijs.) Endert
+
+Shorea materialis Ridl.
+
+Shorea maxwelliana King
+
+Shorea obtusa Wall. ex Blume
+
+Shorea roxburghii G. Don
+
+Shorea seminis V. Sl.
+
+Shorea submontana Sym.
+
+Shorea sumatrana Sym.
+
+Shorea scrobiculata Burck
+
+Shorea superba Sym.
+India
+Indonesia
+
+Malaysia
+
+Myanmar
+Philippines
+
+Thailand
+
+Germany
+UK
+Sal
+Bangkirai,
+Agelam,
+Benuas,
+Brunas,
+Selangan batu,
+Kumus,
+Kedawang,
+Pooti
+Damar laut
+Kumus,
+Sengkawan Darat,
+Balau Kumus,
+Balau Simantok,
+Selangan Batu No.1,
+Selangan Batu No.2
+Thitya
+Yakal,
+Gisok,
+Malaykal
+Chan,
+Ak or Aek,
+Pa-Yom Dong
+
+Balau
+Balau,
+Selangan Batu
+
+Meranti,
+Dark red
+
+Shorea spp.
+
+Shorea curtisii Dyer ex King
+
+Shorea pauciflora King
+Shorea platyclados Sloten ex Endert
+
+Shorea argentifolia Sym.
+
+Shorea ovata Dyer ex King
+
+Shorea parvifolia King
+Shorea singkawang (Miq.) Burck
+
+Shorea pachyphylla Ridl. ex Sym.
+
+Shorea acuminata Dyer
+
+Shorea hemsleyana King
+Shorea leprosula Miq.
+
+Shorea macrantha Brandis
+
+Shorea hemsleyana (King) King ex Foxw.
+
+Shorea platycarpa Heim.
+
+Shorea polysperma (Blanco) Merr.
+Indonesia
+
+Malaysia
+
+Philippines
+
+UK
+
+USA
+Red Meranti,
+Red Mertih,
+Meranti Ketung, Meranti Bunga,
+Meranti Merah-Tua
+Nemesu,
+Meranti Bukit,
+Meranti Daun Basar,
+Dark Red Seraya,
+Obar Suluk,
+Seraya Bukit,
+Seraya Daun,
+Binatoh,
+Engbang-Chenak,
+Meranti Bunga Sengawan
+Tanguile,
+Bataan,
+Red Lauan
+
+Red Lauan,
+Dark Red Seraya
+Dark Meranti
+
+Meranti,
+Light red
+
+Shorea spp.
+
+Shorea acuminata Dyer
+
+Shorea dasyphylla Foxw.
+
+Shorea hemsleyana (King) King ex Foxw.
+
+Shorea macrantha Brandis
+
+Shorea johorensis Foxw.
+
+Shorea lepidota (Korth.) Bl.
+
+Shorea leprosula Miq.
+
+Shorea macroptera Dyer
+
+Shorea sandakanensis Sym.
+
+Shorea ovalis (Korth.) Bl.
+
+Shorea parvifolia Dyer
+
+Shorea palembanica Miq.
+
+Shorea platycarpa Heim.
+
+Shorea teysmanniana Dyer ex Brandis
+
+Shorea revoluta Ashton
+
+Shorea argentifolia Sym.
+
+Shorea leptoclados Sym.
+
+Shorea smithiana Sym.
+
+Shorea albida Sym.
+
+Shorea macrophylla (de Vriese) Ashton
+
+Shorea quadrinervis Slooten.
+
+Shorea gysbertsiana Burck
+
+Shorea pachyphylla Ridl. ex Sym.
+Indonesia
+
+Malaysia
+
+Philippines
+
+Thailand
+Red Meranti,
+Meranti Merah-Muda,
+Meranti Bunga
+Damar Siput,
+Meranti-Hantu,
+Meranti Kepong,
+Meranti Langgang,
+Meranti Melanthi,
+Meranti Paya,
+Meranti Rambai,
+Meranti Tembaga,
+Meranti Tengkawang,
+Meranti Sengkawang,
+Engkawang,
+Seraya Batu,
+Seraya Punai
+Seraya Bunga,
+Kawang
+Almon,
+Light Red Luan
+Saya Khao,
+Saya Lueang,
+Chan Hoi
+
+Meranti,
+White
+
+Shorea spp.
+
+Shorea agami Ashton
+
+Shorea assamica Dyer
+
+Shorea bracteolata Dyer
+
+Shorea dealbata Foxw.
+
+Shorea henryana Lanessan
+
+Shorea lamellata Foxw.
+
+Shorea resinosa Foxw.
+
+Shorea roxburghii G. Don
+
+Shorea stalura Roxb.
+
+Shorea hypochra Hance
+
+Shorea hentonyensis Foxw.
+
+Shorea sericeiflora C.E.C. Fischer ＆ Hutch.
+
+Shorea farinosa C.E.C. Fischer
+
+Shorea gratissima Dyer
+
+Shorea ochracea Sym.
+
+Parashorea malaanonan (Blco.) Merr.
+
+Shorea polita S. Vidal
+Cambodia
+
+Indonesia
+
+Malaysia
+
+Myanmar
+Philippines
+
+Thailand
+
+Vietnam
+Lumber,
+Koki Phnom
+Meranti Putih,
+Damar Puthi
+Meranti Jerit,
+Meranti Lapis,
+Meranti Pa’ang or Kebon Tang,
+Meranti Temak,
+Melapi,
+White Meranti
+Makai
+White Lauan,
+White Meranti
+Pendan,
+Pa Nong,
+Sual,
+Kabak Kau,
+Xen,
+Chai
+
+Meranti,
+Yellow
+
+Shorea spp.
+
+Shorea faguetiana Heim.
+
+Shorea dolichocarpa Slooten.
+
+Shorea maxima (King) Sym.
+
+Shorea longisperma Roxb.
+
+Shorea gibbosa Brandis
+
+Shorea multiflora (Burck) Sym.
+
+Shorea hopeifolia (Heim.) Sym.
+
+Shorea resina-nigra Foxw.
+
+Shorea peltata Sym.
+
+Shorea acuminatissima Sym.
+
+Shorea blumutensis Foxw.
+
+Shorea faguetioides Ashton
+Indonesia
+
+Malaysia
+
+Thailand
+Meranti Kuning,
+Kunyit,
+Damar Hitam
+Meranti Telepok,
+Meranti Kelim,
+Yellow Meranti,
+Meranti Damar Hitam,
+Yellow Seraya,
+Seraya Kuning,
+Selangan Kuning,
+Selangan Kacha,
+Seraya Kuning,
+Lun Kuning,
+Lun Gajah,
+Lun Merat,
+Lun Siput
+Kalo
+
+Meranti Bakau
+
+Shorea rugosa F. Heim
+
+Shorea uliginosa Foxw.
+
+Sal
+Shorea obtusa Wall.
+Shorea robusta C.F. Gaertn.
+Asie du Sud-Est
+Rang
+
+특정열대산 목재의 명칭1(쟁점목재와 관련된 것만 발췌)주: 세 번째 란은 수출국의 국가명과 함께 수출국에서 사용하는 상거래 관습상의 명칭을 나타내고 있다. 수입국에서 사용하는 상거래 관습명의 명칭이 표준명(pilot-name)과 다른 경우에는 이탤릭체(italics)로 표시한다.(3) 자유무역협정의 이행을 위한 관세법의 특례에 관한 법률제8조[협정관세의 적용신청 등] ① 협정관세를 적용받으려는 자(이하 “수입자”라 한다)는 수입신고의 수리 전까지 대통령령으로 정하는 바에 따라 세관장에게 협정관세의 적용을 신청하여야 한다.② 제1항에 따라 협정관세의 적용을 신청할 때에 수입자는 원산지증빙서류를 갖추고 있어야 하며, 세관장이 요구하면 제출하여야 한다.③ 세관장은 수입자가 제2항 본문에 따라 요구받은 원산지증빙서류를 제출하지 아니하거나 수입자가 제출한 원산지증빙서류만으로 해당 물품의 원산지를 인정하기가 곤란한 경우에는 제35조에 따라 협정관세를 적용하지 아니할 수 있다.④ 세관장은 제1항에 따른 협정관세의 적용신청을 받은 경우에는 수입신고를 수리한 후에 심사한다. 다만, 관세채권을 확보하기가 곤란하거나 수입신고를 수리한 후 원산지 및 협정관세 적용의 적정 여부를 심사하는 것이 부적당하다고 인정하여 기획재정부령으로 정하는 물품은 수입신고를 수리하기 전에 심사한다.제17조[원산지에 관한 조사] ① 관세청장 또는 세관장은 수출입물품의 원산지 또는 협정관세 적용의 적정 여부 등에 대한 확인이 필요하다고 인정하는 경우에는 협정에서 정하는 범위에서 대통령령으로 정하는 바에 따라 다음 각 호의 어느 하나에 해당하는 자를 대상으로 필요한 서면조사 또는 현지조사를 할 수 있다.1. 수입자2. 수출자 또는 생산자(체약상대국에 거주하는 수출자 및 생산자를 포함한다)3. 원산지증빙서류 발급기관4. 제16조 제1항 제3호의 자② 관세청장 또는 세관장은 제1항에 따라 체약상대국에 거주하는 수출자ㆍ생산자 또는 제1항제4호에 해당하는 자 중 체약상대국에 거주하는 자(이하 이 조에서 “체약상대국의 조사대상자”라 한다)를 대상으로 현지조사를 하는 경우에는 그 조사를 시작하기 전에 체약상대국의 조사대상자에게 조사 사유, 조사 예정기간 등을 통지하여 동의를 받아야 한다.③ 제2항에 따른 통지를 받은 체약상대국의 조사대상자는 관세청장 또는 세관장이 통지한 예정 조사기간에 조사를 받기가 곤란한 경우에는 대통령령으로 정하는 바에 따라 그 통지를 한 관세청장 또는 세관장에게 조사의 연기를 신청할 수 있다.④ 관세청장 또는 세관장은 제2항에 따른 통지를 받은 체약상대국의 조사대상자가 20일 이상의 기간으로서 기획재정부령으로 정하는 기간 이내에 그 동의 여부를 통보하지 아니하거나 동의하지 아니한 경우에는 현지조사를 할 수 없다.⑤ 관세청장 또는 세관장은 제1항에 따라 체약상대국의 조사대상자를 대상으로 서면조사 또는 현지조사를 할 때에는 수입자 및 체약상대국의 관세당국에 그 사실을 서면으로 통지하여야 한다. 이 경우 체약상대국의 관세당국에 대한 통지는 협정에서 정하는 경우에만 한다.⑥ 관세청장 또는 세관장은 제1항에 따른 서면조사 또는 현지조사를 마치면 조사 결과와 그에 따른 결정 내용을 기획재정부령으로 정하는 기간 이내에 조사대상자(체약상대국의 조사대상자가 생산 또는 수출한 물품을 수입한 자를 포함한다) 및 체약상대국의 관세당국에 서면으로 통지하여야 한다. 이 경우 체약상대국의 관세당국에 대한 통지는 협정에서 정하는 경우에만 한다.⑦ 제6항에 따른 통지 내용에 이의가 있는 조사대상자(체약상대국의 조사대상자가 생산 또는 수출한 물품을 수입한 자를 포함한다)는 조사 결과를 통지받은 날부터 30일 이내에 대통령령으로 정하는 바에 따라 관세청장 또는 세관장에게 이의를 제기할 수 있다.⑧ 제1항에 따라 조사를 받는 조사대상자의 조력을 받을 권리에 관하여는「관세법」 제112조를 준용한다.⑨ 세관공무원은 제1항에 따라 조사를 하는 때에는 필요한 최소한의 범위에서 조사를 하여야 하며, 다른 목적을 위하여 조사권을 남용해서는 아니 된다.제19조[체약상대국에 대한 원산지 확인 요청] ① 관세청장 또는 세관장은 체약상대국에서 수입된 물품과 관련하여 협정에서 정하는 범위에서 원산지 또는 협정관세 적용의 적정 여부 등에 대한 확인에 필요하다고 인정하는 경우에는 원산지증빙서류의 진위 여부와 그 정확성 등에 관한 확인을 체약상대국의 관세당국에 요청할 수 있다.② 관세청장 또는 세관장은 제1항에 따라 확인을 요청한 사실을 수입자에게 알려야 하며, 체약상대국의 관세당국으로부터 확인 결과를 통보받은 때에는 그 회신 내용과 그에 따른 결정 내용을 수입자에게 알려야 한다.③ 제1항 및 제2항에 따른 원산지 확인 요청의 방법ㆍ절차와 그 밖에 필요한 사항은 대통령령으로 정한다.(4) 대한민국과 동남아시아국가연합 회원국 정부 간의 포괄적 경제협력에 관한 기본협정 하의 상품무역에 관한 협정부속서3 원산지 규정부록 1 원산지 규정을 위한 원산지 증명 운영절차제13조4. 원산지증명서의 유효성과 관련된 정보는 수입 당사국의 요청이 있는 경우 원산지증명서에 서명할 권한이 있고 적절한 정부 당국이 인정한 공무원이 제공한다.5. 관련 당사국간에 통보된 정보는 비밀로 취급되며, 원산지증명서의 유효성 확인을 위해서만 사용된다.제14조1. 수입 당사국은 무작위로 그리고/또는 서류의 진정성 또는 당해 물품 또는 그 물품의 특정 부분품의 진정한 원산지에 관한 정보의 정확성에 대하여 합리적인 의심이 있는 때에는 수출 당사국의 발급기관에 사후검증을 요청할 수 있다. 그러한 요청이 있으면 수출 당사국의 발급기관은 특정한 수출일을 전후한 6월의 기간동안 비용 및 가격을 근거로 한 생산자 그리고/또는 수출자의 원가소명서에 대한 사후검증을 다음 절차에 따라 수행하여야 하여야 한다.가. 사후검증이 무작위로 요청된 것이 아닌 한, 사후검증을 위한 수입 당사국의 요청시 관련된 원산지증명서를 동봉하며 그 이유와 동 원산지증명서상의 특정 사항이 부정확하다는 추가정보를 명시하여야 한다.나. 사후검증 요청을 받은 수출 당사국의 발급기관은 신속히 그 요청에 응하며, 그 요청을 받은 후 2월 이내에 회신하여야 한다.다. 수입 당사국의 관세당국은 검증결과를 기다리는 동안 특혜관세대우의부여를 보류할 수 있다. 그러나 필요한 행정조치를 조건으로, 수입자에게 물품을 반출할 수 있다. 다만, 물품이 수입금지 또는 제한의 대상이 아니어야 하고 부정한 행위의 의심이 있어서는 아니 된다.라. 발급기관은 검증절차의 결과를 수입 당사국에 신속히 전달하고 그 후 수입 당사국은 대상 물품이 원산지 물품인지 여부를 결정하여야 한다. 그 물품의 원산지 여부의 결정결과를 수출 당사국의 발급기관에 통보하는 절차를 포함하는 사후검증의 모든 과정은 6월 이내에 완료되어야 한다. 사후검증 절차가 수행되는 동안에는 다호가 적용된다.2. 수입 당사국의 관세당국은 제1항에 따른 사후검증을 요청하기 전에, 그 국내법령에 따라 수입자에게 수입물품의 원산지와 관련된 정보 또는 서류를 요청할 수 있다.제16조1. 당사국은 국내법과 규정에 따라, 제14조 및 제15조에 따른 검증과정에서 수집한 영업 비밀을 유지하고, 정보를 제공하는 인의 경쟁적 지위를 저해할 수 있는 공개로부터 그 정보를 보호한다.2. 당사국의 국내법과 규정 및 협정에 따라 비밀정보는 원산지 결정의 운영 및 집행 목적으로만 한 당사국의 당국에 의하여 다른 당사국에 대해서 공개될 수 있다.
+의결일자: 20230413
+
+【사건명】
+쟁점물품의 외면에 사용된 목재가 HS 제44류 소호주 제2호 내지 관세율표 제44류 국내주 제1호의 열대산 목재에 해당하는 것으로 보아 HSK 제4412.31-4011호 등으로 분류하여 관세 등을 부과한 처분의 당부
+
+【주문】
+심판청구를 기각한다.
+세목: 관세
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 52002
+재결례유형코드: 429150
+재결례유형명: 조세

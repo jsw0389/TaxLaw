@@ -1,0 +1,46 @@
+해석_국세청 | 서면-2016-법령해석국조-4943[법령해석과-4176] | 20161222 | 외국인교수에 대한 「한·미 조세조약」제20조, 「한·중 조세조약」제21조 적용 여부 | ID 294638
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000215690 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 외국인교수에 대한 「한·미 조세조약」제20조, 「한·중 조세조약」제21조 적용 여부
+문서번호: 서면-2016-법령해석국조-4943
+회신번호: 법령해석과-4176
+생산일자: 20161222
+
+【요지】
+「한·미 조세조약」제20조에 따른 소득세 면제요건을 충족하는 미국 거주자에 대하여는 해당 강의목적으로 국내에 도착한 일자로부터 2년을 초과하지 아니하는 기간동안 소득세를 과세하지 않는 것임
+
+【회신】
+귀 서면질의의 경우
+1) 「한․미 조세조약」제20조에 따른 소득세 면제요건을 충족하는 미국 거주자에 대하여는 해당 강의목적으로 국내에 도착한 일자로부터 2년을 초과하지 아니하는 기간동안 소득세를 과세하지 않는 것이고 재입국 등의 사유로 2년을 초과하여 국내에서 동 조약에 따른 교직자 면세 규정을 적용받을 수 없는 것입니다.
+2) 「한․중 조세조약」제21조에 따른 소득세 면제요건을 충족하는 중국 거주자에 대하여는 해당 강의목적으로 국내에 도착한 일자로부터 3년동안 소득세를 과세하지 않는 것이고 재입국 등의 사유로 3년을 초과하여 국내에서 동 조약에 따른 교직자 면세 규정을 적용받을 수 없는 것입니다.
+
+【본문】
+1. 사실관계
+
+○ 질의법인은 외국(미국, 중국)에서 초청한 외국인교수의 근로소득에 대하여 조세조약을 검토하여 면세를 적용하고 있음
+
+2. 질의내용
+
+○ 교직자 보수 면세조항인 「한․미 조세조약」 제20조 및「한․중 조세조약」 제21조에서는 면세요건을 갖춘 교직자는 국내 도착한 날로부터 2년(3년) 기간내의 소득에 대하여 국내에서 면세되는 것으로 규정하고 있는 바,
+
+- 이 때 ‘국내 도착한 날’을 강의 목적으로 입국한 날로 보는지 해당 교직자가 국내에 최초로 입국(도착)한 날로 보는지 여부
+
+3. 관련법령
+
+○ 한․미 조세조약 제20조【교직자】
+
+(1) 일방 체약국의 거주자가, 타방 체약국이 정부, 그 정치적 하부조직 또는 지방공공단체 또는 동 타방 체약국내의 기타 인가된 교육기관에 의하여, 대학 또는 기타 인가된 교육기관에서의 강의 또는 연구의 목적으로 또는 강의와 연구의 양자를 위한 목적으로 2년을 초과하지 아니할 예정의 기간동안 동 타방 체약국으로 초청되고 또한 일차적으로 그러한 목적을 위하여 동 타방 체약국에 오는 경우 상기 대학 또는 교육기관에서의 강의 또는 연구에 대한 인적용역으로부터 받는 동 거주자의 소득은, 동 거주자가 타방체약국에 도착한 일자로부터 2년을 초과하지 아니하는 기간 동안 동 타방 체약국에 의한 과세로부터 면제된다.
+
+(2) 상기 연구가, 공공의 이익을 위하지 아니하고 일차적으로 특정인 또는 특정인들을 위하여 수행되는 경우에, 동 연구로부터 받는 소득에는 본조가 적용되지 아니한다.
+
+Article 20.【 TEACHERS】[1979.10.20]
+
+(1) Where a resident of one of the Contracting States is invited by the Government of the other Contracting State, a political subdivision, or local authority thereof, or by a university or other recognized educational institution in that other Contracting State to come to that other Contracting State for a period not expected to exceed 2 years for the purpose of teaching or engaging in research, or both, at a university or other recognized educational institution and such resident comes to that other Contracting State primarily for such purpose, his income from personal services for teaching or research at such university or educational institution shall be exempt from tax by that other Contracting State for a period not exceeding 2 years from the date of his arrival in that other Contracting State.
+
+○ 한․중 조세조약 제21조【교사 및 연구자】
+
+일방체약국의 거주자이거나 타방체약국을 방문하기 직전에 일방체약국의 거주자이었으며, 타방체약국의 종합대학.단과대학.학교 또는 타방체약국의 정부에 의하여 비영리기관으로 승인된 기타 교육기관 또는 학술연구기관의 초청으로, 그러한 기관에서 교수.강의 또는 연구를 위한 목적만으로 동 타방체약국에 체재하는 개인은 동 타방체약국에 최초 도착한 날로부터 3년의 기간동안 그러한 교수.강의 또는 연구로부터 취득하는 보수에 대하여 동 타방체약국의 조세로부터 면제된다.
+
+Article 21.【 Teachers and Researcher】[1994.09.28]
+
+An individual who is, or immediately before visiting a Contracting State, was a resident of the other Contracting State and, at the invitation of a university, college, school or other educational institution or scientific research institution recognized as non-profitable by the Government of the first-mentioned Contracting State, is present in the first-mentioned Contracting State solely for the purpose of teaching, giving lectures or conducting research, shall be exempt from tax in the first-mentioned Contracting State, for a period of three years from the date of his first arrival in the first-mentioned Contracting State in respect of remuneration for such teaching, lectures or research.
