@@ -1,0 +1,10 @@
+해석_국세청 | 소비세과-99 | 20090116 | 「MICKEY FINN PRESSED RED APPLE」의 주류 종류 | ID 150732
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000074593 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 「MICKEY FINN PRESSED RED APPLE」의 주류 종류
+문서번호: 소비세과-99
+생산일자: 20090116
+요지: 럼 증류주에 당분, 산분, 향료, 색소 등을 혼합한 후 여과・제성하는 주류로 불휘발분 2w/v% 이상은 “리큐르”에 해당
+
+【회신】
+「MICKEY FINN PRESSED RED APPLE」은 럼 증류주에 당분, 산분, 향료, 색소 등을 혼합한 후 여과·제성하는 주류로서 분석결과 알코올분 15.0v/v%, 불휘발분 31.8w/v%로 주류의 종류는 주세법§4①3마목 “리큐르”에 해당됨을 회신합니다.

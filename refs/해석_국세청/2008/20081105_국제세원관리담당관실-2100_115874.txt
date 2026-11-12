@@ -1,0 +1,79 @@
+해석_국세청 | 국제세원관리담당관실-2100 | 20081105 | 마샬아일랜드법인의 선박으로 인한 국제운수소득의 면제 여부 | ID 115874
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000076281 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 마샬아일랜드법인의 선박으로 인한 국제운수소득의 면제 여부
+문서번호: 국제세원관리담당관실-2100
+생산일자: 20081105
+요지: 상호주의에 따라 선박으로 인한 국제운수소득은 면제됨
+
+【회신】
+한국법인이 마샬아일랜드공화국에서 얻은 선박으로 인한 국제운수소득이 마샬아일랜드공화국에서 「마샬아일랜드공화국소득세법1989」제122조 제3항(Bill No：147, 2007.09.25.신설)의 규정에 따라 과세를 면제받는 경우, 마샬아일랜드공화국 법인이 한국에서 얻은 선박으로 인한 국제운수소득에 대하여도 「법인세법」제91조 제1항 제3호의 규정에 따라 동일하게 한국에서 과세를 면제하는 것입니다. 다만, 선박의 나용선 임대소득에 대하여는 상호면세규정이 적용되지 않는 것입니다.
+
+【본문】
+【관련 참고자료】
+
+1. 질의내용 요약
+
+○ 사실관계
+
+- 외국법인 A는 마샬아일랜드공화국의 거주자인 법인임
+
+- A법인은 선박의 외국항행으로 인하여 국제운수소득이 발생함
+
+- 마샬아일랜드공화국은 2007.9.25. 「마샬아일랜드공화국소득세법1989」을 개정(Bill No : 147)하여 비거주자가 선박의 운용으로 인한 국제운수 중 마샬아일랜드에서 발생하는 소득에 대하여 세금을 면제하는 규정을 제122조에 신설하였음
+
+○ 질의요지
+
+마샬아일랜드 법인이 한국에서 얻은 선박의 국제운수소득이 우리나라에서 면제되는지 여부
+
+2. 질의내용에 대한 자료
+
+가. 관련조세법령(법, 시행령, 시행규칙)
+
+○ 「법인세법」 제91조 【과세표준】
+
+① 국내사업장을 가진 외국법인과 제93조 제3호의 규정에 따른 소득이 있는 외국법인의 각 사업연도의 소득에 대한 법인세의 과세표준은 국내원천소득의 총합계액(제98조 제1항의 규정에 따라 원천징수되는 국내원천소득금액을 제외한다)에서 다음 각 호의 규정에 따른 금액 또는 소득을 순차로 공제한 금액으로 한다. (2006. 12. 30. 개정)
+
+1. 각 사업연도의 개시일전 5년 이내에 개시한 사업연도에 발생한 결손금(국내에서 발생한 결손금에 한한다)으로서 그 후의 각 사업연도의 과세표준계산에 있어서 공제되지 아니한 금액 (1998. 12. 28. 개정)
+
+2. 이 법 및 다른 법률에 의한 비과세소득 (1998. 12. 28. 개정)
+
+3. 선박 또는 항공기의 외국항행으로 인하여 발생하는 소득. 다만, 그 외국법인의 본점 또는 주사무소가 있는 외국이 우리나라의 법인이 운용하는 선박 또는 항공기에 대하여 동일한 면제를 하는 경우에 한한다. (1998. 12. 28. 개정)
+
+② 제1항의 규정에 해당하지 아니하는 외국법인의 경우에는 제93조 각호의 구분에 의한 각 국내원천소득의 금액을 당해 법인의 각 사업연도의 소득에 대한 법인세의 과세표준으로 한다. (1998. 12. 28. 개정)
+
+③ 제1항의 규정에 해당하는 외국법인의 국내원천소득으로서 제98조 제1항의 규정에 의하여 원천징수되는 소득에 대한 법인세의 과세표준은 제93조 각호의 구분에 의한 각 국내원천소득의 금액으로 한다. (1998. 12. 28. 개정)
+
+④ 제1항 제3호의 규정은 국내사업장을 가지고 있지 아니하는 외국법인에 대하여도 이를 적용한다. (1998. 12. 28. 개정)
+
+○ 「Republic of the Marshall Islands Income Tax Act 1989(Bill No : 147, 2007.09.25.개정)」 제120조 【Interpretation】
+
+In this Part the word：
+
+(a) 생략
+
+(b) "non-resident person" means a person or body who is not permanently resident in the Republic of the Marshall Islands, or a business not registered in the republic of the Marshall Islands, or an entity that carries on the business of operating ships in international traffic that is not incorporated in the Republic of the Marshall Islands and that does not have its central management and control, as determined by the place where its Board of Directors or equivalent body meets, in the Republic of the Marshall Islands, and who does not pay any taxes under Parts Ⅱ or Ⅲ of this Chapter including a firm, partnership, company or corporation, whether incorporated or unincorporated, or any other business entity.
+
+○ 「Republic of the Marshall Islands Income Tax Act 1989(Bill No : 147, 2007.09.25.개정)」 제122조 【Persons, Organizations, and Entities Exempted】
+
+(1) 생략
+
+(2) The provision of Part Ⅲ and Part Ⅵ of this Chapter, and the taxes levied thereunder, shall not apply to the revenue of a non-resident person earned in the Marshall Islands from the operation of a ship in international traffic, if the country where the non-resident person resides grants substantially similar tax relief for the year to a person who is a resident of the Marshall Islands.
+
+(3) Prior to claiming an exemption under the provisions of this Section an application must be made in the prescribed manner to the Secretary. Qualifying persons or activities will be issued a certificate evidencing their status under this Section.
+
+나. 관련 예규(예규, 해석사례, 심사, 심판)
+
+○ 서면2팀-1122, 2008.06.04.
+
+외국법인의 국제운수소득이 페루에서 세법상 상호면세가 보장되어 한국법인이 페루에서 얻은 국제운수소득이 면세된다면, 페루법인이 한국에서 얻은 국제운수소득도 면세되는 것임. 다만 선박 또는 항공기의 나용선 임대소득에 대하여는 상호면세규정이 적용되지 않는 것임.
+
+○ 서면2팀-1069, 2006.06.13.
+
+외국법인의 국제운수소득은 국제운수소득에 대한 상호면세협정이 체결된 경우와 상대국이 법적으로 상호면세를 보장하는 경우 면세하는 것으로, 귀 질의의 상대국이 법적으로 상호면세를 보장하는지 확인하기 바라며, 아울러 기존 예규(국총46017-9, 1999.1.7. ; 서면2팀-1078, 2005.7.12.)를 참고하기 바람.
+
+○ 서면2팀-1078, 2005.07.12.
+
+외국법인의 국제운수소득은 국제운수소득에 대한 상호 면세협정이 체결된 경우와 상대국이 법적으로 상호면세를 보장하는 경우 면세하는 것으로, 귀 질의의 경우 상대국이 법적으로 상호면세를 보장하는 지 확인하기 바람.
+
+그리고 「법인세법」 제91조 제1항 제3호의 규정에 우리나라의 상호면세주의원칙은 당해 선박의 국적 여하에 따라 적용되는 것이 아니라, 동 선박의 국적 여하에 불구하고 동 선박을 운영하는 법인의 본점 또는 주사무소 소재지국의 여하(기업 소재지국 기준)에 따라 적용되는 것임.
