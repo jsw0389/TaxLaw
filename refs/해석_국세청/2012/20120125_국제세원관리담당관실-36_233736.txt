@@ -1,0 +1,98 @@
+해석_국세청 | 국제세원관리담당관실-36 | 20120125 | 국내 거주자 등이 호주 지방채권에 투자하여 수취하는 이자소득에 대한 국내 과세 여부 | ID 233736
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000147675 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 국내 거주자 등이 호주 지방채권에 투자하여 수취하는 이자소득에 대한 국내 과세 여부
+문서번호: 국제세원관리담당관실-36
+생산일자: 20120125
+요지: 정부 등에 해당하지 아니하는 국내 거주자 등이 호주 지방채권에 투자하여 수취하는 이자소득은 국내에서 소득세 또는 법인세가 과세되는 것임
+
+【회신】
+「한･호주 조세조약」제11조제3항은 일방체약국의 정부, 정부기능을 수행하는 기타 단체, 중앙은행이 타방체약국에서 발생한 이자를 수취하는 경우 타방체약국에서 조세가 면제되는 것을 규정한 것으로
+정부 등에 해당하지 아니하는 거주자 또는 내국법인이 호주 지방 정부가 발행하는 채권에 투자하여 수취하는 이자소득은 「한･호주 조세조약」제11조제3항에 따른 이자소득에 해당되지 않는 것이며 국내에서 소득세 또는 법인세가 과세되는 것입니다.
+
+【본문】
+1. 질의내용 요약
+
+가. 사실관계
+
+○ 거주자 및 거주법인이 증권사의 특정금전신탁을 통해 호주 지방채권에 투자하려고 합니다. 이 때 발생하는 이자소득의 국내 과세여부에 관하여 질의합니다.
+
+나. 질의요지
+
+○ 거주자 및 거주법인이 증권사의 특정금전신탁을 통해 호주 지방채권에 투자해 이자소득이 발생하는 경우 동 이자소득의 국내 과세 여부
+
+2. 질의내용에 대한 자료
+
+가. 관련 조세법령(법률, 시행령, 시행규칙) 등
+
+○ 한-호주 조세조약 제1조【인적범위】 [1984.01.01]
+
+이 협약은 일방 또는 양 체약국의 거주자인에게 적용된다.
+
+This Convention shall apply to persons who are residents of one or both of the Contracting States.
+
+○ 한-호주 조세조약 제3조【일반적 정의】 [1984.01.01]
+
+1. 이 협약의 목적상 문맥에 따라 달리 해석되지 아니하는 한 아래 용어들은 각각 다음의 의미를 가진다.
+
+가. ～ 나. (생략)
+
+다. "일방체약국" 및 "타방체약국"이라 함은 문맥에 따라 호주 또는 한국을 의미한다.
+
+라. "인"이라 함은 개인, 법인 및 기타인들의 단체를 의미한다.
+
+(d) the term "person" means an individual, a company and any other body of persons;
+
+마. (이하생략)
+
+○ 한- 호주 조세조약 제11조【이자】 [1984.01.01]
+
+1. 일방체약국에서 발생한 이자로서 타방체약국의 거주자가 수익할 권리를 가지는 이자는 동 타방체약국에서 과세될 수 있다.
+
+2. 그러한 이자는 동 이자가 발생하는 체약국에서 또한 동 체약국의 법에 따라서 과세될 수 있으나 그렇게 부과되는 조세는 동 이자의 총액의 15퍼센트를 초과하여서는 아니된다.
+
+3. 일방체약국의 정부에 의하여 또는 일방체약국에서나 동 체약국의 일부지방에서 정부의 기능을 수행하는 기타 단체에 의하여 또는 일방체약국에서 중앙은행의 기능을 수행하는 은행에 의하여 발생되는 이자는 타방체약국에서 조세로부터 면제된다.
+
+3. Interest derived by the Government of a Contracting State or by any other body exercising governmental functions in or in a part of a Contracting State, or by a bank performing central banking functions in a Contracting State, shall be exempted from tax in the other Contracting State.
+
+4. (이하생략)
+
+○ 한-호주 조세조약 제29조【종료】 [1984.01.01]
+
+(생략)
+
+이상의 증거로써 아래 서명자는 각자의 정부로부터 정당히 권한을 위임받아 이 협약에 서명하였다.
+
+1982년 7월 12일 캔버라에서 동등히 정본인 한국어와 영어로 2부씩 작성하였다.
+
+○ 한-호주 조세조약 Article 29.【Termination】[1984.01.01]
+
+(생략)
+
+IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed this convention.
+
+Done in duplicate at Canberra this twelfth day of July of the year one thousand nine hundred and eighty-two in the Korean and English languages, both texts being equally authoritative.
+
+○ 한-호주 조세조약 의정서(1984.01.01)
+
+의 정 서
+
+대한민국정부와 호주정부는 소득에 관한 조세의 이중과세회피와 탈세방지를 위한 양국간의 협약에 서명함에 있어서 이 협약의 불가분의 일부를 이루는 다음의 규정에 대하여 합의하였다.
+
+(중략)
+
+이상의 증거로써 아래 서명자는 각자의 정부로부터 정당히 권한을 위임받아 이 의정서에 서명하였다.
+
+1982년 7월 12일 캔버라에서 동등히 정본인 한국어와 영어로 2부씩 작성하였다.
+
+○ 한-호주 조세조약 Article 999.[1984.01.01]
+
+The Government of the Republic of Korea and the Government of Australia
+
+HAVE AGREED AT THE SIGNING of the Convention between the two Governments for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income upon the following provisions which shall form an integral part of the said Convention.
+
+(중략)
+
+IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed this Protocol.
+
+Done in duplicate at Canberra this twelfth day of July the year one thousand nine hundred and eighty-two in the Korean and English languages, both texts being equally authoritative.
