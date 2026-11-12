@@ -1,0 +1,153 @@
+해석_국세청 | 국제세원관리담당관실-350 | 20100728 | 내국법인이 해외자회사를 위하여 제공하는 Comfort Letter의 지급보증 해당 여부 | ID 307144
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000140580 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 내국법인이 해외자회사를 위하여 제공하는 Comfort Letter의 지급보증 해당 여부
+문서번호: 국제세원관리담당관실-350
+생산일자: 20100728
+
+【요지】
+내국법인이 해외자회사가 현지 금융기관으로부터 차입시 동 금융기관에 법적인 변제의무를 부담하지 않는‘Comfort Letter’를 제공하는 경우, 동 Letter 제공은 「국제조세조정에 관한 법률 시행령」제6조의2제1항의‘지급보증’에 해당하지 않으나 동 Letter의 제공이 특수관계 없는 독립기업간 거래라면 별도의 대가를 수취했을 용역제공에 해당하는 경우 「국제조세조정에 관한 법률」제4조에 따른 정상가격 조정대상에 해당하는 것임.
+
+【회신】
+내국법인이 해외자회사가 현지 금융기관으로부터 자금을 차입시 동 금융기관에 법적인 변제의무를 부담하지 않는‘Comfort Letter’를 제공하는 경우, 내국법인의 동 Letter 제공은 「국제조세조정에 관한 법률 시행령」제6조의2제1항의‘지급보증’에 해당하지 않으나 동 Letter의 제공이 특수관계 없는 독립기업간 거래라면 별도의 대가를 수취했을 용역제공에 해당하는 경우에는 「국제조세조정에 관한 법률」제4조에 따른 정상가격 조정대상에 해당하는 것입니다.
+
+【본문】
+【관련 참고자료】
+
+1. 질의내용 요약
+
+○ 사실관계
+
+- 내국법인이 해외자회사가 현지 금융기관으로부터 자금 차입시 동 금융기관에 Comfort Letter를 제공함
+
+- 동 Letter의 내용은 다음과 같음
+
+․내국법인이 현지금융기관에 대하여 해외자회사의 해외금융기관에 대한 채무가 전액변제되기 전에는 해외자회사의 청산 또는 채권자와의 채무조정을 진행하지 아니함
+
+․현지금융기관의 서면동의를 받거나 해외금융기관의 해외자회사에 대한 채무를 전액상환하지 않는 한, 지분감소로 인하여 경영권 상실이 초래될 지분 매각을 하지 아니함
+
+○ 질의요지
+
+- 내국법인이 해외자회사가 현지 금융기관으로부터 자금을 차입시 동 금융기관에 Comfort Letter(전액변제전 자회사 청산 및 지분매각 금지)를 제공하는 경우,
+
+- 내국법인의 동 Letter 제공이 지급보증에 해당되는지 여부
+
+2. 질의내용에 대한 자료
+
+가. 관련조세법령(법, 시행령, 시행규칙)
+
+○ 국제조세조정에 관한 법률 제4조【정상가격에 의한 과세조정】
+
+① 과세당국은 거래 당사자의 어느 한 쪽이 국외특수관계자인 국제거래(그 어느 한 쪽이 국내사업장인 경우로서 「소득세법」 제119조 또는 「법인세법」 제93조에 따른 국내원천소득을 발생시키는 거래는 제외한다. 이하 이 장에서 같다)에서 그 거래가격이 정상가격보다 낮거나 높은 경우에는 정상가격을 기준으로 거주자(내국법인과 국내사업장을 포함한다. 이하 이 장에서 같다)의 과세표준 및 세액을 결정하거나 경정할 수 있다.
+
+○ 국제조세조정에 관한 법률 시행령 제6조의2【용역거래의 경우 정상가격】
+
+① 거주자와 국외특수관계자 간의 경영관리, 금융자문, 지급보증, 전산지원 및 기술지원, 그 밖에 사업상 필요하다고 인정되는 용역의 거래(이하 이 조에서 "용역거래"라 한다)의 가격이 다음 각 호의 요건을 모두 충족하는 용역거래의 가격인 경우 그 거래가격은 정상가격으로 보아 손금으로 인정한다.
+
+1. 용역제공자가 사전에 약정을 체결하고 그 약정에 따라 용역을 실제로 제공할 것
+
+2. 용역제공을 받은 자가 제공받은 용역으로 인하여 기대되는 추가적인 수익 또는 절감되는 비용이 존재할 것
+
+3. 제공받은 용역에 대한 대가가 법 제5조 및 이 영 제4조 내지 제6조에 따라 산정될 것. 이 경우 법 제5조제1항제3호의 원가가산방법 또는 이 영 제4조제2호 다목의 거래순이익률방법인 경우에는 다음 각 목의 기준에 따라 산정한다.
+
+가. 발생한 원가에는 그 용역의 제공을 위하여 직접 또는 간접으로 발생한 비용 모두를 포함할 것
+
+나. 용역제공자가 그 용역을 수행하기 위하여 용역제공자 외의 또 다른 국외특수관계자 또는 특수관계가 없는 제3자에게 해당용역의 일부 또는 전부를 대행하여 수행할 것을 의뢰하고 대금을 일괄하여 지급한 후 이에 대한 비용을 용역을 제공받는 자에게 재청구하는 경우 용역제공자는 자신이 그 용역과 관련하여 직접 수행한 활동으로부터 발생한 원가에 대하여만 통상의 이윤을 가산할 것. 다만, 용역의 내용과 거래상황 및 관행에 비추어 합리적이라고 인정되는 경우에는 그러하지 아니하다.
+
+4. 제1호 내지 제3호의 사실을 입증하는 문서를 구비ㆍ보관하고 있을 것
+
+② 제1항에 불구하고 용역을 제공받는 자가 제공받는 용역과 동일한 용역을 다른 국외특수관계자가 자체적으로 수행하고 있거나 특수관계가 없는 자가 다른 국외특수관계자를 위하여 제공하고 있는 경우에는 제1항에 따른 용역거래로 보지 아니한다. 다만, 사업 및 조직구조의 개편, 구조조정 및 경영의사결정의 오류를 줄이는 등의 합리적인 사유로 일시적으로 중복된 용역을 제공하는 경우를 제외한다.
+
+○ 국제조세조정에 관한 법률 제14조【배당으로 간주된 이자의 손금 불산입】
+
+① 내국법인(외국법인의 국내사업장을 포함한다. 이하 이 장에서 같다)의 차입금 중 국외지배주주로부터 차입(차입)한 금액과 국외지배주주의 지급보증(담보의 제공 등 실질적으로 지급을 보증하는 경우를 포함한다)에 의하여 제3자로부터 차입한 금액이 그 국외지배주주가 주식 등으로 출자한 출자지분의 3배를 초과하는 경우에는 그 초과분에 대한 지급이자 및 할인료는 대통령령으로 정하는 바에 따라 「법인세법」 제67조에 따른 배당 또는 기타사외유출로 처분된 것으로 보고 그 내국법인의 손금(손금)에 산입하지 아니한다. 이 경우에 차입금의 범위와 손금에 산입하지 아니하는 것으로 보는 금액의 산정방법은 대통령령으로 정한다.
+
+○ 국제조세조정에 관한 법률 기본통칙 14-0…2 【지급보증의 범위】
+
+법 제14조 제1항의 규정을 적용받는 내국법인(외국법인의 국내사업장을 포함한다)의 제3자 차입금에 대한 국외지배주주의 지급보증의 범위에는 지급보증서의 유무, 지급보증서의 종류 또는 지급보증방법에 불구하고 내국법인 등의 채무불이행시 국외지배주주가 실질적으로 채무를 이행하여야 하는 모든 형태의 지급보증을 포함한다.(2004.6.15 제정)
+
+○ OECD Transfer Pricing Guideline
+
+7.6 정상거래원칙에 의하면, 그룹내 한 기업이 그룹내 다른 하나 또는 그 이상의 기업을 위하여 어떤 활동을 수행한 경우에 있어서의 그룹내부 용역거래의 존부문제는, 그러한 활동이 그룹내의 다른 각 기업에게 그 사업상의 지위를 제고시키는 경제적 또는 사업적 가치를 제공했는지에 따라서 결정되어야 한다. 유사상황의 정상거래이라면, ‘비특수관계기업이 그러한 활동을 자신을 위하여 수행하는 경우 대가를 지급할 것인가’ 또는 ‘자체적으로 그러한 활동을 수행할 것인가’ 하는 것을 생각해 봄으로써 이 문제를 결정할 수 있다. 정상거래가 대가를 지급하거나 자체적으로 수행할 성격의 활동이 아니라면, 정상거래원칙에 따라서 그 활동을 그룹내부 용역거래로 보아서는 안 될 것이다.
+
+7.6 Under the arm's length principle, the question whether an intra-group service has been rendered when an activity is performed for one or more group members by another group member should depend on whether the activity provides a respective group member with economic or commercial value to enhance its commercial position. This can be determined by considering whether an independent enterprise in comparable circumstances would have been willing to pay for the activity if performed for it by an independent enterprise or would have performed the activity in-house for itself. If the activity is not one for which the independent enterprise would have been willing to pay or perform for itself, the activity ordinarily should not be considered as an intra-group service under the arm's length principle.
+
+7.9 그룹내 다른 하나 이상의 기업 또는 그룹 전체와 관련된 활동이 수행되는 경우에는 한층 복잡한 분석이 필요하다. 이러한 경우 중의 일부 제한된 영역에서는 그룹내의 기업들이 어떤 활동을 필요로 하지 않음에도 불구하고(따라서 정상거래 이었다면 대가를 지불하지 않을 것임) 이들 기업들과 관련된 그룹내부의 활동이 수행될 수 있다. 그룹내 한 기업이(통상 모회사나 지역별 지주회사) 단지 자신의 다른 기업에 대한 소유권 행사차원에서(즉, 주주로서의 역량 행사차원에서) 수행하는 활동이 이러한 활동에 해당된다. 이런 유형의 활동에 대한 대상기업의 대가 지급은 정당화되지 않는다. 1979년도 보고서에서 이러한 활동보다 넓은 의미로 사용되었던 ‘후견활동’(‘stewardship activities’)과 구분키 위하여, 이런 활동을 주주활동(‘shareholder activities’)이라고 통칭할 수 있을 것이다. 후견활동이란 주주에 의하여 수행되는 넓은 범위의 활동들을 의미하는데 여기에는 예를 들면 조정센터(‘coordinating center’)가 제공하는 용역등, 그룹내 다른 기업에 대한 용역제공이 포함될 수도 있다. 이러한 후자의 비주주적 활동(‘non-shareholder activities’)에는 특정사업의 세부기획용역, 위기관리나 기술자문(문제해결(trouble shooting)), 또는 경우에 따라 일상관리활동의 지원등이 포함될 수 있다.
+
+7.9 A more complex analysis is necessary where an associated enterprise undertakes activities that relate to more than one member of the group or to the group as a whole. In a narrow range of such cases, an intra-group activity may be performed relating to group members even though those group members do not need the activity (and would not be willing to pay for it were they independent enterprises). Such an activity would be one that a group member (usually the parent company or a regional holding company) performs solely because of its ownership interest in one or more other group members, i.e. in its capacity as shareholder. This type of activity would not justify a charge to the recipient companies. It may be referred to as a "shareholder activity", distinguishable from the broader term "stewardship activity" used in the 1979 Report. Stewardship activities covered a range of activities by a shareholder that may include the provision of services to other group members, for example services that would be provided by a coordinating centre. These latter types of non-shareholder activities could include detailed planning services for particular operations, emergency management or technical advice (trouble shooting), or in some cases assistance in day-to-day management.
+
+7.13 마찬가지로 특수관계기업이 받는 부수적인 혜택이, 수행되는 특정활동에 기인하는 것이 아니고 단지 그 기업이 보다 큰 그룹의 구성원이라는 사실에 기인하는 경우에는 그 기업이 내부용역을 제공받는 것으로 취급해서는 안된다. 예를 들면, 특수관계기업이 단지 그 특수관계만으로 인하여 정상거래인 때보다 높은 신용등급을 얻은 경우에는 내부용역이 없었던 것으로 되지만, 높은 신용등급이 그룹내 다른 기업의 보증때문이거나 그 기업이 전세계적 마아케팅이나 광고 전략에서 생겨난 그룹명성으로 인하여 혜택을 보는 경우에는 일반적으로 내부용역이 있었던 것으로 된다. 이런 점에서 단순한 특수관계와, 그룹내 특정기업의 이익잠재력을 능동적으로 제고시키는 다국적기업 그룹특징에 대한 적극적인 인지촉진노력을 구분하여야 한다.
+
+7.13 Similarly, an associated enterprise should not be considered to receive an intra-group service when it obtains incidental benefits attributable solely to its being part of a larger concern, and not to any specific activity being performed.
+
+For example, no service would be received where an associated enterprise by reason of its affiliation alone has a credit-rating higher than it would if it were unaffiliated, but an intra-group service would usually exist where the higher credit rating were due to a guarantee by another group member, or where the enterprise benefitted from the group's reputation deriving from global marketing and public relations campaigns. In this respect, passive association should be distinguished from active promotion of the MNE group's attributes that positively enhances the profit-making potential of particular members of the group. Each case must be determined according to its own facts and circumstances.
+
+○ 민법 제428조【보증채무의 내용】
+
+① 보증인은 주채무자가 이행하지 아니하는 채무를 이행할 의무가 있다.
+
+○ 은행법 제2조【정의】
+
+① 이 법에서 사용하는 용어의 정의는 다음과 같다.
+
+6. "지급보증"이라 함은 금융기관이 타인의 채무를 보증하거나 인수하는 것을 말한다.
+
+나. 관련 예규(예규, 해석사례, 심사, 심판)
+
+○ 서면2팀-255, 2007.2.6.
+
+내국법인이 「국제조세조정에 관한 법률(이하 “국조법”이라 한다)」 제2조에서 규정하는 국외특수관계에 있는 중국 자회사의 중국내 자금차입과 관련하여 보증신용장(Stand-by L/C)에 의한 지급보증을 하여 피보증인의 채무불이행시 그 차입금에 대한 지급의무를 내국법인이 부담하는 경우 동 보증신용장(Stand-by L/C)에 의한 지급보증거래는 「국조법」 제2조 제1항 제1호에서 규정하는 국제거래에 해당하는 것으로 동법 제4조의 규정에 의한 정상가격에 의한 과세조정의 대상이 되는 것이며 당해 거래의 정상가격은 동법 제5조의 규정에 따르는 것임.
+
+○ 구.재정경제부 국제조세과-298, 2004.5.20.
+
+내국법인의 국외특수관계자의 금융차입과 관련한 지급보증에 대한 우리부의 유권해석(국제조세과-115, 2003.12.18.)은 국세기본법기본통칙 2-2-2…18(새로운 해석의 적용시점)에 따라 새로운 해석이 있은 날 이후에 납세의무가 성립하는 분부터 적용하는 것임.
+
+○ 대법원 99다56192, 2001.10.12.
+
+여신거래의 한 형태로서의 지급보증이란 은행이 거래처(지급보증 신청인)의 위탁에 따라 그 거래처가 제3자에 대하여 부담하는 채무를 보증하여 주는 거래로서, 은행과 거래처 사이에 체결된 보증위탁계약에 터잡아 은행이 다시 채권자와 사이에 보증계약을 체결함으로써 성립하고 그로 인하여 지급보증을 한 은행은 거래처가 주채무를 이행하지 못할 경우에 그 보증채무를 이행할 의무를 지게 되며, 이러한 지급보증계약은 통상 은행이 지급보증서라는 형식의 서면에 보증 의사표시를 하여 피보증인인 거래처로 하여금 채권자에게 전달하는 방식으로 체결되고, 그 보증 범위는 지급보증서 등에 표시된 보증의사의 해석을 통하여 결정된다고 할 것이다.
+
+○ 서면2팀-1039, 2004.5.19.
+
+내국법인이 국내 금융기관과 『역구매카드가맹계약』을 체결하고 동 계약에 다른 한도설정 등을 위해 모법인인 국외지배주주로부터 LOC(Letter of Comfort)를 통하여 실질적인 자금의 지급보증을 받는 경우 이에 따라 내국법인이 국내 금융기관에 지급하는 기간이자 성격인 매출채권조기회수에 대한 수수료는 국제조세조정에 관한 법률 제14조 및 같은법시행령 제25조의 규정에 의한 과소자본세제가 적용되는 지급이자 할인료에 해당하는 것임.
+
+○ 제도46017-10853, 2001.4.27.
+
+내국법인(외국인투자법인)의 모법인이 외국은행에 「Comfort Letter」 등을 제공하고, 이에 따라 내국법인(외국인투자법인)이 동 외국은행으로부터 자금을 차입하는 경우, 동 차입금이 국제조세조정에 관한 법률 제14조 제1항의 국외지배주주의 지급보증에 의하여 제3자로부터 차입한 금액에 해당하는지의 여부는 예규［국총 46017-460(1999.7.1.)］를 참고바람.
+
+※ 국총 46017-460, 1999.7.1.
+
+금융기관으로부터 자금을 차입하는 내국법인이 채무불이행시에 내국법인을 대신하여 채무의 변제를 이행하여야 할 법적 책임 또는 의무가 없는 국외지배주주의 서신을 동 금융기관에 제출하는 경우, 당해 차입금은 국제조세조정에 관한 법률 제14조 제1항에서 규정하는 “국외지배주주의 지급보증에 의하여 제3자로부터 차입한 금액”에 해당되지 않음.
+
+○ 재국조46017-38, 2000.3.9.
+
+(질의) 국외지배주주의 『법적인 구속력이 없다』는 문구가 있는 문서에 의하여 제3자로부터의 차입이 있는 경우 당해 문서가 지급보증에 해당되는지 여부
+
+〈갑설〉지급보증에 해당함.
+
+（이유）과소자본세제를 적용함에 있어 지급보증은 자회사 및 외국법인 국내사업장(자회사 등)의 채무불이행시 국외지배주주가 대신 변제하여야 하는 법적 집행가능한 보증으로 제한할 필요가 없고,
+
+미국계법인의 경우는 모회사가 자회사 등에 지급보증을 하지 않는 것이 회사정책으로 채택하고 있는 경우가 많아 자회사의 자금차입시 지급보증과 유사한 문서(예 : “1etter of awareness”, “letter of comfort” 등)에 의하여 자금을 차입하는 경우가 대부분임.
+
+※ 이러한 문서에는 『법적인 구속력이 없다』는 문구가 있음.
+
+자회사 등이 국외지배주주의 이러한 형태의 서신에 의하여 차입하게 되는 경우 당해 문서가 법적인 구속력여부에 불구하고 실질적으로 자회사 등의 자금차입에 영향을 주는 것이라면 지급보증의 범위에 포함되어야 하며,
+
+그러한 서신에 의하여 은행이 자회사 등에 자금을 대출하여 주었다면 국외지배주주가 자회사의 대출에 일정한 영향력을 행사한 것이 되므로, 당해 문서는 자회사의 채무불이행에 따른 변제책임 관련소송에 영향을 줄 수 있음.
+
+따라서 지급보증의 범위를 법적 변제책임 유무라는 법적·형식적 측면보다는 채무상환확신이라는 경제적·실질적 측면을 강조하여 판단하여야 할 것으로 보임.
+
+〈을설〉지급보증에 해당하지 않음.
+
+（이유）채무상환확신이라는 경제적·실질적 측면을 강조하는 경우 그 범위가 지나치게 넓고 모호하여 법적 안정성을 해칠 우려가 있어 지급보증의 범위를 국외지배주주가 법적·형식적 측면에서 자회사등의 채무불이행에 대한 부담을 지는 경우로 한정하여 해석하여야 하고 세법상 지급보증에 관한 세부 규정이 없으므로 지급보증에 관한 민법상 규정을 원용하여야 하며,
+
+민법상 지급보증은 보증인이 주채무자가 이행하지 아니하는 채무를 이행할 의무가 있는 경우로 규정하고 있으므로, 내국법인의 채무불이행에 대하여 국외지배주주가 대신 변제할 의무가 없는 단순한 협조 서한의 제출행위는 국조법상 지급보증의 범위에 포함되지 않는 것임.
+
+※ 참고 : (국세청 국총 46017-731, 1998.10.30.)
+
+(회신) <을설>이 타당함
+
+○ 구.재정경제부 국제조세과-115, 2003.12.18.
+
+내국법인이 국외특수관계자의 금융차입과 관련하여 지급보증을 하는 것은 국제조세조정에관한법률 제2조 제1항 제1호에서 규정하는 국제거래에 해당하는 것으로 동법 제4조의 규정에 의한 정상가격에 의한 과세조정의 대상임.
+
+(同旨 : 서면2팀-2183, 2007.11.30. ; 서면2팀-135, 2006.1.17. ; 서면2팀-1737, 2005.10.31. 외 다수)

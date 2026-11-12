@@ -1,0 +1,137 @@
+해석_국세청 | 법규국조 2010-149 | 20100531 | 대구경북과학기술원 초청 미국교수에 대한 소득세 면제 여부 | ID 96598
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000140219 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 대구경북과학기술원 초청 미국교수에 대한 소득세 면제 여부
+문서번호: 법규국조 2010-149
+생산일자: 20100531
+요지: 초청교수의 경우 강의대가는 제외하고 다른 용역대가는 국내에서 과세됨
+
+【회신】
+위 사전답변 신청의 사실관계와 같이 「대구경북과학기술원법」에 따라 설립된 대구경북과학기술원이 미국 의과대학 교수를 2년의 기간동안 초청하여 뇌과학부를 신설하기 위한 교수채용, 학생모집, 강의설계, 부서예산 편성, 부서설비기획 조언, 강의를 수행 및 자문(advising and engaging in faculty recruiting and mentoring, student recruiting and curriculum design, teaching, formulation of departmental budgets, and assistance in design of departmental facilities)하는 용역을 제공받고 지급하는 대가중 강의에 대한 인적용역 대가는 「한․미 조세조약」제20조제1항에 따라 우리나라에서 과세되지 않으나, 나머지 용역대가는 「소득세법」제119조제6호, 같은 법 시행령 제179조제6항제2호 및 「한․미 조세조약」제18조에 따른 독립적 인적용역에 해당되어 미화 3천불을 초과하는 경우 우리나라에서 과세되는 임
+
+【본문】
+1. 사실관계
+
+○ 「대구경북과학기술원법」에 따라 설립된 대구경북과학기술원이 뇌과학분야의 권위자인 미국 00의과대학 소속 교수를 초청하여,
+
+- 동 기술원내 뇌과학부를 신설하기 위한 교수채용, 학생모집, 강의설계, 부서예산 편성, 부서설비기획 조언, 강의를 수행 및 자문(advising and engaging in faculty recruiting and mentoring, student recruiting and curriculum design, teaching, formulation of departmental budgets, and assistance in design of departmental facilities)하는 용역을 제공받음
+
+○ 계약조건 개요
+
+- 용역제공기간 및 자격 : 계약기간은 2년이고 국내에서 용역제공은 연간 40근무일(분기별 2주)을 초과하지 않으며, 동 교수는 동 기술원에 대하여 독립적 계약자(independent contractor)의 지위에 있음(사용인, 대리인, 파트너, 공동사업자로 간주되지 않음)
+
+- 연구 미수행(No conduct of research) : 동 교수는 동 기술원에 전문적 자문만을 수행할 뿐 어떠한 연구활동(research)도 수행하지 않기로 함
+
+- 용역대가(compensation) : 월 USD XX,000$ (연간 USD XXX,000$)
+
+2. 신청내용
+
+재단법인 대구경북과학기술원이 뇌과학의 권위자인 미국 XXXX 의대 교수를 초청하여 2년(연간 국내 체류일수는 40일을 초과하지 않음)간 독립적 지위(independent status)의 비상근교수로 임명하여 교수채용, 학생모집, 강의설계, 강의 등 용역을 제공받는 경우, 동 교수에게 지급하는 용역대가가 「한․미 조세조약」제20조(teachers)에 따른 국내 면제대상 소득인지 여부
+
+3. 관련법령
+
+○ 소득세법 제119조 【비거주자의 국내원천소득】
+
+비거주자의 국내원천소득은 다음 각 호와 같이 구분한다.
+
+6. 국내에서 대통령령으로 정하는 인적용역을 제공함으로써 발생하는 소득. 이 경우 그 인적용역을 제공받는 자가 인적용역 제공과 관련하여 항공료 등 대통령령으로 정하는 비용을 부담하는 경우에는 그 비용을 제외한 금액을 말한다.
+
+○ 소득세법 시행령 제179조 【비거주자의 국내원천소득의 범위】
+
+⑥ 법 제119조제6호 전단에서"대통령령으로 정하는 인적용역"이란 다음 각 호의 용역을 말한다.
+
+2. 과학기술ㆍ경영관리 기타 이와 유사한 분야에 관한 전문적 지식 또는 특별한 기능을 가진 자가 당해 지식 또는 기능을 활용하여 제공하는 용역
+
+○ 한․미 조세조약 제20조【교직자】
+
+(1) 일방 체약국의 거주자가, 타방 체약국이 정부, 그 정치적 하부조직 또는 지방공공단체 또는 동 타방 체약국내의 기타 인가된 교육기관에 의하여, 대학 또는 기타 인가된 교육기관에서의 강의 또는 연구의 목적으로 또는 강의와 연구의 양자를 위한 목적으로 2년을 초과하지 아니할 예정의 기간동안 동 타방 체약국으로 초청되고 또한 일차적으로 그러한 목적을 위하여 동 타방 체약국에 오는 경우 상기 대학 또는 교육기관에서의 강의 또는 연구에 대한 인적용역으로부터 받는 동 거주자의 소득은, 동 거주자가 타방체약국에 도착한 일자로부터 2년을 초과하지 아니하는 기간 동안 동 타방 체약국에 의한 과세로부터 면제된다.
+
+(2) 상기 연구가, 공공의 이익을 위하지 아니하고 일차적으로 특정인 또는 특정인들을 위하여 수행되는 경우에, 동 연구로부터 받는 소득에는 본조가 적용되지 아니한다.
+
+Article 20.【TEACHERS】[1979.10.20]
+
+(1) Where a resident of one of the Contracting States is invited by the Government of the other Contracting State, a political subdivision, or local authority thereof, or by a university or other recognized educational institution in that other Contracting State to come to that other Contracting State for a period not expected to exceed 2 years for the purpose of teaching or engaging in research, or both, at a university or other recognized educational institution and such resident comes to that other Contracting State primarily for such purpose, his income from personal services for teaching or research at such university or educational institution shall be exempt from tax by that other Contracting State for a period not exceeding 2 years from the date of his arrival in that other Contracting State.
+
+(2) This Article shall not apply to income from research if such research is undertaken not in the public interest primarily for the private benefit of a specific person or persons.
+
+○ 한․미 조세조약 제18조【독립적 인적용역】
+
+(1) 일방 체약국의 거주자인 개인이 독립된 자격으로 인적용역을 제공하여 취득하는 소득은 동 일방 체약국에 의하여 과세될 수 있다. 하기 (2)항에 규정된 경우를 제외하고 동 소득은 타방 체약국에 의한 과세로부터 면제된다.
+
+(2) 일방 체약국의 거주자인 개인이 타방 체약국내에서 독립된 자격으로 인적용역을 제공하여 취득하는 소득은, 다음의 경우에, 동 타방 체약국에 의하여 과세될 수 있다.
+
+(a) 동 개인이 과세연도중 총 183일 이상의 단일기간 또는 제 기간동안 동 타방체약국 내에 체재하는 경우
+
+(b) 상기 소득이 과세연도중 미화 3,000불 또는 이에 상당하는 원화를 초과하는 경우, 또는
+
+(c) 동 개인이 동 과세연도중 총 183일 이상의 단일기간 또는 제 기간동안 동 타방 체약국 내에 고정시설을 유지하는 경우, 다만, 이 경우에는 동 고정시설에 귀속되는 소득액에 한한다.
+
+Article 18.【INDEPENDENT PERSONAL SERVICES】[1979.10.20]
+
+(1) Income derived by an individual who is a resident of one of the Contracting States from the performance of personal services in an independent capacity, may be taxed by that Contracting State. Except as provided in paragraph (2), such income shall be exempt from tax by the other Contracting State.
+
+(2) Income derived by an individual who is a resident of one of the Contracting States from the performance of personal services in an independent capacity in the other Contracting State may be taxed by that other Contracting State, if:
+
+(a) The individual is present in that other Contracting State for a period or periods aggregating 183 days or more in the taxable year;
+
+(b) Such income exceeds 3,000 United States dollars or its equivalent in Korean won in a taxable year; or
+
+(c) The individual maintains a fixed base in that other Contracting State for a period or periods aggregating 183 days or more in the taxable year, but only so much of his income as is attributable to such fixed base.
+
+○ 대구경북과학기술원법
+
+제2조 【법인격】
+
+대구경북과학기술원(이하 "대경과기원"이라 한다)은 재단법인으로 한다.
+
+제3조 【설립】
+
+① 대경과기원은 「과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률」 제3조에 불구하고 정부ㆍ지방자치단체ㆍ대학ㆍ연구기관 및 기업이 공동으로 출연하여 설립한다.
+
+제12조의2 【학위과정 등】
+
+① 대경과기원에 박사ㆍ석사 및 학사과정을 둔다.
+
+② 제1항에 따른 과정별 수업연한ㆍ학기ㆍ수업 일수 및 교과 등에 관한 사항은 대통령령으로 정하는 바에 따라 원장이 정하고, 교육과학기술부장관에게 보고하여야 한다.
+
+③ 제1항에 따른 과정별 학과 및 전공은 정보통신공학ㆍ전기전자공학ㆍ기계우주공학ㆍ신소재에너지공학ㆍ생명과학ㆍ환경공학ㆍ의료공학ㆍ산업디자인 등 지식기반산업 및 첨단과학기술분야 중에서 원장이 교육과학기술부장관의 승인을 받아 정한다.
+
+④ 제1항의 박사ㆍ석사 및 학사과정의 학위수여, 교원의 자격, 입학자격 및 입학방법 등에 관하여는 이 법과 이 법에 따른 대통령령에 특별한 규정이 있는 경우를 제외하고는 「고등교육법」 및 그 부속법령에 따른다. 이 경우 대경과기원의 원장은 「고등교육법」에 따른 총장으로 본다.
+
+제12조의5 【학위수여】
+
+원장은 학칙으로 정하는 바에 따라 박사ㆍ석사 및 학사학위를 수여한다.
+
+○ 고등교육법 제2조 【학교의 종류】
+
+고등교육을 실시하기 위하여 다음 각호의 학교를 둔다.
+
+1. 대 학
+
+2. 산업대학
+
+3. 교육대학
+
+4. 전문대학
+
+5. 방송대학·통신대학 및 방송통신대학(이하 “방송·통신대학”이라 한다)
+
+6. 기술대학
+
+7. 각종학교
+
+○ 초․중등교육법 제2조 【학교의 종류】
+
+초·중등교육을 실시하기 위하여 다음 각호의 학교를 둔다. <개정 2004.1.29>
+
+1. 삭제 <2004.1.29>
+
+2. 초등학교·공민학교
+
+3. 중학교·고등공민학교
+
+4. 고등학교·고등기술학교
+
+5. 특수학교
+
+6. 각종학교
