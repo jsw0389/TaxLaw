@@ -1,0 +1,12 @@
+해석_국세청 | 서면인터넷방문상담2팀-2109 | 20051220 | 외국법인의 저감시설 고정사업장 해당여부 | ID 161000
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000029120 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 외국법인의 저감시설 고정사업장 해당여부
+문서번호: 서면인터넷방문상담2팀-2109
+생산일자: 20051220
+요지: 저감시설로 인하여 저감확인서(CER)의 판매소득이 발생되는 국내의 고정된 장소는 외국법인의 국내 고정사업장에 해당하는 것임
+
+【회신】
+온실가스의 급격한 증가에 따른 기후체계의 변화를 방지하기 위해 국제적 다자조약인 『기후변화에 관한 국제연합 기본협약(United Nations Framework Convention on Climate Change)』 제2조 및 ��기후변화에 관한 국제연합 기본협약에 대한 교토의정서(Kyoto Protocol to the United Nations Framework Convention on Climate Change)』�� 의 규약에 의거
+불란서법인이 제조과정에서 발생하는 아산화질소(N₂O)가 저감되는 시설을 국내의 현지법인에 설치하고 이에 대한 저감확인서〔CER (Certified Emission Reduction)〕를 유엔산하 CDM(Clean Development Mechanism) 집행위원회 (UN Executive Board)로부터 발급받아 이를 다른 외국법인 등에게 판매한 후 판매소득을 일정비율로 당해 불란서법인 및 대한민국의 한국에너지관리공단(KEMCO)에 귀속시키는 경우,
+저감시설로 인하여 CER의 판매소득이 발생되는 국내의 고정된 장소는 「법인세법」 제94조 및 「한․불 조세협약」 제5조의 규정에 의한 불란서법인의 국내 고정사업장에 해당하는 것입니다.
