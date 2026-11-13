@@ -1,0 +1,10 @@
+해석_국세청 | 소비46420-407 | 20001108 | 수입주류의 주종분류 | ID 162820
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000022644 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 수입주류의 주종분류
+문서번호: 소비46420-407
+생산일자: 20001108
+요지: 수입주류 중 쌀, 국, 물을 원료로 발효시킨 술덧에 알코올을 첨가하여 여과한 후 향을 첨가하여 제조하는 것은 기타주류 해당됨
+
+【회신】
+수입주류인 Moonstone infused Sake(Raspberry), Moonstone infused Sake(Asian pear), Moonstone infused Sake(Yuzu), Moonstone infused Sake(Hazelnut)는 쌀, 국, 물을 원료로 발효시킨 술덧에 알코올을 첨가하여 여과한 후 향을 첨가하여 제조하는 것으로서 주세법 제4조 제2항 [별표] 4호 “기타주류” “라”목에 해당된다.

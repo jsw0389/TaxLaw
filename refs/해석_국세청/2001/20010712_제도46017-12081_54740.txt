@@ -1,0 +1,111 @@
+해석_국세청 | 제도46017-12081 | 20010712 | 비거주자가 온라인거래를 할 수 있는지 여부 | ID 54740
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000063624 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 비거주자가 온라인거래를 할 수 있는지 여부
+문서번호: 제도46017-12081
+생산일자: 20010712
+요지: 비거주자의 전산을 통한 온라인거래여부는 ○○연합회 및 ○○원 등과 협의할 사항인 것임.
+
+【회신】
+귀하의 비거주자판정과 관련하여 붙임의 판정기준표를 보내드리니 업무에 참고하시기 바라며, 비거주자의 전산을 통한 온라인거래여부는 ○○연합회 및 ○○원 등과 협의하시기 바랍니다.
+
+【본문】
+1. 질의내용
+
+금융기관에 계좌를 개설하면서 비거주자 확인을 했음에도 불구하고 출금시 비거주자 확인이 불가하다는 이유로 온라인서비스를 받을 수 없다는 것은 너무나 많은 불편이 따르고, 또한 비거주자 입장에서는 온라인거래가 절실합니다.
+
+이미 비거주자임을 입증했음에도 불구하고 혹시나 중간에 신분이 변동될 수도 있다는 가능성 때문에 금융기관에서 온라인거래서비스를 원천적으로 제한한다는 것은 문제가 있는 듯 합니다. 비거주자가 온라인거래를 할 수 있는 방법은 없는 것인지요?
+
+비 거 주 자 판 정 기 준 표
+
+(Criteria for Detemination of Non-resident in Korea)
+
+◆ 해당되는 빈칸에 ○표 하십시오 (◆ Check the appropriate answer)
+
+항 목(Items)
+
+예
+
+(YES)
+
+아니오
+
+(NO)
+
+1. 국내에 주소를 두고 있습니까?
+
+(Do you maintain your permanent home Korea?)
+
+2. 국내에 계속하여 1년 이상 거주하고 있거나 거주할 예정입니까?
+
+(Are you present or to be present habitually in Korea for a period of one year or more?)
+
+3. 국내에 계속하여 1년 이상 거주할 것을 필요로 하는 직업이 있습니까?
+
+(Do you have an occupation that requires you to be present in Korea for a period of one year or more?)
+
+4. 국내에 생계를 같이하는 가족(배우자와 자녀 등)이 있습니까?
+
+(Do you have a family (spouse, children, etc.) in Korea who shares a living?)
+
+5. 대한민국의 공무원입니까?
+
+(Are you a public official of the Republic of Korea?)
+
+6. 대한민국 국민으로서 국내법인의 해외지점이나 영업소에 파견된 직원입니까? (Are you a national of Korea who is assigned to an overseas branch or sales office of a Korean corporation?)
+
+7. 국내에 사업체, 부동산 등 생활의 근거를 가지고 있습니까?
+
+(Do you own an enterprise, real estate and other property in Korea which is the base of living?)
+
+8. 외국의 국적이나 영주권을 가지고 있는 경우 그 국가명을 기입하십시오.
+
+(In case where you are a permanent resident or a citizen of a country other than Korea, please fill in the name of country)
+
+첨 부 : 비거주자임을 입증할 수 있는 서류(여권사본, 영주증명서, 외국정부가 발행한 신분증 사본 등)
+
+Attach documents that can prove you are a nonresident in Korea.(Copy of passport, resident card, personal identification card issued by foreign government etc.)
+
+1. 거래기간 중 본인 신분에 변동이 있는 경우에는 즉시 알려드리겠습니다.
+
+(I will notify immediately any change in my personal status that occurs during the period of transaction)
+
+2. 위 기재내용이 틀림없음을 확인하며, 추후 허위기재로 인한 불이익 발생시 본인이 모든 책임을 질 것을 확약합니다.
+
+(I attest that all information provided above is true and I will bear the responsibility if any disadvantage occurs from false indication of the information.)
+
+년 월 일
+
+Year Month Day
+
+작성자 (인)
+
+Signed by Signature or Stamp
+
+──────── 지점장 귀하
+
+To : Financial institutions(Withholding agents)
+
+거주자ㆍ비거주자 판정요령
+
+1. 거주자ㆍ비거주자에 대한 판정은 당해 판정기준표에 의하며 외국 국적이나, 영주권 등의 보유 여부는 불문합니다.
+
+2. 판정기준표의 작성 결과 1~7번 항목 한가지 항목이라도 “예(YES)”로 기재되면 일단 거주자로 판정합니다.
+
+* 국내에 부동산 등을 보유하고 있다는 것만으로 거주자가 되는 것은 아님.
+
+3. 비거주자 해당자에 대하여는 증빙서류(여권 및 비자사본, 영주증명서, 외국 신분증 사본 등)을 제출받아야 하며, 증빙서류 미제출시 우선 거주자로 판정합니다.
+
+(증빙서류 제출시까지 판정 유보)
+
+4. 주한외교관(대한민국 국민 제외) 및 미합중국 군대의 구성원, 군무원 및 그들의 가족은 당해 판정표의 기재내용에 불문하고 비거주자로 판정합니다.
+
+5. 고객이 대한민국 세법과 해당국의 세법에 의하여 양국거주자에 해당되는 경우에는 다음의 조세조약상 판정기준을 순차적으로 적용하여 거주지국을 판정합니다.
+
+① 항구적인 주거지
+
+② 인적ㆍ경제적 이해관계의 중심지
+
+③ 일상적인 거소
+
+④ 국적, 시민권, 영주권 등이 속한 국가
