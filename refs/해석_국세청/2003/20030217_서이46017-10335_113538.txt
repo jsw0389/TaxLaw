@@ -1,0 +1,35 @@
+해석_국세청 | 서이46017-10335 | 20030217 | 국내체류 예정으로 입국하여 근로용역을 제공하고 받은 대가의 과세여부 | ID 113538
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000063794 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 국내체류 예정으로 입국하여 근로용역을 제공하고 받은 대가의 과세여부
+문서번호: 서이46017-10335
+생산일자: 20030217
+요지: 183일 이상 국내체류 예정으로 입국하여 근로용역을 제공하고 받은 대가는 근로소득세 과세대상에 해당하는 것임.
+
+【회신】
+183일 이상 국내체류 예정으로 입국하여 근로용역을 제공하고 받은 대가는 근로소득세 과세 대상이며, 외국법인(인력요청업체)에게 인력을 공급한 후 그 외국법인이 국내에 파견한 인력의 용역에 대한 책임과 위험을 다른 외국법인(인력공급업체)이 부담하지 않는 경우, 그 다른 외국법인의 국내사업장은 구성되지 않는 것입니다.
+
+【본문】
+1. 질의내용 요약
+
+We are aware of the fact that our employee will be tax liable to Korea if he stays in Korea for more than 183 days during the tax year, which should be 1 January-31 December. We will probably engage ○○ in Korea to care of the obligations for reporting and filing of tax return for the employee.
+
+Regarding the permanent establishment issue, we will make you aware of the following facts:
+
+ㆍ ○○ Mobile is controlling the employee and have the right to instruct his work
+
+ㆍ The fee received by ○○ is calculated on the basis of time utilised
+
+ㆍ ○○ Mobile has the risk and responsibility for the work performed by the employee
+
+ㆍ○○'s obligation is merely to put the employee at the disposal for ○○ Mobile
+
+ㆍ ○○ has no place control or responsibility at the place where the work is performed
+
+ㆍ ○○ has no right to use any other employees to perform the work
+
+ㆍ We have no equipment, machines or other assets at the place where the work is performed
+
+Based on these circumstances, it is our opinion that our services do not consist of management.
+
+The activity consisting of hiring-out of labour should not create a permanent establishment in Korea. Thus the activity is taxable to Norway and not to Korea.
