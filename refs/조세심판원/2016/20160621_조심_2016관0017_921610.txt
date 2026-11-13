@@ -1,0 +1,94 @@
+조세심판원 | 조심 2016관0017 | 20160621 | 한ㆍEU 협정세율 적용 여부 등 | ID 921610
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+
+【재결요지】
+청구법인은 수출자의 세관인증번호 허위 기재에 따른 이 건 처분은 부당하다고 주장하나, OO 관세당국이 수출자가 한-EU FTA 인증수출자 지위를 부여받은 날짜를 20XX.X.XX.로 회신한 점 등에 비추어 쟁점물품의 원산지신고서가 인증수출자에 의해 작성되지 아니한 것으로 보이므로 협정관세의 적용을 배제하여 과세한 이 건 처분은 잘못이 없음
+
+【이유】
+1. 처분개요가. 청구법인은 OOO까지 수입신고번호 OOO으로, OOO 소재 OOO(이하 “수출자”라 한다)로부터 OOO 및 그 부분품(이하 “쟁점물품”이라 한다)을 수입하면서, 「대한민국과 유럽연합 및 그 회원국 간의 자유무역협정」(이하 “한-EU FTA”라 한다)에 따른 협정관세(세율 0%)를 적용하여 수입신고를 하였고, 이를 수리받았다.나. 처분청은 원산지 조사 결과, OOO 관세당국이 수출자에게 OOO 인증수출자 지위를 부여하였다고 회신함에 따라 쟁점물품의 원산지 신고서가 인증수출자에 의해 작성되지 아니한 것으로 보아 협정관세를 적용하지 아니하여, OOO 청구법인에게 관세 OOO원, 부가가치세 OOO원 및 가산세 OOO원 합계 OOO원을 경정.고지하였다.다. 청구법인은 이에 불복하여 OOO 심판청구를 제기하였다.2. 청구법인 주장 및 처분청 의견가. 청구법인 주장(1) 수출자가 제공한 원산지 신고서의 세관인증번호가 OOO의 인증수출자 번호 체계에 부합하고, 수출자의 업체 규모 등으로 보아 청구법인으로서는 수출자를 인증수출자로 신뢰하기에 충분한 상황이었는바, 이 건 처분은 수출자가 허위의 세관인증번호를 기재한 원산지 신고서를 발급하여 이루어진 것이어서 청구법인에게는 잘못이 없으므로 이 건 처분은 취소되어야 한다.청구법인과 같은 수입자의 경우 OOO의 인증수출자 세관인증번호 체계를 확인하는 것 이외에 수출자가 제공하는 세관인증번호의 진위여부를 파악할 수 있는 방법이 없고, 수출자는 세계 자동차 업계에서 손꼽을 정도로 대규모 업체로서 유수의 자동차 업체와 거래를 하고 있는 현실을 감안할 때 청구법인이 세관인증번호의 진위여부를 확인하여 수입하는 것은 사실상 어려우므로 결국 이 건 처분은 부당하다.(2) 청구법인이 쟁점물품 수입 당시 원산지 확인을 게을리하였다고 볼만한 사정이 없고, 신고.납부의무 불이행에 대한 책임은 전적으로 수출자에게 있으므로 가산세를 부과하는 것은 부당하다. 또한, 「부가가치세법」 제35조 및 같은 법 시행령 제72조는 수입자가 자신의 귀책사유가 없음을 증명하는 경우 수정수입세금계산서가 발급되도록 명시하고 있는데, 처분청이 수정수입세금계산서를 발급한 이상 청구법인에게는 귀책사유가 없는 것이므로 결국 이 건 가산세 부과처분은 부당하다.나. 처분청 의견(1) 청구법인이 제출한 쟁점물품의 원산지 신고서는 인중수출자가 아니었던 수출자에 의해 작성된 것이어서 한-EU FTA 협정관세 적용요건을 갖추지 못하였으므로 이 건 처분은 적법하다.(2) 청구법인은 수출자가 인증수출자에 해당하는지 여부에 대한 확인을 소홀히 하였으므로 가산세 면제의 정당한 사유가 있는 것으로 보기 어렵다.3. 심리 및 판단가. 쟁점① 한-EU FTA 협정세율 적용 여부② 가산세 면제의 정당한 사유가 있는지 여부나. 관련 법령 등 : ＜별지＞ 기재다. 사실관계 및 판단(1) 청구법인 및 처분청이 제출한 심리자료에 따르면 다음의 사실이 나타난다.(가) 쟁점물품의 과세가격은 각 OOO 이상이고, 쟁점물품의 원산지 신고서에는 세관인증번호가OOO 기재되어 있다.(나) 관세청장은 쟁점물품에 대한 한-EU FTA 협정관세 적용의 적정 여부 등을 확인하기 위하여 OOO 관세당국OOO 회신기한으로 하여 쟁점물품의 원산지 신고서 중 OOO 원산지 신고서OOO의 정확성 등에 관한 확인을 요청하였고, OOO 관세당국은 OOO 한-EU FTA 인증수출자 지위를 부여OOO받았고, 이후 한국으로의 수출에 대하여 유효하다고 회신하였다.(다) 처분청도 쟁점물품에 대한 한-EU FTA 협정관세 적용의 적정 여부 등을 확인하기 위하여 OOO 관세당국OOO 쟁점물품의 원산지 신고서 중 일부[송장번호OOO]의 정확성 등에 관한 확인을 요청하였는데, OOO 관세당국은 OOO 수출자가 위 원산지 신고서 발행 당시 한국으로의 수출에 대하여 인증수출자로 인증받지 아니하였다고 회신하였다.(라) 처분청은 OOO 납부일자로 하여 청구법인에게 이 건 과세처분 관련 수정수입세금계산서를 발행하였다.(2) 이상의 사실관계 및 관련 법령 등을 종합하여 이 건에 대하여 살펴본다.(가) 먼저, 쟁점①에 대하여 살피건대, 청구법인은 수출자의 세관인증번호 허위 기재에 따른 이 건 처분은 부당하다고 주장하나, OOO 관세당국이 수출자가 한-EU FTA 인증수출자 지위를 부여받은 날짜를 OOO로 회신한 점 등에 비추어 쟁점물품의 원산지 신고서는 인증수출자에 의해 작성되지 아니한 것으로 보이므로 쟁점물품에 한-EU FTA 협정관세를 적용하지 아니하여 과세한 이 건 처분은 잘못이 없는 것으로 판단된다.(나) 다음으로, 쟁점②에 대하여 살피건대, 청구법인은 신고.납부의무 불이행에 대한 책임은 전적으로 수출자에게 있고 처분청이 이 건 처분과 관련하여 수정수입세금계산서를 발급한 이상 청구법인에게 귀책사유가 없으므로 이 건 가산세 부과처분은 부당하다고 주장하나, 청구법인이 수출자에게 인증수출자 인증서를 요구하여 수출자의 인증연도를 확인하는 등의 별다른 노력을 기울인 사실이 나타나지 않는 점, 처분청이 스스로 수정수입세금계산서를 발급하였다고 하여 이 건 가산세 부과처분이 당연히 부당한 것은 아닌 점 등에 비추어 청구법인에게 가산세 면제의 정당한 사유가 있다고 보기는 어려우므로 가산세를 부과한 이 건 처분은 잘못이 없는 것으로 판단된다.4. 결론이 건 심판청구는 심리결과 청구주장이 이유 없으므로 「관세법」 제131조와 「국세기본법」 제81조, 제65조 제1항 제2호에 의하여 주문과 같이 결정한다.＜별지＞ 관련 법령 등(1) 대한민국과 유럽연합 및 그 회원국 간의 자유무역협정 중 ‘원산지 제품’의 정의 및 행정협력의 방법에 관한 의정서제15조(일반 요건) 1. 대한민국을 원산지로 하는 제품이 유럽연합 당사자로 수입될 때, 그리고 유럽연합 당사자를 원산지로 하는 제품이 대한민국으로 수입될 때, 이후 “원산지 신고서”라 지칭되는 신고서에 근거하여 이 협정의 특혜관세대우의 혜택을 받는다. 원산지 신고는 해당 제품이 확인될 수 있도록 충분히 상세하게 그 제품을 기술하는 송품장, 인도증서 또는 그 밖의 상업서류 상에 수출자에 의해 행해진다. 원산지 신고서의 문안은 부속서 3에 기술되어 있다.제16조(원산지 신고서 작성 조건) 1. 이 의정서의 제15조 제1항에 언급된 원산지 신고서는 다음에 의해 작성될 수 있다.가. 제17조의 의미상 인증수출자, 또는나. 전체 가격이 6,000유로를 초과하지 아니하는 원산지 제품을 포함하는 하나 이상의 포장으로 구성되는 탁송화물의 수출자제17조(인증수출자) 1. 수출 당사자의 관세당국은 수출 당사자의 각 법과 규정의 적절한 조건에 따라 해당 제품의 가치와 관계없이 원산지 신고서를 작성하도록 이 협정에 따라 제품을 수출하는 수출자(이하 “인증수출자”라 한다)에게 인증할 수 있다. 그러한 인증을 구하는 수출자는 제품의 원산지 지위와 이 의정서의 그 밖의 요건의 충족을 검증하는 데 필요한 모든 보증을 관세당국이 만족할 정도로 제공해야 한다.2. 관세당국은 그들이 적절하다고 간주하는 조건에 따라 인증수출자의 지위를 부여할 수 있다.3. 관세당국은 원산지 신고서에 나타나는 세관인증번호를 인증수출자에게 부여한다.부속서 3 원산지 신고서 문안아래 제시된 원산지 신고서 문안은 각주에 따라 작성되어야 한다. 그러나 각주를 다시 기재할 필요는 없다.한국어 본“이 서류(세관인증번호...(1))의 적용대상이 되는 제품의 수출자는, 달리 명확하게 표시되는 경우를 제외하고, 이 제품은...(2)의 특혜원산지 제품임을 신고한다.”각주 1) 원산지 신고서가 인증수출자에 의해 작성되는 경우 인증수출자의 인증번호가 이 란에 기재되어야 한다. 원산지 신고서가 인증수출자에 의해 작성되지 아니하는 경우 괄호 안의 단어는 생략되거나 빈칸으로 남겨둔다.(2) 자유무역협정의 이행을 위한 관세법의 특례에 관한 법률제2조(정의) ① 이 법에서 사용하는 용어의 뜻은 다음과 같다.5. "원산지증빙서류"란 우리나라와 체약상대국 간의 수출입물품의 원산지를 증명하는 서류(이하 "원산지증명서"라 한다)와 그 밖에 원산지 확인을 위하여 필요한 서류·정보 등을 말한다.제9조의2(원산지증명서 작성 등) ① 원산지증명서는 다음 각 호의 어느 하나에 따라 발급하여야 한다.2. 협정에서 정하는 방법과 절차에 따라 수출자, 생산자 또는 수입자가 자율적으로 해당 물품에 대한 원산지를 확인하여 작성·서명할 것③ 원산지증명서의 기재사항, 기재방법, 유효기간 등 그 밖에 필요한 사항은 대통령령으로 정한다. [본조신설 2013.1.1.]제16조(협정관세의 적용제한) ① 협정에서 다르게 규정한 경우를 제외하고 세관장은 다음 각 호의 어느 하나에 해당하는 경우에는 해당 수입물품에 대하여 협정관세를 적용하지 아니할 수 있다. 이 경우 세관장은 「관세법」 제38조의3 제4항 및 제39조 제2항에 따라 납부하여야 할 세액 또는 납부하여야 할 세액과 납부한 세액의 차액을 부과·징수하여야 한다.1. 정당한 사유 없이 수입자, 체약상대국의 수출자 또는 생산자(이하 이 조에서 "체약상대국수출자등"이라 한다)가 관세청장 또는 세관장이 요구한 자료를 제12조 제3항에 따른 기간 이내에 제출하지 아니하거나 거짓으로 또는 사실과 다르게 제출한 경우. 다만, 원산지증빙서류의 기재사항을 단순한 착오로 잘못 기재한 것으로서 원산지 결정에 실질적인 영향을 미치지 아니하는 경우는 제외한다.2. 제13조 제1항에 따라 관세청장 또는 세관장이 체약상대국의 관세당국에 원산지의 확인을 요청한 사항에 대하여 체약상대국 관세당국이 기획재정부령으로 정한 기간 이내에 그 결과를 회신하지 아니한 경우 또는 세관장에게 신고한 원산지가 실제 원산지와 다른 것으로 확인되거나 회신 내용에 제9조에 따른 원산지의 정확성을 확인하는 데 필요한 정보가 포함되지 아니한 경우(3) 자유무역협정의 이행을 위한 관세법의 특례에 관한 법률 시행규칙제4조의3(유럽연합당사자와의 협정에 의한 원산지증명서 발급방식 등) ① 「대한민국과 유럽연합 및 그 회원국 간의 자유무역협정」(이하 "유럽연합당사자와의 협정"이라 한다)에 따른 원산지증명서는 법 제9조의2 제1항 제2호에 따라 다음 각 호의 어느 하나에 해당하는 수출자가 자율적으로 작성·서명한 것으로 한다. 다만, 유럽연합당사자와의 협정 중 「원산지제품의 정의 및 행정협력의 방법에 관한 의정서」 (이하 "유럽연합당사자와의 원산지 관련 의정서"라 한다) 제16조 제5항에 따라 영 제9조의2 제3항에 따른 원산지인증수출자가 상업송장 또는 이에 갈음하는 서류에 기재된 사항에 대한 서면확인서를 관세청장 또는 세관장에게 사전에 제출한 경우에는 원산지증명서의 서명을 생략할 수 있다.1. 유럽연합당사자와의 원산지 관련 의정서 제17조 및 영 제9조의2 제3항에 따른 원산지인증수출자2. 총가격이 6천유로[유로화 외의 영 제3조 제7항에 따른 유럽연합당사자(이하 "유럽연합당사자"라 한다)의 자국통화로 작성된 경우에는 제2항에 따라 관세청장이 게시하는 금액을 말한다]를 초과하지 아니하는 물품의 수출자. 이 경우 물품의 총가격은 단일의 운송서류(운송서류가 없는 경우에는 송품장을 말한다)에 의하여 단일 수출자로부터 단일 수하인에게 송부된 물품의 총가격(단일 수출자로부터 단일 수하인에게 동시에 송부된 물품이 여러 개인 경우에는 동시에 송부된 물품 가격의 합계를 말한다)을 기준으로 계산한다.제9조의6(유럽연합당사자와의 협정에 따른 원산지증명서 등) ① 유럽연합당사자와의 협정에 따른 원산지증명서는 별표 2에 규정된 사항이 기재되고, 품명·규격 등 해당 물품을 확인하는 데 필요한 상세 정보가 포함된 상업송장, 인도증서 또는 그 밖의 상업서류로 한다.제24조(체약당사국의 조사결과 회신기간) 법 제16조 제1항 제2호에서 "기획재정부령으로 정한 기간"이란 다음 각 호의 구분에 따른 기간을 말한다.4. 유럽연합당사자의 관세당국에 요청한 경우: 관세청장 또는 세관장이 원산지의 확인을 요청한 날부터 10개월[별표 2] ＜개정 2014.3.14＞ 유럽연합당사자와의 협정에 따른 원산지증명서에 기재할 사항
+(제9조의6 제1항 관련)
+
+상업서류에 기재할 신고문안
+(영어본)
+The exporter of the products covered by this document (customs authorisation No ...(1)) declares that, except where otherwise clearly indicated, these products are of ...(2) preferential origin.
+
+…………………………………………………………….........................3)
+(Place and date)
+
+...……………………………………………………………………...........4)
+(Signature of the exporter, in addition the name of the person signing the declaration has to be indicated in clear script)
+
+작성방법
+위 문안을 송품장 등의 상업서류에 다음과 같이 작성합니다. 다만, 언어는 영어본이외에도 아래의 22개 언어본도 사용할 수 있습니다.
+1) 인증수출자의 인증번호를 적습니다. 인증수출자가 아닌 경우에는 빈칸으로 두거나 생략할 수 있습니다.
+2) 해당 물품의 원산지를 적습니다. 세우타 및 멜리야를 원산지로 하는 물품인 경우에는 "CM"으로 표기합니다.
+3) 원산지증명서를 작성한 장소 및 작성일을 적습니다. 다만, 이들 정보가 상업서류 자체에 명시된 경우에는 생략할 수 있습니다.
+4) 수출자의 이름을 정확하게 적고, 서명을 합니다. 다만, 다만, 유럽연합당사자와의 원산지 관련 의정서 제16조제5항에 따라 원산지 인증수출자가 수출국 관세당국에 서면확인서를 제출한 경우에는 성명과 서명을 기재하지 않을 수 있습니다.
+5) 유럽연합당사자와의 원산지 관련 의정서 부속서 2-가에 따라 별표 9 제5호에 규정된 원산지결정기준을 적용받기 위해서는 "Derogation - Annex Ⅱ(a) of Protocol"이라는 문구를 기재합니다.
+
+영어본 이외
+언어 문안
+1. Bulgarian version
+Износителят на продуктите, обхванати от този документ (митническо разрешение № … (1)) декларира, че освен кьдето е отбелязано друго, тези продукти са с … преференциален произход (2).
+2. Spanish version
+El exportador de los productos incluidos en el presente documento (autorizaci?n aduanera n° ..…(1).) declara que, salvo indicaci?n en sentido contrario, estos productos gozan de un origen preferencial .…(2).
+3. Czech version
+V?vozce v?robk? uveden?ch v tomto dokumentu (??slo povolen? …(1)) prohla?uje, ze krom? z?eteln? ozna?en?ch, maj? tyto v?robky preferen?n? p?vod v …(2).
+4. Danish version
+Eksportøren af varer, der er omfattet af nærværende dokument, (toldmyndighedernes tilladelse nr. ...(1)), erklærer, at varerne, medmindre andet tydeligt er angivet, har præferenceoprindelse i ...(2).
+5. German version
+Der Ausfuhrer (Ermachtigter Ausfuhrer; Bewilligungs-Nr. ...(1)) der Waren, auf die sich dieses Handelspapier bezieht, erklart, dass diese Waren, soweit nicht anderes angegeben, praferenzbegunstigte ...(2) Ursprungswaren sind.
+6. Estonian version
+Kaesoleva dokumendiga h?lmatud toodete eksportija (tolliameti kinnitus nr. ...(1)) deklareerib, et need tooted on ...(2) soodusparitoluga, valja arvatud juhul kui on selgelt naidatud teisiti.
+7. Greek version
+Ο εξαγωγ?α? των προ??ντων που καλ?πτονται απ? το παρ?ν ?γγραφο (?δεια τελωνε?ου υπ?αριθ. ...(1)) δηλ?νει ?τι, εκτ?? ε?ν δηλ?νεται σαφ?? ?λλω?, τα προ??ντα αυτ? ε?ναι προτιμησιακ?? καταγωγ?? ...(2).
+8. French version
+L'exportateur des produits couverts par le present document (autorisation douani?re n° ...(1)) declare que, sauf indication claire du contraire, ces produits ont l'origine preferentielle ... (2).
+9. Italian version
+L'esportatore delle merci contemplate nel presente documento (autorizzazione doganale n. ...(1)) dichiara che, salvo indicazione contraria, le merci sono di origine preferenziale ...(2).
+10. Latvian version
+Eksport?tajs produktiem, kuri ietverti ?aja dokumenta (muitas pilnvara Nr. …(1)), deklar?, ka, iznemot tur, kur ir citadi skaidri noteikts, ?iem produktiem ir priek?roc?bu izcelsme no …(2).
+11. Lithuanian version
+?iame dokumente i?vardint? preki? eksportuotojas (muitin?s liudijimo Nr …(1)) deklaruoja, kad, jeigu kitaip nenurodyta, tai yra …(2) preferencin?s kilmes prekes.
+12. Hungarian version
+A jelen okm?nyban szerepl? ?ruk export?re (v?mfelhatalmaz?si sz?m: …(1)) kijelentem, hogy elter? jelzes hiany?ban az ?ruk kedvezmenyes …(2) sz?rmaz?s?ak.
+13. Maltese version
+L-esportatur tal-prodotti koperti b’dan id-dokument (awtorizzazzjoni tad-dwana nru. …(1)) jiddikjara li, ħlief fejn indikat b’mod ?ar li mhux hekk, dawn il-prodotti huma ta’ ori?ini preferenzjali …(2).
+14. Dutch version
+De exporteur van de goederen waarop dit document van toepassing is (douanevergunning nr. ...(1)), verklaart dat, behoudens uitdrukkelijke andersluidende vermelding, deze goederen van preferenti?le ... oorsprong zijn (2).
+15. Polish version
+Eksporter produkt?w obj?tych tym dokumentem (upowa?nienie władz celnych nr …(1)) deklaruje, ?e z wyj?tkiem gdzie jest to wyra?nie okre?lone, produkty te maj? …(2) preferencyjne pochodzenie.
+16. Portuguese version
+O abaixo assinado, exportador dos produtos cobertos pelo presente documento (autorizac?o aduaneira n°. ...(1)), declara que, salvo expressamente indicado em contr?rio, estes produtos s?o de origem preferencial ...(2).
+17. Romanian version
+Exportatorul produselor ce fac ojiectul acestui document (autoriza?ia vamal? nr. …(1)) declar? c?, except?nd cazul ?n care ?n mod expres este indicat altfel, aceste produse sunt de origine preferen?iala …(2).
+18. Slovenian version
+Izvoznik blaga, zajetega s tem dokumentom (pooblastilo carinskih organov ?t …(1)) izjavlja, da, razen ?e ni druga?e jasno navedeno, ima to blago preferencialno …(2) poreklo.
+19. Slovak version
+V?vozca v?robkov uveden?ch v tomto dokumente (??slo povolenia …(1)) vyhlasuje, ze okrem zrete?ne ozna?en?ch, maj? tieto v?robky preferen?n? p?vod v …(2).
+20. Finnish version
+Tassa asiakirjassa mainittujen tuotteiden vieja (tullin lupa n:o ...(1)) ilmoittaa, etta nama tuotteet ovat, ellei toisin ole selvasti merkitty, etuuskohteluun oikeutettuja ... alkuperatuotteita (2).
+21. Swedish version
+Export○ren av de varor som omfattas av detta dokument (tullmyndighetens tillst?nd nr. ...(1)) f○rsakrar att dessa varor, om inte annat tydligt markerats, har f○rm?nsberattigande ... ursprung (2).
+22. Croatian version
+Izvoznik proizvoda obuhva?enih ovom ispravom (carinsko ovla?tenje br...(1) izjavljuje da su, osim ako je druk?ije izri?ito navedeno, ovi proizvodi...(2) preferencijalnog podrijetla.
+23. Korean version
+이 서류(세관인증번호...(1))의 적용대상이 되는 상품의 수출자는, 달리 명확하게 표시되는 경우를 제외하고, 이 상품은…(2)의 특혜원산지상품임을 신고한다.
+
+(4) 관세법제38조의3(수정 및 경정) ④ 세관장은 납세의무자가 신고납부한 세액, 납세신고한 세액 또는 제2항 및 제3항에 따라 경정청구한 세액을 심사한 결과 과부족하다는 것을 알게 되었을 때에는 대통령령으로 정하는 바에 따라 그 세액을 경정하여야 한다.제42조(가산세) ① 세관장은 제38조의3 제1항 또는 제4항에 따라 부족한 관세액을 징수할 때에는 다음 각 호의 금액을 합한 금액을 가산세로 징수한다. 다만, 잠정가격신고를 기초로 납세신고를 하고 이에 해당하는 세액을 납부한 경우 등 대통령령으로 정하는 경우에는 대통령령으로 정하는 바에 따라 그 전부 또는 일부를 징수하지 아니한다.1. 해당 부족세액의 100분의 102. 다음의 계산식을 적용하여 계산한 금액해당 부족세액 × 당초 납부기한의 다음 날부터 수정신고일 또는 납세고지일까지의 기간 × 금융회사 등이 연체대출금에 대하여 적용하는 이자율 등을 고려하여 대통령령으로 정하는 이자율(5) 관세법 시행령제39조(가산세) ②법 제42조 제1항 각 호 외의 부분 단서에서 "잠정가격 신고를 기초로 납세신고를 하고 이에 해당하는 세액을 납부한 경우 등 대통령령으로 정하는 경우"란 다음 각 호의 어느 하나에 해당하는 경우를 말한다.5. 신고납부한 세액의 부족 등에 대하여 납세의무자에게 정당한 사유가 있는 경우(6) 부가가치세법(2013.7.26. 법률 제11944호로 개정된 것)제35조(수입세금계산서) ② 세관장은 다음 각 호의 어느 하나에 해당하는 경우에는 수입하는 자에게 대통령령으로 정하는 바에 따라 수정한 수입세금계산서(이하 "수정수입세금계산서"라 한다)를 발급하여야 한다.2. 세관장이 과세표준 또는 세액을 결정 또는 경정하거나 수입하는 자가 세관공무원의 관세 조사 등 대통령령으로 정하는 행위가 발생하여 과세표준 또는 세액을 결정 또는 경정할 것을 미리 알고 「관세법」에 따라 수정신고하는 경우로서 다음 각 목의 어느 하나에 해당하는 경우다. 수입자의 단순착오로 확인되거나 수입자가 자신의 귀책사유가 없음을 증명하는 등 대통령령으로 정하는 경우④ 수입세금계산서 또는 수정수입세금계산서의 작성과 발급 등에 필요한 사항은 대통령령으로 정한다.부칙제1조(시행일) 이 법은 공포한 날부터 시행한다.제2조(수정수입세금계산서 발급에 관한 적용례) 제35조의 개정규정은 이 법 시행 후 최초로 수정신고하거나 결정ㆍ경정하는 분부터 적용한다.(7) 부가가치세법 시행령제72조(수입세금계산서) ④ 법 제35조 제2항 제2호 다목에서 "수입자의 단순착오로 확인되거나 수입자가 자신의 귀책사유가 없음을 증명하는 등 대통령령으로 정하는 경우"란 다음 각 호의 어느 하나에 해당하는 경우를 말한다.2. 수입자의 귀책사유 없이 「관세법」 등에 따른 원산지증명서 등 원산지를 확인하기 위하여 필요한 서류가 사실과 다르게 작성·제출되었음이 확인된 경우3. 수입자의 단순 착오로 확인되거나 수입자가 자신의 귀책사유가 없음을 증명하는 경우
+
+【따른결정】
+조심2017관0038 / 조심2017관0172/조심2017관0110 / 조심2017관0329 / 조심2017관0329 / 조심2018관0138 / 조심2018관0138 / 조심2023관0093 / 조심2024관0037
+의결일자: 20160621
+사건명: 한ㆍEU 협정세율 적용 여부 등
+
+【주문】
+심판청구를 기각한다.
+세목: 관세
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 921610
+재결례유형코드: 429150
+재결례유형명: 조세
+관련법령: 한-EU FTA제15조, 제16조, 제17조, 관세법제42조
