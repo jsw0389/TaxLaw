@@ -1,0 +1,38 @@
+해석_국세청 | 부가46015-1534 | 19960729 | 전기통신사업자가 전기통신용역을 제공하고 받는 대가의 부가가치세 면제 여부 | ID 131592
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000085778 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 전기통신사업자가 전기통신용역을 제공하고 받는 대가의 부가가치세 면제 여부
+문서번호: 부가46015-1534
+생산일자: 19960729
+
+【요지】
+전기통신사업자가 이용자에게 설치한 전화에 의하여 전기통신용역을 제공하고 그 대가를 받는 것은 부가가치세가 면제되는 것이고, 우리나라에 주재하거나 파견된 외교관 또는 외교사절에 공급하는 전력은 영세율이 적용되는 것임.
+
+【회신】
+회 신:전기통신사업법 제2조 제1항 제1호 규정의 전기통신사업자가 이용자에게
+설치한 전화에 의하여 전기통신용역을 제공하고 그 대가를 받는 것은 부가
+가치세법 제12조 제1항 제17호 및 동법시행령 제38조 제1항 제18호의 규정
+에 의해 부가가치세가 면제되는 것임.
+우리나라에 주재하거나 파견된 외교관 또는 외교사절에 공급하는 전력은
+부가가치세법시행령 제26조 제7호 (다)목 및 동법시행규칙 제9조의 3 규정
+에 의해 영세율이 적용되는 것으로, 이 경우 당해 외교관이나 외교사절이
+당해 전력을 공급한 사업자에게 지급한 전력사용요금에 10%의 부가가치세
+가 포함된 경우에는 당해 부가가치세상당액은 거래상대방으로부터 환불받
+을 수 있는 것임.
+
+【본문】
+1. 질의내용 요약
+
+○ My name is ○○○ and I have had the pleasure in the last four years to serve in the Israeli Embassy as a First Secretary. In this fascinating time Israeli relations have improved dramatically. The initialing of a Double Taxation Avoidance treaty only last month is a clear sign of these strong ties.
+
+○ It has come to my attention only lately that as a foreign diplomat in Korea I am entitled to a VAT exemption on my electric bill and telephone bill (enclosed please find an article published in the Korea Herald on June 13). Unfortunately I was not aware of this information previously.
+
+○ Upon learning of this information I have contacted KEPCO and KOREA TELECOM and asked them to check possibility of getting a refund for the VAT which I have mistakenly paid throughout my stay in Korea. I am told by both companies that they are not familiar with this procedure and would appreciate if you could look into this matter and inform me on the Tax office's position on this issue and how can a refund by received.
+
+2. 관련 조세 법령 (법률, 시행령, 시행규칙, 기본통칙)
+
+○ 전기통신사업법 제2조 제1항 제1호
+
+○ 부가가치세법 제12조 제1항 제17호
+
+○ 부가가치세법 시행령 제38조 제1항 제18호

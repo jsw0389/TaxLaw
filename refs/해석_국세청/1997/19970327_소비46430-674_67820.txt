@@ -1,0 +1,70 @@
+해석_국세청 | 소비46430-674 | 19970327 | DATA/GRAPHIC LCD 프로젝터의 과세대상물품 해당여부 | ID 67820
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000129933 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: DATA/GRAPHIC LCD 프로젝터의 과세대상물품 해당여부
+문서번호: 소비46430-674
+생산일자: 19970327
+
+【요지】
+DATA/GRAPHIC LCD 프로젝터는 과세대상물품에 해당하지 아니하나, 컴퓨터 및 워크스테이션 화상 및 텔레비전 영상을 모두 투사할 수 있는 DATA & VIDEO LCD프로젝터와 텔레비전 영상을 투사해 주는 VIDEO LCD프로젝터는 텔레비전영상투사기에 해당하는 과세물품인 것임
+
+【회신】
+귀 질의물품인 DATA/GRAPHIC LCD 프로젝터의 과세대상물품 해당여부는 우리청의 기존 예규 (소비 46430-626, 1997.03.22)을 참조.
+
+붙임 :
+※ 소비46430-626, 1997.03.22
+
+【본문】
+1. 질의내용 요약
+
+○ 폐사가 1996년도에 수입하여 판매한 제품에 대해 1997. 02. 27일 부로 특소세를 김포직할 세관이 과세한바 이에 유첨의 자료를 토대로, 하기 물품의 특소세 과세 물품 해당 여부를 검토하시어 유권해석을 바랍니다.
+
+하 기
+
+품명
+
+주 사용 목적
+
+특소세 과세여부
+
+IMPRESSION 960
+
+(ASK 사)
+
+DATA/GRAPHICS 용
+
+방식 : active Matrix TFT LCD
+
+기본해상도 : 1024X 768
+
+호환 : IBM PC 호환기종 Workstation 및 MAC 호환기종
+
+현 심의 요망
+
+IMPRESSION 860
+
+(ASK 사)
+
+DATA/GRAPHICS 용
+
+방식 : active Matrix TFT LCD
+
+기본해상도 : 800X 600
+
+호환 : IBM PC 호환기종 Workstation 및 MAC 호환기종
+
+현 심의 요망
+
+IMPACT 600
+
+(geha 사)
+
+DATA/GRAPHICS 용(ASK 960 OEM 모델)
+
+방식 : active Matrix TFT LCD
+
+기본해상도 : 1024X 768
+
+호환 : IBM PC 호환기종 Workstation 및 MAC 호환기종
+
+현 특소세 제외

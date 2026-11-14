@@ -1,0 +1,27 @@
+해석_국세청 | 소비46430-626 | 19970322 | 특별소비세 과세대상 해당여부 | ID 56208
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000129932 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 특별소비세 과세대상 해당여부
+문서번호: 소비46430-626
+생산일자: 19970322
+
+【요지】
+컴퓨터 및 워크스테이션 화상 및 텔레비전 영상을 모두 투사할 수 있는 DATA/VIDEOLCD 프로젝터 (모델명 : Impression 970, Impression 880)와 텔레비전 영상을 투사해주는 VIDEO LCD 프로젝터 (모델명 : PLC-220N)는 텔레비전영상투사기에 해당하는 과세물품인 것임
+
+【회신】
+귀 질의물품인 LCD 프로젝터중 컴퓨터의 DATA/GRAPHIC의 처리에 전용되도록 제작된 DATA/GRAPHIC LCD 프로젝터 (모델명 : Impression 960, Impression 860) 은 과세대상 물품에 해당하지 아니하나, 컴퓨터 및 워크스테이션 화상 및 텔레비전 영상을 모두 투사할 수 있는 DATA/VIDEOLCD 프로젝터 (모델명 : Impression 970, Impression 880)와 텔레비전 영상을 투사해주는 VIDEO LCD 프로젝터 (모델명 : PLC-220N)는 텔레비전영상투사기에 해당하는 과세물품인 것임.
+
+【본문】
+1. 질의내용 요약
+
+[질의물품]
+
+- 물품종류: 프로젝터 (Projector, 영상투사기)
+
+- 물품명 : Impression 960, Impression 860, Impression 970, Impression 880, PLC-220N
+
+- 제조사 : ASK사, SANYO사
+
+[질의내용]
+
+상기 물품이 특별소비세 과세대상품품인지 여부

@@ -1,0 +1,21 @@
+조세심판원 | 조심2012서0685 | 20120531 | 청구인의 OOO 등의 계좌로 입금한 쟁점계좌입금액을 증여로 보아 과세한 처분의 당부 | ID 64718
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+
+【재결요지】
+청구인이 토지수용보상금 OOO을 받은 시점이 93.11월이고, 주유소 건물 사용승인일이 92.8월로 청구인이 주유소 건물 증축자금 및 정유사 부채 상환자금에 토지보상금이 사용되었다는 청구주장은 시점이 맞지 않고, 토지보상금이 주유소 운영자금에 사용되었다는 금융 및 객관적인 증빙이 없으므로 청구주장은 인정하기 어려움
+
+【이유】
+1. 처분개요 가. 청구인의 아버지 OOO(OOOOOO)O OOOOOOOOOOO OOOO OOOOOO(OOOOOOOOOOOOOO)O OO O,OOOOO, OOOOOOOOOOO OOOOOO (OOOOOOOOOOOO)O OO O,OOOOO , OOOOOOOOOOO OOOOOOOO(OOOOOOOOOOOOOO)O O,OOOOO, OOOOOOOOOOO OOOOOOOO(OOOOOOOOOOOO)O O,OOOOO, O OO OOOOOOOO (OOOOOOOOOOOO)O O,OOOOO , O OO O,OOO만원(이하 “쟁점계좌입금액”이라 한다)을 청구인 명의의 은행 계좌로 입금하였다. 나. 처분청은 청구인에 대하여 ‘금융재산 취득자금 출처 불분명’ 사유로 증여세 자금출처조사를 실시하여, 청구인이 아버지 한도봉으로부터 쟁점계좌입금액을 증여받은 것으로 「상속세 및 증여세법」제2조 에 의한 증여세 과세대상으로 보아 2011.9.1. 2007.10.31. 증여분 증여세 OOO을 결정·고지하였다. 다. 청구인은 이에 불복하여 2011.9.15.이의신청을 거쳐 2012.1.17. 심판청구를 제기하였다. 2. 청구인 주장 및 처분청 의견 가. 청구인 주장 (1) 청구인이 소유하고 있던 OOO에 편입되어 OOOOOOOOOOO OOOO,OOOOOO OO OOOO, OOO O O,OOO만원을 청구인의 아버지 OOO으로부터 1992OOOOOO OOOOO(OOO)O OO OO OOOO OOOOO에 대한 주유소 증축자금 및 정유사 부채 상환자금 등으로 사용하였으며, 2007년 주유소를 양도하면서 투자수OOO이 발생하여 청구인이OOO투자에 대한 24년간의 투자수익을 감안하여 반환받은 것이다. (2) 처분청은 2007.12.20. 증여일로 하여OOO을 증여세과세가액으로 결정하였으나, 내용을 보면 2007.12.20. OOOO OOOOO OO O,OOOOO OOOOO, OOOOOOOOOOO OOOO O,OOOOO OO OO, O,OOOOO OO OO, OO OO O,OOOOOO OOOOOO, O O O,OOOOO OO OO OO O,OOOOOO OOO 등에게 다시 반환되어 증여세과세가액에서 제외하였는데, 처분청에서는 계산착오로 OOO을 과다결정하였다. 나. 처분청 (1) 증여자 한도봉은 청구인의 토지보상금수령일 이전인 1992. 5. 8.부터 경OOO 외 1인으로 기재되어 있어 ‘외 1인’이 청구인으로 공동사업을 영위하기로 한 것이라고 주장하나 , 허가서상 ‘외 1인’이 청구인이라는 내용은 확인할 수 없으며, 당시 청구인은 만 18세이며, 1992년에 군대에 입대하는 등 주유소를 공동 으로 운영할 만한 능력이 없는 것으로 판단되며, 청구인은 2003년부터 12건의 부동산(공시지가 OOO을 취득한 바, 1993년 토지수용매각 대금은 동 부동산 취득자금으로 사용되었을 것으로 추정되고, 청구인이 투자명세내역 및 금융증빙에 대하여 객관적인 증빙에 의하여 입증하여야 하나, 구체적 증빙서류 제출 없이 주유소에 투자한 자금을 회수하였다는 주장은 신빙성이 없어 아버지 OOO이 청구인에게 계좌 이체한 쟁점계좌입금액은 「상속세 및 증여세법」제2조 에서 규정하는 증여받은 재산에 해당한다. (2) 2007.12.20. 증여일로 하여 OO O,OOOOOO OOOOOO OOOOOO, OOOO OOOO OOOO OO O,OOOOOOOO OOOO OO OOOO OOOO OOOOO을 과다결정하였다. 3. 심리 및 판단 가. 쟁점 ① 청구인의 아버지가 청구인의OOO 등의 계좌로 입금한 쟁점계좌입금액을 증여로 보아 과세한 처분의 당부 ② 2007.12.20. 증여분 증여세과세가액 산정 시 OOO만원이 과다계상되었다는 청구주장의 당부 다. 사실관계 및 판단 (1) 처분청의 조사종결 보고서에 의하면, 쟁점계좌입금액과 관련하여 청구인의 통장과 입출금 내역에 대하여 금융조사를 실시한 결과 2007.10.24. OOO이 발행되어 2007.10.31. 청구인의 OOO천원 발행되어 2007.10.31.청구인의 OOO 입금된 사실, 2007.12.20. OOOO OOOOOO(OOOOOOOOOOO)OO OOO O OOOOOO(OOOOOOOOOOOO)O OOO,OOOOO OO O, OO,OOOOOO OOOO OOOO OOOO OOOOO OOOO, OO OOO,OOOOO은 청구인의 외환은행계좌에 남아 있었던 사실, 2008.11.13. OOO로 입금된 사실, 2008.12.29. OOOO OO OO,OOOOO(OOOOOOOOO)OOOO OOOO OOOOOOOO(OOOOOOOOOOOO)OO OO,OOOOO, O OO OOOOOO OO(OOOOOOOOOOO)O OO,OOOOO 입금 된 사실을 조사·확인하고 있다. (2) 청구인은 토지보상금을 주유소 사업에 투자한 것이라며, OOOO OOO OOOOOOOOOO OOO OOOOOO(OOO) OOO OO, OOOOOOOOOOO OOOOOOOOOO OOOOOOOOO OOO O OOO OOO OOO OOO OOOO OO(OOO-OO-OOOOOO), OOOOO OOO OOOOO OOOO OOO OO OOOOOO OO O,OOOOO을 투자위임하였다는 약정서를 제출하고 있다. (3) 국세통합시스템에 의하면, 청구인은 2007년에 O,OOOOOO OO OOO OO,OOOOOO OOOOO OOOOOO, OOOOOOO OOOOOOO OO,OOOOOO OOOOO OO OOOO, OOOO OOOOOOOOOOO OOOOOOOOOO OOOO OOOO OOO OOO OO OO-OO OO O OOO의 부동산을 취득한 것으로 나타난다. (4) 살피건대, 청구인이 토지수용보상금 OOO만원을 받은 시점이 1993.11월이고, 주유소 건물 사용승인일이 1992.8월로 청구인이 주유소 건물 증축자금 및 정유사 부채 상환자금에 토지 보상금이 사용되었다는 청구인의 주장은 시점이 맞지 않고, 토지보상금이 주유소 운영자금에 사용되었다는 금융 및 객관적인 증빙이 없으므로 토지수용보상금이 주유소 운영자금에 사용되었다고 인정하기 어렵다고 하겠다. 다만, 처분청이 2007.12.20. 증여일로 하여 OOO,OOO,OOOOO OOOOOOOOO OO OOOO, OOOOO OOOOOOO O,OOO,OOOOO OO OOOO OOOOOOOO OOO,OOO,OOOO으로 하여 과세표준 및 세액을 경정하는 것이 타당하다고 판단된다. 4. 결론 이 건 심판청구는 심리결과 청구주장이 일부 이유 있으므로「국세기본법 」 제81조 및 제65조 제1항 제2호, 제3호에 의하여 주문과 같이 결정 한다.
+의결일자: 20120531
+사건명: 청구인의 OOO 등의 계좌로 입금한 쟁점계좌입금액을 증여로 보아 과세한 처분의 당부
+
+【주문】
+OOOOOOO OOOOOOOOO OOOOO O OOOOOOOOOOO OOO OOO OO,OOO,OOOOO OOOOO OOO OOOOO OOO,OOOO,OOOO으로 하여 과세표준 및 세액을 경정하고, 나머지 청구는 기각한다.
+세목: 증여
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 64718
+재결례유형코드: 429150
+재결례유형명: 조세
+관련법령: 「상속세및증여세법」 제2조

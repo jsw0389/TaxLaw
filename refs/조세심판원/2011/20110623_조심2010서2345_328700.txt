@@ -1,0 +1,21 @@
+조세심판원 | 조심2010서2345 | 20110623 | 배우자로부터 지급받아 주택마련대출금에 대한 이자에 충당한 금액이 생활비에 해당하여 비과세되는 증여재산인지 여부(기각) | ID 328700
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+
+【재결요지】
+쟁점금액이 비록 생활비 명목으로 지급받은 금원 중 일부라고 하나, 주택마련을 위한 대출금의 이자로 매월 평균 5백만원 이상 지급었으므로 사회통념상 생활비로 보기 어려움
+
+【이유】
+1. 처분개요가.부산지방국세청장은 청구인의 배우자 오OOO OOO과 공동으로 운영하고 있는 경상남도 OOO OOO OOOO OOOO에 대한 세무조사를 실시하여, 청구인이 2006.5.30. 서울특별시 OOO OOOOOOOOOO OOOOO OOOOOOOO(이하 “이 건 아파트”라 한다)를 1,512백만원에 취득하면서 대출금 1,100백만원(이하 “대출금”이라 한다)을 제외한 ① 412백만원과 ② 취득세 및 등록세 65,567,550원을 배우자로부터 지급받고, ③ 대출금 중 일부 상환액 138,241,381원, ④ 대출금의 이자 214,009,234원(2006.5.2.~2009.12.31. 기간 발생분, 이하 “쟁점금액”이라 한다), ⑤ 임차보증금 100백만원(경기도 OOO OOO OOOOOOOOOOO OO OOO 식당)을 배우자로부터 지급받은 사실을 확인하고 위 금액의 합계 929,818,165원을 청구인이 배우자로부터 증여받은 것으로 보아 처분청에 증여세 과세자료를 통보하였다.나.처분청은 위의 조사내용에 따라 2010.4.9. 청구인에게 증여세 2006.5.30. 증여분 42,204,000원, 2006.11.30. 증여분 10,555,760원, 2007.12.31. 증여분 25,238,790원, 2008.3.31. 증여분 및 2008.12.31. 증여분은 과세미달,2009.9.30. 증여분 8,384,730원 합계 86,383,280원을 결정ㆍ고지하였다.다. 청구인은 이에 불복하여 2010.7.5. 심판청구를 제기하였다.2. 청구인 주장 및 처분청 의견가. 청구인 주장청구인의 배우자를 제외한 나머지의 가족들은 서울특별시에서 거주하고 있고, 배우자는 경상남도 OOO에서 치과병원을 운영하고 있기 때문에 매주 금요일 오후에 서울특별시로 와서 가족들과 생활하다가 월요일 오전에 OOOO OOOO OOO OOOO OOOOO OOO OOOO OO OOO OOOOOO OOOO OOO OOO OOOOOO OOOO OO O O OOOO OOOO OOOO OO OOOOOOOO OOOO OOOOOO OO OOOO OOO, O OOOOO O O OOOO OOOO OO OOOOOO OOOOO OOO OOOO O OOO OOOOOOOO OOOO OO OOOOOOO OOO OOOOOO OOOO OOO OOO OOOO OO OOO OOOOOOO OO OO, OO, OO OO OOOO OOO OOO OOOO OOOO OOOOO OOOO OO OOOOO(OOO O OOOOOOOO OOOOOOO OO), OOOOO OOOO OOOOOO OO OO OOOOOO OOOO OOO OOOO, OO OOO OOOOO OOOO OOOO O O OO OO OOO, OOOOO OO OOO OO OOOO OOO OOO OOOO OOOO OOO OO OOOOO OO O OOOO O OOOOOOO OOOO OOOO OOOO OO OOO OOO OOOO(OOO,OOO,OOOO)O OOOO OOOOO OOOOO OOOO OO OO(O) OOO O OOOO OOOOOOOOOO OOOOOOO OOO OO OOOO OOO OOOO OOOO OOOO OOOOOOO OOOOO OOOO OOOOOO, OOO, OOOOO OOO, OOO OO OO OOO OOOO OOOOO OOO O(O) OOO O OOOO OOO OOOOOOOOOO OOOOO OO OOO O OOOO OOOOO OOOOOO OOO OOOO OO OO O OO OO OOOO OOOO OO OOO OO OOO OO OOOOOO OOO OO OOO OO OO OOO OOOO OOOOOOOOOOO OO OO OOO OOOOO OO OOOOO OOOO OOOO OOOOOOO OO OOOOO OOOO OOOO OOOOOO OOO OO OOOO OOO OOO OOOOO OO OOO OOO OOOOO OOOOO OOO OOOO OOOOOOO OOO OOOOO OOOOOO OOO OO(OOO OOOO OOOO OOOOOO OO OOO OOO OOOO)O OO OO OOOO OOO O OOOO OOOO OOO OO OOOOOOOOOOOO OOOO OOOOOOO O O OOOOOOO OOOOO O OOO OO OOOOOOO O OOOOO OOOOO OO OOO OOO OOO OO OO OOO OOOOO OOO OOO OOOO OOOO O OO(O) OOOO OOOO OOOOOOO OOOOOOO OOOOOO OO OOO,OOO,OOOOO OOOO OOO OOOO, O OOO OOOO OOOOOOOO OO O O OOOO OOOOOO(O) OOOO OOOOOO OOOO OO O OOOO(OOO,OOO,OOOO)O OOO OOO OOO OOOO OOOOO OOOOOOOO OOOOO OOO OOOOO, OO OO OOOOO OOOO OOOO OOOO, OOO OOOO OOO OO OOOOOO(O) OOOO OOOO은행 예금계좌(13-910023-28***)의 거래내역을 보면, 청구인은 2005년 7월부터 2009년 12월까지 매월 평균 17백만원 정도를 배우자로부터 송금받은 사실이 확인되고, 그 중 일부를 청구인의 OOOO은행 예금계좌(427-20-211***)로 이체하였으며, 그 계좌에서 쟁점금액이 대출금의 이자로 이체된 것으로 나타난다.(나) 제시한 증빙서류인 대출금 이자납입 증명서를 보면, 청구인이 2006.5.2.부터 2009.12.31.까지 합계 214,009,234원을 대출금 1,100백만원에 대한 이자로 납입한 것으로 확인된다.(다) 주민등록표초본에 의하면, 청구인 및 자녀들은 2000.2.2.부터 서울특별시에서 거주하고 있고, 배우자는 경상남도 OOO에서 계속하여 거주하고 있는 것으로 나타난다.(3) 살피건대,「상속세 및 증여세법」제46조제5호에서 사회통념상 인정되는 피부양자의 생활비에 대하여는 증여세를 부과하지 아니한다 규정하고 있으므로 부양의무자에게 지급하는생활비로서 통상적으로필요하다고 받아들일 수 있는 범위 내의 금원은 증여세가 비과세된다 할 것인바, 쟁점금액은 비록 생활비의 명목으로 지급받은 금원 중의 일부라 하나, 주택 마련을 위한 대출금의 이자로 매월 평균 5백만원이상이 지급된 것이므로 사회통념상 생활비로 보기는 어렵다 하겠다.그렇다면, 처분청이 쟁점금액을 증여재산가액에 포함하여 증여세를 과세한 처분은 달리 잘못이 없는 것으로 판단된다.4. 결 론이 건 심판청구는 심리결과 청구주장이 이유 없으므로「국세기본법」제81조및 제65조 제1항 제2호에 의하여 주문과 같이 결정한다.
+의결일자: 20110623
+사건명: 배우자로부터 지급받아 주택마련대출금에 대한 이자에 충당한 금액이 생활비에 해당하여 비과세되는 증여재산인지 여부(기각)
+
+【주문】
+심판청구를 기각한다.
+세목: 증여
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 328700
+재결례유형코드: 429150
+재결례유형명: 조세
+관련법령: 「상속세및증여세법」 제46조 【비과세되는 증여재산】 / 「상속세및증여세법시행령」 제35조 【비과세되는 증여재산의 범위 등】

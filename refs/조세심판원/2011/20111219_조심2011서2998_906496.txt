@@ -1,0 +1,22 @@
+조세심판원 | 조심2011서2998 | 20111219 | 은행의 대출채권매각이익이 교육세 과세대상인지 여부 | ID 906496
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+참조결정: 조심2010서3544 / 조심2010서3703
+
+【재결요지】
+청구법인은 교육세 납세의무자인 금융·보험업자에 해당하고, 대출채권을 매각함에 따라 발생한 대출채권매각이익은 매각과정에서 거래당사자, 협상력 등 여러 요소에 따라 그 크기가 변경될 수 있는 점에 비추어 은행의 고유업무와 관련된 수익에 해당한다고 보아 경정청구를 거부함이 타당함
+
+【이유】
+1. 처분개요가. 청구인은「은행법」에 따라 설립되어 은행업을 영위하고 있는 법인으로 대출채권의 매각대금에서 매각채권의 장부가액을 차감한 금액을 대출채권매각이익으로 교육세 과세표준에 포함하여 2007년 제4기부터 2009년 제4기까지의 교육세를 신고ㆍ납부하였다가, 당해 대출채권매각이익이 교육세 과세대상에 해당되지 아니한다는 이유로 2011.2.28. 기납부한 교육세 OOO,OOO,OOOOOOO OOOO OOO OOO OOOOO OOOOOO OOOO OOOOOOOOO OOO OOOOO OO OOOOO OOOO OO OOOOOOOOOO OOOOO OOOOO OOOOOOOOOOOOO OO OOOOOOOOOOOOOOOOOOO OOOOOOOO OOOO OO O OOO OOOO OOOO OOOOOOOOOOO OOO OOOOOOO OOOO OOO OOO OOO OOO, OOO OOOOO OO OO(OOOO)O OOOO OOO OOOO OOOO, OOO OOOOOOOOO OOOO OO OOO OOO OOOO OOOO OOOOO OOOOO OO OOO OOOOOO OOOOO OOOOO, OOOOO OOO OO OO OOO OOO O O OOO, OOO OO O OOOOO OO OOO OO OOO OOO OO O OOO OOOO OO OOOO, OOOOO OOOO OO OOOO OO OOO OOO OOO OOOO OOOO OOOO OO OOO OOOOO OO OOOO OOOOO OOO OO OOO OOOOO OOOO OOOO OOO OOOOO OOOOOOOOO OOO OOOOOO OOOOO OOOOO OOO OOOOOOOOOOO OOOOO OOOO OOOOO OOOO OO OOO OOO OOOO OOOO OOO OOOOO OO OOO OOOOOO OOO OOOOO OOOOO OOOO OOOOO OOO OO OOO OOOOOO O OO OOO, OO OOO OOOOO OOOOO OOO OO OOOOO OOOOO OOO OOO OOOOOOO OO O OOOO O OOOO OOOOOOOOO OOO OOOOOO OOOO OOOO(O) OOOO OOOOOOOOOOOO OOO OO OOOO OO O OO OOO OOO OOOO OOO OOO OOOOOOOOO OOOOOOO OOOO O O OOO OOOO O (OOOOOOOOOOOO OO)OOOO OOOOOOO(OOO OOO OO)(2)「교육세법」제3조에서 교육세의 납세의무자는 금융ㆍ보험업자로 규정하고 있고, 같은 법 제5조 및 같은 법 시행령 제4조 제1항에서 교육세의 과세표준은 금융ㆍ보험업자의 수입금액으로 하며 그 수입금액에는 기타영업수익 및 영업외수익을 포함하고 있고, 같은 법 시행령 제4조 제2항에서는 교육세 과세표준이 되는 수익금액에 산입하지 아니하는 항목을 열거하고 있다.(3) 대출채권매각이익은 자산유동화 등을 통한 대출채권매각이라는 대외적인 거래 또는 처분과정에서 발생한 것으로서 그 거래 또는 처분과정에서 처분이익이 일정금액으로 고정되어 있는 것이 아니라 거래 당사자, 경제 및 시장여건 등 바겐파워(Bargain Power)와 그 정도에 의하여 처분이익이 결정되는 등 그 발생요인은 여러 가지가 있을 수 있고 발생금액도 변할 수 있다.(4) 또한, 대출채권매각이익은 은행의 고유업무인 대출업무와 관련된 수익에 해당하므로 그 실질이 대손충당금환입액과 같이 은행의 ‘내부이익’에 해당한다고 보기 어렵다. 즉, 대손충당금환입은 전기까지 설정해둔 대손충당금 누계액 중 당기말 기준으로 과다 책정된 부분을 환입하는 것으로 사내 유보된 대손충당금설정 대상채권에 대한 대손충당금설정 누계평가액의 변경으로 발생하지만, 대출채권매각이익은 대손충당금설정 대상채권이 실제로 유출되어 외부의 거래대상이 되면서 인식된 수익에 해당하고, 회계처리시에도 각각 손금 및 익금으로 처리한다는 점에서 대손충당금환입액과 같은 성질의 것이라고 보기는 어렵다.(5) 이상의 내용을 종합하여 살피건대, 청구법인은「교육세법」제3조에서 규정하는 교육세 납세의무자인 금융ㆍ보험업자에 해당하고, 청구법인이 보유 중인 대출채권을 매각함에 따라 발생한 대출채권매각이익은 매각과정에서 거래당사자, 협상력, 경제 및 시장상황 등 여러 요소에 따라 그 크기가 변경될 수 있는 점에 비추어 내부이익으로 보기보다는 은행의 고유업무인 대출업무와 관련된 수익으로서 영업외수익에 해당한다고 할 것이다(조심 2010서3544, 2011.4.5., 2010서3703, 2011.1.26. 같은 뜻임).따라서 처분청이 대출채권매각이익을 교육세 과세대상인 것으로 보아 청구법인의 경정청구를 거부한 처분은 잘못이 없다고 판단된다.4. 결 론이 건 심판청구는 심리결과 청구주장이 이유 없으므로「국세기본법」제81조 및 제65조 제1항 제2호에 의하여 주문과 같이 결정한다.
+의결일자: 20111219
+사건명: 은행의 대출채권매각이익이 교육세 과세대상인지 여부
+
+【주문】
+심판청구를 기각한다.
+세목: 교육
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 906496
+재결례유형코드: 429150
+재결례유형명: 조세
+관련법령: 「교육세법」 제3조 / 「교육세법 시행령」 제4조

@@ -1,0 +1,17 @@
+해석_국세청 | 소비46430-1927 | 19960917 | 특별소비세 과세여부 | ID 195568
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000128522 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 특별소비세 과세여부
+문서번호: 소비46430-1927
+생산일자: 19960917
+
+【요지】
+악취제거용 방향제인 Watchman과 Guardsman의 Air refills는 특수화장품에 해당되지 아니하므로 특별소비세법상 과세대상 물품이 아님.
+
+【회신】
+귀 질의 물품인 악취제거용 방향제인 "Watchman과 Guardsman의 Air refills"는 특수화장품에 해당되지 아니하므로 특별소비세법상 과세대상 물품이 아님.
+
+【본문】
+1. 질의내용 요약
+
+○ Watchman과 Guardsman의 Air refills는 특별소비세 과세대상 여부, 악취제거용 방향제

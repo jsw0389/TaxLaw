@@ -1,0 +1,33 @@
+해석_국세청 | 국일46017-668 | 19961211 | 전문적 인쇄기술을 보유한 미국법인에게 지급하는 대가 중 라이선스 대가의 국내원천소득 여부 | ID 137360
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000087544 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 전문적 인쇄기술을 보유한 미국법인에게 지급하는 대가 중 라이선스 대가의 국내원천소득 여부
+문서번호: 국일46017-668
+생산일자: 19961211
+
+【요지】
+전문적 인쇄기술을 보유한 미국법인이 내국법인과 공동으로 복합기에 결합될 프린터 기능을 가진 응용특화 집적회로의 설계 및 개발을 하고 내국법인으로부터 지급받는 대가 중 라이선스 대가로 지급받는 금액은 사용료소득에 해당함.
+
+【회신】
+전문적 인쇄기술을 보유한 미국법인이 내국법인과 공동으로 내국법인이 개발중인 복합기[Multi-function Device-팩스기, 복사기, 스캐너 프린터의 기능을 하나의 장치에 복합시킨 제품]에 결합될 프린터 기능을 가진 응용특화 집적회로(Chip)의 설계 및 개발을 하고 내국법인으로부터 지급받는 대가($650,000)중 라이센스 대가로 지급받는 금액($200,000)에 대하여는 한ㆍ미조세협약 제14조 및 한국의 법인세법 제55조 제1항 제9조의 규정에 의하여 사용료 소득에 해당하여 15%의 세율(주민세 별도)이 적용되는 것이며, 동 개발품(Chip)을 내국법인이 소유하는 조건으로 지급되는 공동 개발비용($450,000)에 대하여는 동종의 용역수행자가 통상적으로 보유하는 전문지식이나 기능을 활용하여 수행하는 용역으로서 한국법인에게 제공하는 용역이 비밀보호규정에 의하거나 특별한 장치에 의해 비밀보호되는 것이 아니며, 동 기술용역 제공대가가 당해 용역수행에 투입된 비용에 통상의 이윤을 가산한 정도이며 아울러 제공된 용역의 결과를 보증하는 경우라면 이는 법인의 인적용역 소득에 해당하는 것으로 한ㆍ미조세협약 제8조 및 제18조 규정에 의하여 귀사가 한국내에 고정사업장이 없다면 국내에서 과세되지 않는 것입니다.
+
+【본문】
+1. 질의내용 요약
+
+We have a Korean income tax problem and would appreciate any assistance your office can extend in order that we may receive a refund.
+
+The background information is as follows and copies of all documents are enclosed:
+
+a) A Development and Licensing Agreement signed April 26, 1995 with Samsung Electronics Ltd. to design and develop a Multi-function device for engineering work performed in the United States for $650,000.
+
+b) A memorandum dated September 5, 1995 to Mr. Ken Kim of Samsung Electronics Ltd. from their law firm, Venture Law Group. (possible tax exposure $15,000)
+
+c) An opinion from Wolf & Co. (Ms. Carol Tully) to XLI. (no tax exposure)
+
+d) Copies of the Certifications of taxes paid to the Korean Tax Authority amounting to $104,812.50.
+
+We are a small business with over 8 million in loss carry forward, applying the $104,812.50 to any U.S. tax liability is many years in the future.
+
+If you could outline the necessary procedures so the we may receive a refund, we would be very grateful.
+
+Thank you in advance.
