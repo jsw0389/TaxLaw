@@ -1,0 +1,12 @@
+해석_국세청 | 소비46430-2255 | 19930917 | P.A AMP 및 MIXER의 특별소비세 과세여부 | ID 214612
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000115705 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: P.A AMP 및 MIXER의 특별소비세 과세여부
+문서번호: 소비46430-2255
+생산일자: 19930917
+
+【요지】
+P.A AMP (YH-1000, YH-1500, YH-8800, YH-7700, SS-3150) 및 MIXER(YH-500MX, YH-700MX)는 현행 특별소비세 과세물품이 아님
+
+【회신】
+귀 질의 P.A AMP (YH-1000, YH-1500, YH-8800, YH-7700, SS-3150) 및 MIXER(YH-500MX, YH-700MX)는 현행 특별소비세법상 과세물품이 아닙니다.

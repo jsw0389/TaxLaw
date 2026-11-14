@@ -1,0 +1,55 @@
+해석_국세청 | 소비46430-807 | 19940421 | 컴퓨터 전용 디스프레이 장치의 과세대상의 과세대상 여부 | ID 99038
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000126407 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 컴퓨터 전용 디스프레이 장치의 과세대상의 과세대상 여부
+문서번호: 소비46430-807
+생산일자: 19940421
+
+【요지】
+IMPACT256은 컴퓨터 전용 디스프레이 장치인 경우에는 과세대상이 아니나 신호변환기ㆍ주파수변환기 등 간단한 전자주변기기를 부착하여 텔레비전영상을 투사할 수 있는 기기인 경우에는 텔레비전영상투사기에 해당하는 과세물품임
+
+【회신】
+1. 귀 질의 물품 중 『IMPACT24』와 『IMPACT21』은 특별소비세법시행령 별표1 제2종 제13호의 켈레비젼영상투사기에 해당하는 과세물품이고 『Video Adapter』는 과세물품이 아니나 위 과세물품과 함께 반출하는 경우에는 그 가액이 과세물품의 과세표준에 포함되는 것이며
+
+2. 『IMPACT256』은 컴퓨터 전용 디스프레이 장치인 경우에는 과세대상이 아니나 신호변환기ㆍ주파수변환기 등 간단한 전자주변기기를 부착하여 텔레비전영상을 투사할 수 있는 기기인 경우에는 텔레비전영상투사기에 해당하는 과세물품입니다.
+
+【본문】
+1. 질의내용 요약
+
+○ 하기 품목에 대한 특소세 적용여부를 검토하시어 회신 바랍니다.
+
+품목
+
+특징
+
+IMPACT 24
+
+Panel형 LCD - Projector
+
+640 × 480 × 3 Pixel resolution, 16.7million colors
+
+Computer, Video 연결단자 내장형
+
+IMPACT 21
+
+panel형 LCD - Projector
+
+640 × 480 × 3 Pixel resolution, 2.1million colors
+
+Video Adapter로 Video 연결 가능
+
+IMPACT 256
+
+panel형 LCD - Projector
+
+640 × 480 × 3 Pixel resolution, 256,000 colors
+
+Video Adapter로 Video 연결 가능
+
+Video Adapter
+
+IMPACT21용 Video Adapter
+
+2. 관련 조세 법령 (법률, 시행령, 시행규칙, 기본통칙)
+
+○ 특별소비세법 시행령 별표1 제2종 제13호

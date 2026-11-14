@@ -1,0 +1,21 @@
+조세심판원 | 조심2008서1567 | 20090220 | 피상속인 명의 부동산을 담보로 상속인이 대출한 금액이 사전증여재산인지 여부(기각) | ID 83342
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+
+【재결요지】
+피상속인 명의의 부동산을 담보로 상속인이 대출받고 피상속인이 대출금을 상환한 사실을 확인할 수 있으므로 동 대출금을 사전증여재산으로 보아 과세한 처분은 정당함
+
+【이유】
+1. 처분개요처분청이 OOO(상속개시일 1999.1.11)에 대한 상속세 조사 결과, 피상속인 소유였던 OOOOO OOO OO OOOOOO 대지 2,444.7㎡와 지상건물 1,557.72㎡(이하 “쟁점부동산”이라 한다)를 담보로 청구인 명의로 (O)OOOOOOOO로부터 900,000,000원을 차입하였으나 피상속인이 금융채무 989,462,396원(이하 “쟁점①금액”이라 한다)을 1996.11.20. 인수하여 변제한 사실과, 1997.6.25. 양도한 쟁점부동산의 처분 대금 중 청구인의 OOOO OO지점의 예금계좌(OOOOOOOOOOOOO)에 1997.6.25. 300,000,000원(이하 “쟁점②금액”이라 하며, 쟁점①금액과 쟁점②금액을 포함하여 이하 “쟁점금액”이라 한다)을 입금한 사실을 확인하고, 쟁점금액을 청구인에 대한 사전증여로 보아 2008.2.11. 청구인에게 1996.11.20.자 증여분에 대한 증여세 505,177,430원과 1997.6.25.자 증여분에 대한 증여세 104,359,350원 및 사전증여재산에 대한 1999년도분 상속세 159,808,770원을 각각 결정 고지하였다.청구인은 이에 불복하여 2008.5.1. 심판청구를 제기하였다.2. 청구인 주장 및 처분청 의견가. 청구인 주장청구인이 동 대출금을 사용한 사실이 전혀 없으며, 쟁점금액은 부모님 및 둘째 형의 치료비로 다 소진되었고, 시간이 많이 지나서 부모님 사망당시 병원치료비 등의 지급확인을 받을 수 없어 증빙을 제시하지는 못함에도 불구하고 처분청이 막연히 등기부상에 청구인의 채무를 아버지가 인수하였다는 사실만으로 이를 증여로 보아 이 건 과세함은 부당하다.나. 처분청 의견OOOOOOOO 대출금 9억원이 청구인 명의로 대출되었다 피상속인 명의로 변경된 후 피상속인이 변제한 사실에 대하여, 청구인은 대출은 명의만 청구인일 뿐 본인이 실제 채무자가 아니라고 주장하고 있으나, 이를 뒷받침할 근거가 없으며, 실제 채무자가 피상속인인 것으로 암묵적으로 주장하고 있으나, 피상속인 본인의 부동산을 담보로 제공하고 본인이 대출을 받으면서 대출절차가 좀 더 복잡한 제3자(청구인) 명의로 대출받는 다는 것은 인정할 수 없으므로 청구인이 실제 대출자이며 이를 피상속인이 인수하여 변제하였으므로 이자를 포함하여 변제한 989,462,396원에 대하여 증여세를 과세한 처분은 정당하며, 피상속인의 부동산 매도 대금 중 청구인 계좌로 1997.6.25. 입금된 300,000,000원은 이후에 피상속인에게로 출금된 사실도 없을 뿐 아니라 동일자로 청구인의 모친 OOO의 은행계좌에 300,000,000원, 둘째형 OOOOO OOOOO OOO,OOO,OOOOO OOO OOO OOO OOOOO OOOOO OO OOO OOO OOOO O OOO, OO OOOO OOOOOOOOOOO OOOOOOOOO OOOO OOO,OOO,OOOO O OOO,OOO,OOOOO OO O OOOO O OOOO OOOOOO OOOO OOO OOO O OOOOO OOOO OO O OOO OOOO OOOO OOO O OO OOO OO OOO OOOOO OOO OOO OOO OO OOO OOOOO OO OOO OOOOOOO OO O OOOO OOOOOO OOOOO OOOOOOOO OO OOOO OOO OO OOO O OOOO OOO OOO OOOO OOOO(O)OOOO OOOO OOOOOOOOOO OOOOOOOO OOO OO OOOO OO OOOOO OOO OO OOOOOOO OOOOO OO OOOOO OOO OOOO OOOO OOO OOO OOO OOOO OOOO OO OOOO OO OOO OOO(OOOO OOOOO OOOO O OOOOO OOOO OOOO)OOOO OO OOOOOOO OOOO OOOO OOO OOOO O OOO OOOOOOOO OOOOO(O) OOOO OOOO OOOOOOOOOO OOOOOOOO OOOOO OOO OO OOO OOOO OOOOO OOO OOOO OOOOO OOO OO OO OOO OOOO OOOOO OOOOOO OO OOO OOOOO OOOOO OOO OOOO(O) OOOO OOOO OOOOOOOO OOOO OO OOOO OO OOOOO OOO OO OOO OOO OOOOO OOO OOOOO OO, OOO OO OOOOOO O OOO OOOOOO OOO OO OO OOO OO OOOO O OOOOO OOO OOOO OOOOOOO OOOO O OO(O) O OO OOOOO OO,(O) OOOOOO OOOOOO OOO, OOOO OOOO OOO(OOOOO OOOOOOOOO) OOO OOOOOO OOO OOOOOOOOO (O)OOOOOOOOOOO OOOO OOOO(OOOOO O,OOOOOO)O OOOOOOOOOOO OOOOO OO OOO O O O OOO OOO OOOO OOOOOO OOOOOOOOO OOOO OOOOOOOOO OOOOO OOO OOO OOOO,(O) OOOOOO OOOOO OO OO OOOOOOOOO OOOO OOOO O,OOO,OOO,OOOOO OOOOO OOOOO OOO O OOOOOOOOOO OOOO OOOOOOOOOOO OOOOOOOO O OOOOOO OO OOOOO(O) OOOO OOOOO OOOOOOOOOOO OOOO OOO OOOO OOO OOO OOOOOO OOOOO OOOO OO OO OO, OOOO O OOOOOO OOOOOOOOOO OOOO OOOOOO의 예금계좌(OOOOOOOOOOOO)에 입금된 사실을 확인하고 이에 대하여 이 건 과세하였음이 심리자료에 나타난다.(라) 이에 청구인은 쟁점①금액은 청구인 명의로 대출되었으나 부모님 및 둘째형의 치료비로 다 소진되어 청구인이 사용한 사실이 없다고 주장하고 있으나 쟁점부동산의 등기부등본 이외 실제 치료비로 사용되었다는 객관적인 증빙은 물론 치료기간과 실제 소요된 치료비가 얼마인지도 정확하게 제시하지 못하고 있어 9억원을 치료비로 사용되었다는 청구인의 주장은 신빙성이 없어 보인다.(2) 위의 사실관계를 모아 볼 때, (O)OOOOOOOO의 대출금과 이자를 포함한 쟁점①금액과 쟁점부동산의 양도대금 중 청구인의 예금계좌로 입금된 쟁점②금액을 사전 증여받은 것으로 보아 증여세를 과세하고 쟁점금액을 상속세 과세가액에 산입하여 이 건 상속세를 과세한 처분은 달리 잘못이 없다고 판단된다.4. 결론이 건 심판청구는 심리결과 청구주장이 이유 없으므로국세기본법 제81조및 제65조 제1항 제2호의 규정에 의하여 주문과 같이 결정한다.
+의결일자: 20090220
+사건명: 피상속인 명의 부동산을 담보로 상속인이 대출한 금액이 사전증여재산인지 여부(기각)
+
+【주문】
+심판청구를 기각합니다.
+세목: 증여
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 83342
+재결례유형코드: 429150
+재결례유형명: 조세
+관련법령: 「상속세및증여세법」 제47조 【증여세과세가액】 / 「상속세법」 제13조 【상속세과세가액】

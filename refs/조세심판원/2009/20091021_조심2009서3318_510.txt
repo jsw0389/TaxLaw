@@ -1,0 +1,22 @@
+조세심판원 | 조심2009서3318 | 20091021 | 가공세금계산서로 보아 매입세액 불공제한 처분의 당부(기각) | ID 510
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+
+【재결요지】
+자료상으로 확정ㆍ고발된 업체로부터 배관자재를 실제 매입하였다고 주장하나 금융거래를 조작한 것으로 나타나며, 거래사실을 입증할 만한 구체적인 증빙을 제시하지 못하므로 가공거래로 본 처분은 정당함
+
+【이유】
+1. 처분개요가.처분청은 청구인이 OOOOO OOO OOO OOOOO OOOOOO OOOOOOO OOO(상호 : OOOO, 이하 OOOOOOOO OO)OOOO OOO OOOOO OOO OOOO OO,OOO,OOOO, OOOOO OOO OOOO OO,OOO,OOOOO OOOOOOO(OO OOOOOOOOOO OO O OOOO OOOOOOOOO OO)O OOOO OO OOO OOO OO OOOOOO OO OO OOOOO OOOOO OOOOOOOOO OOOOO OOOOOOOOOO OOOO O,OOO,OOOO, OOOOO OOOO O,OOO,OOOOO OOOOOOOOOOO OOOO OO OOOOOOOOOOOOOO OOOOO OOOOOOOO OOO OO O OOO OOOO OOO OOOOOO O O OOOOO OOOOOOOO OOOOO OOOO OOOOO OOO OOOO O OOOO OOO OOO OOOOO OOOOOOOO OOOO OOOOOOOO OOOOOOOO OO O OOOOO OOOO OOO OOOOOOO OOO OOOOOO OOOOOOOO OOOOO OO OOOOOOO OOOOO OOOOO, OOOOO, OOOO OO OOOO OOO, OOOO OO OOO OOOOOO OOO OOO OOO OOOOO OOOOOO OO OOO OOOOO OOOO O OOOOO OOO OOO OOOO OOOOOOOO OOOOOOOO OO O OOOOO OOOO OOO OOOOOOO OO O OOOO O OOOOOOOOO OOOOOO OOOOOOOO OO OOOOO OOOOO OOOOOO OOO OOO OOOO OOOOOOOOOO OOOOOOOOOO O OO O OO OOOOO OOOOOO OOOO OOOOOOOOO OOOO OOO O OOOO OOO OO OOOOOO OOOO OOO OO OO OOOO OOOOOO OOOO OOO OOO OO OOOO OOO OO OOOO(OO OOOO OOOOOOO OO)O OO OO OOO OOOO OOOOOO OOO OOO OOO OOO OOOOO OO, OOOOO OOO OOO OOOOO OOOOOOO OOOO O OO(O)O O OOOOO OO,OOOO OOOO OOOOO OOO O OOOOO OOO OOOOO OOOOOOOO OOOOOOOO OOOO OO OOO OOO OO OOOOOO OO OO OOOOO OOOOO O O OOOOOO OOO OOOOO OOOOO(O) OOOO O O OOOOO OOOOOOOO OOOOO OOOO OOOOO OOO OOOO OOOO OO OOOO OOO OOO OOOOO OOOOOOOO OOOOOOOO OO O OOOOO OOOO OOO OOOOO OOOOO OO OOO OOO(O) OOOO OOOOO OO OOOOOOO(OOOOO OO)O OOO,OOOO OO OOOO OOO OOO OOOO OO OOOOOO 외 27개 업체에 공급가액 34억 1,100만원의 세금계산서를 교부하여 거래처로 하여금 부당하게 조세를 감소시키게 한 사실을 확인하여「조세범처벌법」 제11조의2와「조세범처벌절차법」 제9조제2항에 의거 OOOO OOO을 사법기관에 고발한 사실이 나타난다.(나) 청구인은 쟁점매입액 상당의 배관자재를 실제 매입하였다고 주장하면서 예금계좌내역·어음사본 및 현금출납부 사본 등을 제시하고 있으나, 처분청 조사내용에 의하면, 청구인이 OOOO으로부터 쟁점세금계산서를 교부받고 그 대가로 청구인이 OOO의 OOOO OOOO(OOOOOOOOOOOOOOOO) 등으로 6회에 걸쳐 27,100,000원을 입금하였으나 당일 입금 후 당일 인출되었고, 2005.6.20.부터 2005.10.22.까지 6회에 걸쳐 어음대금으로 27,450,500원을 결제하였으나, OOO이 실제 수령한 사실이 확인되지 않는 것으로 나타나고 있다.(다) 종합하건대, 처분청의 OOOO에 대한 자료상 조사내용에 의하면, OOOO의 대표 OOO이 청구인과의 거래를 실거래로 위장하기 위하여 금융거래를 조작한 것으로 나타나며, OOO이 실물거래없는 가공매출세금계산서를 교부한 혐의로 사법기관에 고발되었고, 청구인이 실거래입증자료로 제시한 예금거래내역이 쟁점세금계산서의 발행일과 금액이 일치하지 않고, 달리 거래사실을 입증할만한 구체적인 증빙을 제시하지 못하고 있는 점에 비추어 처분청이 쟁점세금계산서를 가공세금계산서로 보아 동 매입세액을 불공제하여 과세한 이 건 처분은 잘못이 없는 것으로 판단된다.4. 결론이 건 심판청구는 심리결과 청구주장이 이유없으므로「국세기본법」제81조및 제65조 제1항 제2호의 규정에 의하여 주문과 같이 결정한다.
+따른결정: 조심2010서2357 / 조심2010서2527
+의결일자: 20091021
+사건명: 가공세금계산서로 보아 매입세액 불공제한 처분의 당부(기각)
+
+【주문】
+심판청구를 기각합니다.
+세목: 부가
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 510
+재결례유형코드: 429150
+재결례유형명: 조세
+관련법령: 「부가가치세법」 제17조 【납부세액】 / 「국세기본법」 제81조 【심사청구에 관한 규정의 준용】

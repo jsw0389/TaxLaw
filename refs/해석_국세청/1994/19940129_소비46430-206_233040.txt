@@ -1,0 +1,33 @@
+해석_국세청 | 소비46430-206 | 19940129 | EQUALIZER BOOSTER(MODEL : 878 GPX11)의 과세물품 해당 여부 | ID 233040
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000126389 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: EQUALIZER BOOSTER(MODEL : 878 GPX11)의 과세물품 해당 여부
+문서번호: 소비46430-206
+생산일자: 19940129
+요지: EQUALIZER BOOSTER(MODEL : 878 GPX11)는 가청주파증폭기에 해당하는 과세물품임
+
+【회신】
+귀 질의 물품인 EQUALIZER BOOSTER ( MODEL : 878 GPX11)는 특별소비세법 시행령 별표1 제2종 제5호 “나”목의 가청주파증폭기에 해당하는 과세물품입니다.
+
+【본문】
+○ 자동차용 EQUALIZER BOOSTER를 개발하여 금번 제조수출회사를 설립코져 하온바 이 제품의 특별소비세 품목 여부
+
+가. 기능 : ① 35W-35W RMS OUT POWER
+
+② 7BAND GRAPHIC EQUALIZER
+
+③ LED EQUALIZATION CURVER DISPLAY
+
+④ INDICATOR VOLUME/FADER CONTROLS
+
+⑤ DIMENSION 170(W) × 50(H) × 170 (D) mm
+
+나. 용도 : 자동차용 V/R 증폭장치
+
+다. 수출가격 : 1대당 US$33. -US$40.
+
+○ 별첨 : 카다로그 1부
+
+2. 관련 조세 법령 (법률, 시행령, 시행규칙, 기본통칙)
+
+○ 특별소비세법 시행령 별표1 제2종 제5호 나목

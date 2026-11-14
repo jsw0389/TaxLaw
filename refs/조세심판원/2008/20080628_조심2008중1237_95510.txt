@@ -1,0 +1,99 @@
+조세심판원 | 조심2008중1237 | 20080628 | 실물거래 없는 가공의 세금계산서로 보아 부가가치세 매입세액을 불공제한 처분의 당부(취소) | ID 95510
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+참조결정: 국심2006중1945 /
+
+【재결요지】
+거래상대방이 자료상으로 확정되었으나 일부자료상이고 관련된 거래명세서와 약속어음 지급에 대한 입금표가 신빙성이 있으므로 실지거래로 보는 것이 타당함
+
+【이유】
+1. 처분개요청구인은 2004.4.7. OOO OOO OOO OOOO번지에서 OOOOOOO이란 상호로 플라스틱 제조업을 영위한 개인사업자로서 2005년 제2기에OOO OOO OOO OOO OOOOOOO OO OOOOO(OOO O OO OOOOOO)으로부터 수취한 매입세금계산서 3매 공급가액 15,000,000원(이하“쟁점세금계산서”라 한다)에 대한 매입세액을 매출세액에서 공제하여 신고하였다.OO세무서장은 OOOOO에 대하여 2007.1.4. ~ 3.14까지자료상혐의자로 세무조사를 실시하여 OOOOO을 자료상으로 확정하고,청구인을포함한 거래처에 대하여 과세자료를 통보함에 따라 처분청은 청구인이OOOOO로부터 수취한 쟁점세금계산서를 실지거래 없는 가공의매입세금계산서로 보아 관련 매입세액을 불공제하여 2008.1.16. 청구인에게2005년 제2기 부가가치세 2,118,150원을 경정고지하였다.청구인은 이에 불복하여 2008.4.2. 이 건 심판청구를 제기하였다.2. 청구인 주장 및 처분청 의견가. 청구인 주장처분청이 청구인의 쟁점세금계산서에 대한 매입세액을 불공제한것은 청구외OOOOO이 자료상이라는 이유인 것이나, 쟁점세금계산서에 대한 거래는 사실이라고 OOOOO의 대표자 OOOOOOOOOOOOOO OOOO OO OO,OOOOO, OOO, OOOOOOOO OOOO OOOO OOOO O O, OOOOOOOO OO OOO OOOOO OOOO OOO OOO OOOO OO OOO OOOOOOO OOO OOOOOO OOO OOOOOOO OOO OOOOOO OOOOOOOOO, OOOOO, OOO, OOOOO OOOOOO, OOOOOOOOO OO OOO OOOOOO OOOOO OOOOOOOO OOOO O,OOOOOO OOOOOOO OOO OOOOOO OOOOOO, OOOO OOOOOO OOOO OO,OOOOOOOOOOOOOOOOOOO OOOOOOO OO OOO O OOOOOO OOOOO OO OOOOOO OOO OO OOOOOOOO OOOOOOOOO OOO OOOOOOO OO O OOOO OOOOOOOOOO OOOO OO OOO OOOOOO OO OOOOO OOOOO OOOO OOO OOOO OOOO(O) OOOOO OOOOOOOOOOO OOO OOOOO OOOOO OOO OOOOOOOOOOO OO OOO OOOO OOOOOOO O OOOOO OOOOOOO(O) OOOOO OOOOOOOOOOO OOOOOO OOO OOOOOO OOOOOOO OO OOO OO OOO OOOOO OOO OOOO OOOOOO OOO OO OOOO OOOOO OOOO OOOO OOOO OOO OOO OOO OOOOOOO OOO OOOOOOOOO OOOO OOO OOO OO OO OOO O OOOOOO OOOOOO OOO OO OOO O OOO(O) OOOOOO OOOOOOOOOOO OO OOO OOOOO OOOOOO OOOO OOOOOOO OOOOOOO O OOOO OOO OOO OOOOOOOOOOOOO OOOO OOO OOO OOOO OO OOO OOOOOOOOOOOOO OOOOO OOOOOOOO OO OOOOOOO OO OOO OOOO OOOOOO OOO OOO OOOOO O OOOOO OOOO OOO O OO OOO OOO OOO OOOOOOO OO, OOOOO OOO OOO OOOOO OOOOOOOOO OOOOOOO O OOOO OOO OO OOOOOO OOOOOOO OO OO OOOO OOOOOO OOOOOOOOOOOO OOOOOO OOO OO OOOO(OO OOOO OOOOOOO OO)OOO OO OOO OOOO OOOOOO OOO OOO OOOOOO OOOOO OO, OOOOO OOO OOO OOOOO OOOOO(O) OOOOOO OOOOOOOOO OOO OOOOOOOOOOOOOOOOOO OO OOOOOOOOO OO OOO OO OOOOOOO OOO O OOOOOOO OOOOOO OOOOO OOOOOO OOOOO OOO OOO OOOOOOO OOOOO OO OOO OOO OOOOO OOO OO OO OOO OO OOO OOOO O OO(O)OOOO OOOOOOOOO OOO OOO OOO OOOOOOOOOOOO OOOO OOOOO, OOOOOOOOOOO OOOOOOOOOOO OOOO OOOOO번지로 사업장을 이전한 사실이사업자등록증에 의해 확인된다.(2) 청구인은 2005년 2기에 OOO OOO OOO OOO OOOOO 소재OOOOO(OOOOOOOOOOOO)로부터 아래 과 같이 합성수지를매입하고 매입세금계산서 3매를 수취하였다. 쟁점 세금계산서 내역(단위:원) 일자
+품목
+공급가액
+세액
+비고
+
+2005.7.30
+합성수지
+5,000,000
+500,000
+
+2005.8.31
+합성수지
+5,000,000
+500,000
+
+2005.10.31
+합성수지
+5,000,000
+500,000
+
+계
+
+15,000,000
+1,500,000
+
+청구인은 OOOOO로부터 수취한 쟁점세금계산서가실물거래라고주장하면서 위 세금계산서 사본 3매와 함께거래명세서, 쟁점세금계산서의 거래대금을 어음으로 받았다는 2005.9.22. 입금표 사본과 청구인이 다른 사업자로부터 수취한 약속어음(발행일 2005.3.16, 지급기일 2005.7.26) 사본 1매를 제시하고 있다.또한, 청구인은 OOOOO의 실제대표자인 OOOOO(OOOOOOOOOO, OOOOOOOOOOOOOOOO)으로부터 쟁점세금계산서에 의한 거래가 사실거래라는취지의 진술서를 인감증명서를 첨부하여 제출하였다.(3) OO세무서장은 OOOOO의 자료상 혐의에 대하여2007.1.4.~ 3.14.세무조사를 실시하여 다음과 같은 사실을 확인하고, 2007. 4월자료상으로 확정·고발하였음이 처분청이 제시한 심리자료에 의해 확인된다.OO세무서장의 세무조사와 관련 청구외 OOOOO의 사업장에 현지확인한 바, 부가가치세 신고서상의 매출·매입 금액만큼의 거래를할 수 없다고 판단하였으며, 대표자는 OOOOOOO OOOO OOOOOOOO OO OOOOOOO(OOOOOOOOOOOOOOOO)이 운영하는 것으로 확인하였다.OOOOO의 실 운영자인 OOOOOOOOOOOOOOOO OOOOOOOOOOOOO OOOO OOO OOO OOO OO OOOO OOOO OOOO, OOOO OOOO OO OOOO OOOOOO, OOOOOO OO,OO, OOOO, OOOO OO OO OOO OOOOOO OOOO OOOOOOOOOO OOOOOO OOO OOOO OO OOOOOOOOOO OOOOO OOOOOO OOOO O,OOOOOOO O,OOOOOOO OOOO(OOOO OOOOO)O, OOOOO,OOOOOOO O,OOOOOOOOOOO(OOOO OOOOO)OO OOOOOO O OOO OOOOOOOOOOO OOOOOOOOOOOOO OOOOOOOOO OOOOO에 대한 적출내역(단위 : 백만원) 기 별
+신고내용
+자료상행위 적출금액
+
+계
+매출
+매입
+계
+매출
+매입
+
+합 계
+5,495
+2,851
+2,644
+3,304
+1,642
+1,662
+
+2006.2기
+897
+481
+416
+329
+329
+-
+
+2006.1기
+1,661
+888
+773
+1,129
+562
+567
+
+2005.2기
+1,782
+923
+859
+1,097
+459
+638
+
+2005.1기
+1,155
+559
+596
+749
+292
+457
+
+(4) OO세무서장의 OOOOO에 대한 세무조사시 청구인과의거래분에 대해서는 대금결재와 관련하여 수수료로 추정되는 1,500천원만이 OOOOO OOO OOOOOO(OOOO OOOOOOOOOOOOOOOO)으로 계좌이체되었고, 어음으로 결재하였다고 주장하는 13,701천원의 약속어음에이서사항 확인결과 이서사항 없으므로 공급가액 25,080천원을 가공거래로 확정한 사실이 OO세무서의 조사복명서에 의해 확인된다.(5) 위 사실관계를 종합하여 볼 때, 청구외 OOOOO이 자료상으로확정되어 고발되었다 하더라도 청구인의 쟁점세금계산서와 관련된 과세기간인 2005년 제2기에는 매출금액 923백만원중 459백만원만이 가공으로 확정(가공비율 49.7%)된 점, OOOOO을 실지로 운영한 청구외 OOOOOO OOOOO OOO OOOOOO, OOOOOOOOOOOO OOO OOOOO OOO OOO OOO OOOOO OOOOOO OOOO OOOOOO OOOOOOO OOOOOO OOOOOOOO OO O, OOOO OOOOOOO OOO OOOOOOOOOOO OOO OOOOO, OOOO OOO OO OOOOOOOOOO OOOO OOOO OO O OO O O, OOOOOOOOOOOOOOOO, OOOOO OOOOO OOO OOOOO OOOOOOOO OOOOO OOOOOOOO OOOOO OOOOOOOOOOO O OOO OO(OO OOOOOOOOOOO, 2007.1.31. 참조)이라고 판단된다.4. 결 론이 건 심판청구는 심리결과 청구주장이 이유 있으므로국세기본법 제81조및 제65조제1항제3호의 규정에 의하여 주문과 같이 결정한다.
+의결일자: 20080628
+사건명: 실물거래 없는 가공의 세금계산서로 보아 부가가치세 매입세액을 불공제한 처분의 당부(취소)
+
+【주문】
+OO세무서장이2008.1.16. 청구인에게 한 2005년 제2기 부가가치세 2,118,150원의 부과처분은 이를 취소합니다.
+세목: 부가
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 95510
+재결례유형코드: 429150
+재결례유형명: 조세
+관련법령: 「국세기본법」 제14조 【실질과세】

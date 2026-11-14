@@ -1,0 +1,150 @@
+조세심판원 | 조심2008서0863 | 20080708 | 아파트를 기준시가에 의한 가액으로 증여세를 신고 납부한 것에 대하여 비교아파트의 매매가액을 시가로 적용하여 증여세를 과세한 처분의 당부(경정) | ID 920654
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+
+【재결요지】
+비교아파트와 쟁점아파트는 면적·위치·용도 등이 동일하거나 유사하다고 보여지므로, 비교아파트의 매매가액을 쟁점아파트의 시가로 보고 쟁점아파트의 증여재산가액으로 평가하여 증여세를 과세한 처분은 타당한 것임
+
+【이유】
+[주 문]1. OOOOOOO OOOOOOOOO OOO OOOOOOOOO O OOOOOOO OOO OO,OOO,OOOO O OOO OOOOOOOOO O OOOOOOO OOO OO,OOO,OOOOO OOOOO OOOOOOOOOOOOOOOOOOOO(OOO)O OOOO OOO(OOOOOOOO)O OOOOO OOO OOOO OOO OOO OOOO,OO OOO OOO OO OOOOOOO OOOO OOOOOO OOOOOOO, OOOOOOO(OO, OO OOOOOOOO OO)O OOOOOOOOOO (OOOOO) O(O) OOOOOOOOOOO OOOOOOO OOO OOO OOO OOOOO OO OOOO(대지 52.49㎡, 건물 94.53㎡, 이하 “쟁점아파트”라 한다)의 4분의 1지분을 각각 증여받고 2007.7.24. 증여세 신고시 증여재산가액을 국세청 기준시가인 689,000천원(청구인별 지분 172,250천원)으로 평가하여 증여세를 신고·납부하였다.나. 처분청은 2007.2.6. 매매계약이 체결된 쟁점아파트와 같은 단지 내에 소재하는 7동 209호(쟁점아파트와 동일 면적, 이하 “비교아파트”라 한다)의 매매가액인 1,375,000천원을 쟁점아파트의 증여재산가액으로 평가한 후 2008.2.1. 청구인 OOOOOOO OOOOOOO OOO OO,OOO,OOOO, OOO OOOOOOOOO OOOOOOO OOO OO,OOO,OOOOO OOOOOOOOOO OOOOO OO OOOO OOOOOOOOOO OOOOO OOOOOOOO OOOO OO O OOO OOOO OOOO OOOOOOO OOOOOOOOOO OOOOOO OOOO OOO OO OOO OOO OOOOOOO OO O OO OO OOO(OOOOOOOOOO) OOOOO OOOO OOO OOO OOO OOOO OOO O OOOOO OOO OOOOO OOOO OOOOO OOO OOOOOO OO OOOOO OOO OO OO OOOOO OOOO OO OOO OOOOO OOOO OOOOOOO OOOOOO OOOOO OOOOO OOOOO OOOOO OOO OOOOOOO OOOOOO OOO OO OOOO OO OOOOOOOOOOO OOOOO OO OO OOOO OOOO OOOO O OOOO OOO OOO OOO OOOOOO OOOOOO OOOO OO OO OOO OO OO OOOO OO OOO OO OOO OOO OO OOOO OOOOOOOO OOOOO OOOO OOOOOO OOOOOOOOOO OOO OOOOO OO OOOOO O, OOOO O OO OO OOOOO OOOO OO OOO O OOOO(OOOOOOOOOO)O OOOOOO OOOOO OO OOOOOOO OOOOO OO OOOOOO OOOOOOO OOOOOO OOO OO OOOO OOOOOOO, OOOOO OOOOO OO OO OOO OOOOO OO OOO OOOO OOOOOO OO OOO OOO OOOOO OOO OOO, OOOOOOOOOO OOOOOOO OOOO OOOOOOOOOO OOO OO OOO OO OOO OOO OOOOOOOOO OOO OO OOOOOO OOOO OOOO OOOOOO(OOOOOOOOOOOOOOOOOOOO, OOO)O OO OOOOOOOOO OOOO OOOO OOOOOOO OOO OOOOOOOO OOOOOO OOOOO OO OOOOOOO OO OOOOO OOOOO OOOOO OO OOOOO OOOOOO OOOOO OO OOOO OO OOO OOOO OOO OOO OOO OOO OOO, OO OOOO OOO O O,OOOOOO OOO OOO OOO OOOO OO OOOOOO OOOOOO OOO OOO OOOO OO OOOOOOO OO OOOOO OOO OOOO O OOO OO OO, OO OO(OO)OO OOO OOOO OO OOOOOOOO OO OOOO, OO OOOOOO OOOOO OO OOOOO OOOOOO OOOO OOO OOOO OOOO OOOOOO OOOOOOO OOOOOO OOO OO OOOOOO OOO OOOO OOOO OOO OO OOO OOOOOOO, OOOO OOOOOOO OOOOOOOOOO OOOO OOOOOOOOOOO OOOOOOOOOO(OOOOO)O OOOOOO OOOOOOOOOO OOO OO OOO OOOO OOO OOO OOOOOOOOO OOO OO OOOOOO OOO OOOO OOOOO OOO OOOO, OOOO OOOOOOOOOOO OOOOOOOOOOO O OOOOOO OOO OOO OOOO OOOO OO OOOO OOOO OO OOOO OOOO OOOOOOOOO OOOO OOOOOO OOOOO OO O OOOO O OO OOOOO OOOOOO OOOO OOOOO OO OOOO OOOO OO OOO OO OOO OOOOOO OOOOO OOOOOO OOO OOOO OOOO OOO OOO OOO OOOOOOOOO OO OOO OO OOO OO OO OOOO OOOO(O) OOOOOOOO OOOOOOOO OO OOO O OO OOO OOO OO OOOO OOOO OOO OOO OOOOO OO OOO(OO OOOOOOOOOOO OO) OOO OOO OOOO O OO OOOO OOO OOO OO O OOO OOO OOOOO OOO OOO OO(OOOO OOOO OOO OOOO OOO OOOO)O OO OOO OOOO OOOO OOO OO OOO OOOOOOOOO OOOO OOO OOOOO OOO OO OOOOO OOOO OOOO OO OOOOOOO O OOOO O OOOOO OOO OO OOO OOO OOOO OO OOOOOO OOOO OOO OOOO OOO OOO OOOO OOO OOOO OO OOO OOOOOOOOOO OO OOOO OOOO OO OOOOO OOO OOO OOO OOO OOO OOOO(O) OOOOOOOO OOOOOOOO OO OOOO OOOO OO OOO OO OOO OOO OOO OOO OOOOOOO OOO(OOO O OOOO OOO OOOO OOO OOOO)O OOOOOOOOOOOOOOOOOO OO OOOOOO OO OO OOOOO OOOOOOO OOOOOO「OOO OOOO O OOOOO OO OO」O OO OOOOOO O OOOOOOOOO, OOOOOOO OOOO O O OOOO OOO OOO OOO OOO OOOOO OOOOOO OOOOOOO OO OOO O OOO OOOO(O) OOOOOOOOOOO OOOOOOOO OO OOO O OOOO OOOOO OOOOOOOOO O OOOO O OOOOO OOO OO OOO OOO OOOO OOOOO OO OOOOO OO OO(OOOOO OOOO OOO OOO OO O OOO OOOOOOOOOO OO) OOO OO O OOOOOOOOOOO(「OOOOO」O OO OOO OOOO OO O OOO OO) OO OO(OO O OOO OOO OO OO OO)O OO OOO OO OOO OO OOO OOO OOOO OOO OOOO (OO OO)OO OO OOO OO OOOOO OO OOOO O OOOOO OO, O OOOOO OOOO OOOO OOO OOOOO OO OOO OO O O OOO OOOOO OOOOO OOOO OOO OOOOOO OOOO OOO OOOO OOO OOO OOO OO OOOO OOO OOOOO OO OO(OOOOO OO OOO OO) OOO OOOOO OOO OO OOO OOO OO OOOO OO OOOO, OOOO OOO OO OOO OO OOO O OOO OOOO OOOOOO OOOO OO OOO OO OOOO OOO OOOOOO OOO OOOO OOOO OOOOOO OOOO OOO OOOO OOO OO OOO OOOOOOOO O OOO OOOOO OOO OO OOO OO OO OOO OO OOOO OOO OO OOOO OO OOO O OOOO OOOO OOO OO OOO OOO(O) OOOOO OOOOO OOOOOOOOOOOOOOO OOOO OOO OO OOOO OO OOO OOOO OOOOO OOO OOO OOOOO O OOO OOO OOOO OO OOO OOOO OOO OOO OOO OOO OOOOO OOOO OOOO OOOOO (OO OO)OOOO OOO OO OO OOO OO O OOOOO OO OOO OOOOO OO OOOOOOOO OO O OOOOO OOOOOO OOO OOOO OOO OO OOOO OOOOO OOO OOO(O) OOOOOOOO OOOOO OOOOOOOOOOOOOOO OOOOO O OOO OO OOOOO OOOOOO OOO OOOOOO OOOO OOOO OO OO OOOO(O) OOOOO OOOOOOOOO OO OOO OOO O O OO OOO OO OOOO OOOO OO O OOO OOO OO OOO OOO OOOO OOO OO OOOO OOO OOOOO OOOO OOO OOOO OO OOO OOO OOO OO OOO OO OOOO OOOO OOOOOOOOO OO O OO OO OOO OOOO OOOO O O OO OOO OO OO OOOOO OOOOO OOO OOOO OOO OOOOOOO OOOOO OOO OOO OO OOOOOOO OOOOOOO OOO O OOO OOOO OOO OO(OOOOOO OOOOOO OO OOO OOOO OOOOO OO OOO OO OOOO OOO)(O) OOOOO OOOOO OOOOOOOOOOOO OOOOOOOOOO OO OOOOOOOOOOO OO OOOOO OOOOOOOOOOO OOO OO OOO OO O OOOOOO OO OOO OOO OOO OOOOO OOOOO OOOO OOOOOOO OOO OO OOO OO OOO OOOOOO OOO OOOOO OOOO OO O OOOO OOOOO OOOO OOO OOOOO OOOO OO O OOOO OOO OO, OOO OO OOOOO OOOO OOOO OO OOOO OOO O OOO OOOOO OOOO OOOOOO OOO OO OOOO OO O OOOO OOOOO OOOO OOOO O OO(O) O O OOOO OOO OOO OOO OOO OOOOO(O) OOOOO OOOOOOOOOO O(O)OOO OOOOOO OOOO O, OOOOOOO OOOOO OOO OOOOO OOO,OOOOOO OO OO(O OOO O, OOO,OOOOO)O OOOO OOOO OOOOOOOOO(O) OOOO OO OOOOOOOOOOO OO OOOOOOOOO OOOOO OOO OOOOOO OOOOOO OOOO, OO, OOO OOOO OOO OOOO OOOO OOO OO OOOOOO OOOO O,OOO,OOOOOO OOOOO OOOO OOO O O OOOO OO OOOOOOOOO 비상장주식평가심의위원회에 자문을 의뢰하였고, 동 평가심의위원회가 비교아파트의 매매사례가액을 쟁점아파트의 시가에 포함할 수 있다고 통보함에 따라 처분청은 비교아파트의 매매사례가액을 쟁점아파트의 시가로 보아 아래 와 같이 이 건 증여세를 과세하였다. 한편, OOOO이 조사한 쟁점아파트 단지 내의 아파트 시세는 아래 과 같다.(단위 : 천원) 구분
+3동301호(쟁점아파트)
+7동209호(비교아파트)
+참고(3동1201호)
+
+기본
+사항
+해당층(최고층)
+3층(15층)
+2층(15층)
+12층(15층)
+
+위치
+동향
+동향
+동향
+
+전용면적
+84.81㎡
+84.81㎡
+84.81㎡
+
+매매
+사례
+계약일자
+평가기준일
+2007.4.25.
+2007.2.6.
+2007.2.28.
+
+잔금일자
+2007.3.14.
+2007.2.28.
+
+매매가액
+1,375,000
+1,455,000
+
+기준
+시가
+2005.5.22.
+534,000
+534,000
+573,500
+
+2006.4.28.
+689,000
+689,000
+738,000
+
+2007.4.30.
+1,088,000
+1,104,000
+1,168,000
+
+(단위 : 천원) 구?? 분
+신 고(전체)
+결정(전체)
+증 감
+비 고
+
+증여세 과세가액
+172,250
+(689,000)
+343,750
+(1,375,000)
+171,500
+
+과세표준
+142,250
+313,750
+171,500
+
+결정세액
+14,805
+51,105
+36,300
+
+가산세
+-
+2,079
+2,079
+
+차감고지세액
+-
+38,379
+38,379
+
+(단위 : 만원) 기준월
+매 매
+
+하한가
+일반거래가
+상한가
+변동액
+
+2007.6.
+139,000
+152,500
+159,500
+△1,000
+
+2007.5.
+140,000
+153,500
+160,500
+△1,060
+
+2007.4.
+142,500
+154,500
+160,500
+
+2007.3.
+142,500
+154,500
+160,500
+△1,080
+
+2007.2.
+147,000
+154,500
+160,500
+△960
+
+2007.1.
+151,000
+154,500
+160,500
+
+(다) 쟁점아파트와 비교아파트에 대한 OOOOOOOOOO의 소음측정결과를 요약하면 아래 와 같다.OOOOOO O OOOOOO OOOOOO OOOO OOOOOOO(2) 먼저, 쟁점아파트의 증여재산가액을 평가함에 있어 2007.4.25. 현재(증여당시) 고시된 기준시가(689,000천원)를 시가로 볼 것인지, 아니면 증여일로부터 3월 이전에 해당하는 2007.2.6. 매매계약을 체결한 비교아파트의 매매가액인 1,375,000천원을 시가로 볼 것인지 이에 대하여 본다.(가) 청구인들은 위 에서 보듯이 쟁점아파트는 OO중학교 앞에 위치하여 소음 등으로 비교아파트에 비해 생활환경이 매우 불리하고, 이러한 점이 감안되어 2007.4.30. 발표한 기준시가(증여일 2007.4.25.)에서 비교아파트가 쟁점아파트 보다 높게 산정되었다는 이유 등으로 쟁점아파트가 비교아파트와 동일 또는 유사한 재산에 해당하지 아니한다고 주장하면서 달리 유사한 매매사례가액이 확인되지 아니하므로 쟁점아파트의 증여재산가액은 보충적 평가방법으로 평가(기준시가)하여 과세하여야 한다고 주장한다.(나) 상속세및증여세법 제60조 제1항에서 증여세가 부과되는 재산의 가액은 증여일 현재의 시가에 의한다고 규정하고 있고, 같은 법 시행령 제49조 제1항에서 증여재산의 경우 증여일 전후 3월 이내의 기간 중 매매가 있는 경우에는 그 거래가액으로 한다고 규정하며 제5항에서는 당해 재산과 면적·위치·용도 등이 동일하거나 유사한 다른 재산의 매매사례가액을 그 재산의 시가로 본다고 규정하고 있다.(다) 2007.4.30. 고시된 비교아파트의 기준시가가 쟁점아파트의 기준시가 보다 높게 고시되었다고 하나, 증여당시 고시된 기준시가는 동일하고 비교아파트의 매매사례가액이 평가기간(증여일 전후 3월) 이내의 매매가액에 해당하는 점, 위 에서 보듯이 비교아파트의 매매가액이 그 당시 쟁점아파트의 거래시세를 반영하고 있다고 보이는 점, 쟁점아파트와 비교아파트가 동일한 면적이며 동일한 아파트 단지 내에 위치하고 있는 점 등을 감안할 때, 비교아파트와 쟁점아파트는 면적·위치·용도 등이 동일하거나 유사하다고 보여지므로, 비교아파트의 매매가액을 쟁점아파트의 시가로 보고 쟁점아파트의 증여재산가액으로 평가하여 이 건 증여세를 과세한 처분은 잘못이 없다고 판단된다.(3) 다음, 청구인들이 과세전적부심사 청구일로부터 30일 이내에 그 결정통지를 받았다고 볼 것인지, 아니면 30일이 경과한 58일에 결정통지를 받았다고 보아 28일 분에 해당하는 납부불성실가산세의 50%를 감면할 것인지 이에 대하여 본다.(가) 국세기본법 제48조 제2항의 규정에 의하면,과세전적부심사 결정ㆍ통지기간(30일) 이내에 그 결과를 통지하지 아니한 경우에는지연기간에 부과되는 가산세액(납부불성실가산세)의 100분의 50을 감면하도록 규정하고 있다.(나) 이 건 부과처분과 관련하여 청구인들의 과세전적부심사 청구 및 결정 경위를 살펴보면, 청구인들은 2007.12.4. 처분청에 과세전적부심사 청구를 하였고, 처분청은 2007.12.27. 청구인들에게 비교아파트의 매매사례가액을 쟁점아파트의 증여재산가액으로 산정하는 것에 대하여 증여재산의 공정하고 타당한 평가를 위하여 서울지방국세청 비상장주식 평가심의위원회에 자문을 구하여 결정한다는 통지(OOOOOOOOOOOOO)를 한 후, 2008.1.31. 청구인들에게 OOOOOOO 비상장주식 평가심의위원회에 자문을 구한 결과 비교아파트가 유사물건에 해당하므로 동 매매사례가액을 시가의 범위에 포함할 수 있다는 내용으로 재조사 결과 통보(재산세과-365)를 하였음이 관련 자료에 의하여 나타난다.(다) 처분청은 청구인들이 2007.12.4. 과세전적부심사 청구를 한 것에 대해 30일 이내인 2007.12.27. 과세전적부심사결정서를 통지하였으므로 납부불성실가산세 감면대상에 해당하지 아니한다는 의견이다.(라) 그러나, 처분청이 2007.12.27. 청구인들에게 통지한 과세전적부심사결정서에 의하면, 위에서 보듯이 비교아파트의 매매사례가액을 시가로 볼 수 있는지 여부에 대하여 OOOOOOO 비상장주식 평가심의위원회에 자문을 구하여 결정한다고 되어 있는 반면, 2008.1.31.자 재조사 결과 통지문에 의하면,비교아파트가 유사물건에 해당하므로 동 매매사례가액을 시가의 범위에 포함할 수 있다고 되어 있어 청구인들이 과세전적부심사결정 통지를 받은 것은 사실상2008.1.31.자로 보여지고, 그럴 경우 2004.12.4.부터 58일이 경과한 2008.1.31. 통지를 받았으므로 30일을 초과하는 28일분에 대하여는 납부불성실가산세의 50%를 감면함이 타당하다고 판단된다.4. 결 론이 건 심판청구는 심리결과 청구인들의 주장이 일부 이유 있으므로 국세기본법 제81조 및 제65조 제1항 제2호와 제3호의 규정에 의하여 주문과 같이 결정한다.
+의결일자: 20080708
+사건명: 아파트를 기준시가에 의한 가액으로 증여세를 신고 납부한 것에 대하여 비교아파트의 매매가액을 시가로 적용하여 증여세를 과세한 처분의 당부(경정)
+세목: 증여
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 920654
+재결례유형코드: 429150
+재결례유형명: 조세
+
+【관련법령】
+「상속세및증여세법」 제60조【평가의 원칙 등】 / 「상속세및증여세법」 제61조【부동산 등의 평가】 / 「상속세및증여세법시행령」 제49조【평가의 원칙 등】 / 「국세기본법」 제48조【가산세의 감면 등】 / 「국세기본법」 제81조의 12【과세전적부심사】

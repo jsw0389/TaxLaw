@@ -1,0 +1,57 @@
+조세심판원 | 조심2007중5168 | 20080707 | 부동산매매업에 해당하는지 여부(경정) | ID 975972
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+
+【재결요지】
+주택신축판매업을 영위하면서 부동산을 취득하여 단기 양도한 점에 비추어 취득목적이 실수요보다 사업목적으로 보여지므로 처분청이 부동산 매매업으로 부과한 처분은 잘못이 없으나 필요경비 등 재조사하여 과세표준 및 세액을 경정함이 타당함.
+
+【이유】
+1. 처분개요가. 청구인은 다세대 주택 등을 신축하여 판매(부동산 매매 포함)하는 자인 바, 처분청은 청구인이 주택분양시 분양가액을 실지거래가액의 40% 정도를 신고하여 소득세 등 탈루혐의가 있다는 정보내용에 따라 세무조사를 실시한 결과,청구인이 2001년～2005년 귀속 종합소득세 신고시 아래 와 같이 과소 신고한 수입금액 6,292,700천원을 적출하고 추계조사 방법으로 소득금액을 결정하여 2007.5.11. 청구인에게 2001년 귀속 종합소득세 211,732,930원, 2002년 귀속 종합소득세 171,346,260원, 2003년 귀속 종합소득세 37,946,500원, 2004년 귀속 종합소득세 14,925,780원, 2005년 귀속 종합소득세 16,314,490원을 경정고지하였다.(단위 : 천원) 과세기간
+신고수입금액
+경정 수입금액
+적출(과소) 수입금액
+비고
+
+2001
+854,335
+3,426,535
+2,572,200
+
+2002
+766,081
+3,226,581
+2,460,500
+
+2003
+303,652
+827,652
+524,000
+
+2004
+164,638
+460,638
+296,000
+
+2005
+무신고
+440,000
+440,000
+
+계
+2,088,706
+8,381,406
+6,292,700
+
+나. 청구인은 이에 불복하여 2007.8.9. 이의신청을 거쳐 2007.12.3. 심판청구를 제기하였다.2. 청구인 주장 및 처분청 의견가. 청구인 주장청구인이 주택신축판매업자로서 과소신고한 금액에 대해 종합소득세를 추징함은 이의가 없다. 다만, 2005년 적출금액 440,000천원 중 310,000천원(이하 “쟁점수입금액”이라 한다)은 OOO OOO OOO OOO OOO OOO OOOO를 165,000천원에 취득하여 OOOO(O)에게 165,000천원에 양도한 것과 같은 곳 201호(401호 및 201호를 이하 “쟁점부동산”이라 한다)를 145,000천원에 취득하여 OOOOOOO OOO,OOOOOO OOO OOO OOOO OO, O OO(OOOOOO)O OOOO OOOOOOOO OOOO OOOO OOO OOO OOO OOOOO OOOOO OOOOO OOOOO OOOO OOOOOO OO OOOOOO OOOO OO OOOOOOO OOO OOOOOOOO OO O OOOOO OO, OOOOO OO OO O OOOO OOOOO O OO OO OOOO OOOO OO OO OOO OOOO OOOOOOO OOOOO OOOOOOO OOOOOO OO OOO OO OOO OOOOO OO, OOOO OOOOOO(OOOOOOO O)O OOOO OO OOOOOO OOOOO OOO OOOO O OOOOO OOOOO OOOO OOOO OOO OOO OO, OOOO OOOOOO OOOOO OOOOO OOOOOO OOOOO OOO OOOO OOOOOOO OOOOO OOOOOOO OO O OOOO O OOOOO OOOOOO OOO OOO OOOOOOO OOOOO OOOO OOOO(O) OOOO OOOOOOOOOOO OOOOO OO OOO OOO OO O OO OOOO OOOOOO OOOOO OOO OOOOOOOO OOOO OO(O) OOOOOOO OOOOOOOOOOOO OOOO OOOO OOO OOOOOO OOOOOO OOO OOOOOOOOO OO OOOOOOOOOO OOOOO(OOO OOOOOO OOOO OOO OOO) O OOOOOOO OOOO OO, OOOOO OOO OO OOOOOOOO OOOOOO OOOOOOOO OOOOOOOOOOO OO OOOOOO O OOOOO OOO OO OOOOOO OOO OOO OOOOO OOOO OO(OOO OOOO OOOO OOO OOOO) OO O OOO OOOOOO OOOO OOOO OOOOOOOOO OOOO OOOOOOO OOOOOOO OO OO OOOO OOOO OO OO OOOO OO(O) OOOO OOOOOOOOOO OOOO OOOOO OO OOO OOO OO O OO OOOO OOOOO OO(OOOO OOO OOOOO OOOOO O OOO OOOO OO OOO) OO OO(OOO OOO OOOO OOOO OOOO)O OOO OOO OOOO OO(O) OOOOOOOOO OOOOOOO OOOO OOOO OOO OOOO OOOO OOOO O OOOOOOO OOO OOO OOO OOOO OOOO OOO(O) OOOOOOOOOO OOOOOOO OOOO O OOO OOOOO OOOOOOOO OOO OOOOO OO OOOO OO(OOO OO OOOO O OO OOOO OOOOOO OOOOOOO OOO OOOO) OO O OOO OOOOOO OOOO OOOO OOOOO,OOOO OOOO OOOOO OO OO OO OOOO OOOO OO OO OOOO OOO OOOO(O) OOOO OOOOOOOO OOOO OOO OOOOOO OO OOOOOOO OOOO OO OOOO OO OOOOO OOO OOO OOOOOOOOO OOO O OO O OOO OO OOO OOO OO OOOO OOOOO OOOOO OOO OOOOOO OOO OOOOOO OO OOOOOOO OOO O OOOO OOO OOO OOOOO OOOOO OOO OO OO OOOO OOOO OO OO OOOOO OOO OOO OOO OO, OOOOO OOO OOO OO OO OOOOO OOO OOOOO OOO O OO OOOO OOOOO OOO OO OOO OOOOO OOOOOOO O OOOOO OOOO O OO(O) O O OOOO OOO OOO OOO OOO OOOOO(O) OOOO OOOO OO OOOOO OOO OOOO OOOOOOOO O OOOOOOOOOO OO, OOOO OO OOOO OOOO OOOOO OOOO OOOO OOOO O O OOOOOO OOOOOO(O) OOOO OOOOOOOO OOOO OOO, OOOO OOOOO OO OOOOOOO OOO,OOOOO OOO OOOOOO OOOO(OOOOOO)O OOOO OOO(O) OOOO OOOOOO OOO OO OOOO OO(OOOOOOO)O OOOO OOOO OOO OOO OOO OOOOO OOOOOOO OO OOOO(OOOOO) OOOOO OOO OOOOO OOOOOOO OOOO OO, OOOO OOOOOO OOO OOOOOOO OOOOO OOOOOO OOO OOO OOOOOOO, OOOO OOOOOO OOO OO OOOOOO OOOOOOO OOOOO OOO OOO OOO(O) OOOOOO OOOOO OOO OOOOOOOO OO OOO OOO OOOO OO OOO OOO(O) OOOO OOOOO OOO(OOOOOOOOOO)O OOO OOO(OOOOO)O OOOOOO OOOOO OOO(OOOOOOOOOOO O OOOOOOOOOOO)O O OOO OOO OOO OOO OOOO OOO OOO(O) OOOO OOO OO OOO OOOOO OOOOOO OO OOOOOO OOO OOOO OOO OO O OOOO, OOO OO, OO, OO OO OOO O OOO OOO OOOO OO OOO OOO OOOOOO O O OO OOO OOOO OOOO OOO OO OOOO OOOOO OO OOOOO OO, O OOO OO OO OO OO OOOO OO O OO OOO OOOO OOOO OOO OOO OO OO OOO OOOO OOO OOO OO OO OOO OOOOO OO(OOOOO OOOOOOOOO, 2001.4.24. 같은 뜻임).(다) 청구인은 주택신축판매업을 영위하면서 쟁점부동산을 취득하여 단기 양도한 점에 비추어 그 취득목적이 실수요로 보기 보다는 단지 사업목적으로 계속적, 반복적으로 부동산을 거래하였다고 보여지므로 처분청이 쟁점부동산을 양도한 데 대하여 부동산매매업으로 보아 청구인에게 이 건 종합소득세를 부과한 처분은 잘못이 없다고 판단된다.(3) 부동산매매업의 소득금액을 추계조사 방법으로 결정한 것에 대하여 실지조사 방법으로 결정할 수 있는지 직권심리하기로 한다.(가)소득세법시행령 제34조의 규정에 의하면, 부동산매매업이라 함은 한국표준산업분류상의 건물건설업(건물을 자영건설하여 판매하는 경우에 한한다) 및 부동산공급업을 말한다고 규정하면서 단서에서 주택신축판매업을 제외하도록 규정하고 있는 바, 주택신축판매업과 부동산매매업은 별개의 업종임을 알 수 있다.(나)소득세법 제80조제3항에서 납세지 관할세무서장 또는 지방국세청장은 과세표준과 세액을 결정 또는 경정하는 경우에는 장부 기타 증빙서류를 근거로 하여야 하되, 대통령령이 정하는 사유로 장부 기타 증빙서류에 의하여 소득금액을 계산할 수 없는 경우에는 대통령령이 정하는 바에 의하여 소득금액을 추계조사 결정할 수 있다고 규정하고 있으므로 종합소득세를 무신고한 경우 또는 장부를 비치하지 아니하였다 할지라도 다른 증빙에 의하여 소득금액 계산이 가능한 경우에는 실지조사 방법으로 소득금액을 결정하는 것이 타당하다 할 것이다.(다) 이 건의 경우 쟁점부동산의 매매와 관련된 부동산매매업의 경우 그 주요부분에 해당하는 양도가액(쟁점수입금액)은 처분청이 세무조사시 이미 확인한 바 있고, 청구인이 주장하는 취득가액(310,000천원)의 경우도 단기 양도에 해당하고 분양가액에 의하여 확인이 가능하다고 판단되므로, 처분청이 필요경비에 해당하는 취득가액 등을 재조사하여 확인된 금액을 당해 연도 필요경비에 반영하여 그 과세표준 및 세액을 경정하는 것이 타당하다고 판단된다.4. 결 론이 건 심판청구는 심리결과 청구인의 주장이 이유 없으나 직권 심리하여국세기본법 제81조및 제65조 제1항 제3호의 규정에 의하여 주문과 같이 결정한다.
+의결일자: 20080707
+사건명: 부동산매매업에 해당하는지 여부(경정)
+
+【주문】
+OO세무서장이 2007.5.11. 청구인에게 한 2005년 귀속 종합소득세 16,314,490원의 부과처분은 수입금액누락액(440,000천원) 중 경기도 OO시 중원구 은행동 573 레미안 401호 및 같은 곳 201호의 매매관련 수입금액누락액에 대하여 소득금액을 실지조사 방법으로 결정하되, 동 부동산의 취득가액 등 필요경비를 재조사하여 그 결과에 따라 과세표준 및 세액을 경정한다.
+세목: 종합소득
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 975972
+재결례유형코드: 429150
+재결례유형명: 조세
+관련법령: 「소득세법」 제19조 【사업소득】 / 「소득세법시행령」 제34조 【부동산매매업의 범위】
