@@ -1,0 +1,19 @@
+해석_국세청 | 소비46430-1178 | 19940611 | LIPTON ICED TEA MIX의 과세대상 여부 | ID 157438
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000094437 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: LIPTON ICED TEA MIX의 과세대상 여부
+문서번호: 소비46430-1178
+생산일자: 19940611
+요지: LIPTON ICED TEA MIX는 관련 규정상 기호음료에 해당하는 과세물품임
+
+【회신】
+귀 질의 물품인 『LIPTON ICED TEA MIX』는 특별소비세법시행령 제1조 별표1 제3종 제4호의 기호음료에 해당하는 과세물품입니다.
+
+【본문】
+1. 질의내용 요약
+
+○ LIPTON ICED TEA MIX의 특별소비세 과세대상여부
+
+2. 관련 조세 법령 (법률, 시행령, 시행규칙, 기본통칙)
+
+○ 특별소비세법 시행령 제1조 별표1 제3종 제4호
