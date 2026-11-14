@@ -1,0 +1,77 @@
+해석_국세청 | 국일46017-300 | 19980526 | 미국의 법인에게 Engineering Design 용역에 대한 대가 송금시 원천세 과세여부 | ID 120520
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000130255 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 미국의 법인에게 Engineering Design 용역에 대한 대가 송금시 원천세 과세여부
+문서번호: 국일46017-300
+생산일자: 19980526
+
+【요지】
+내국법인이 미국법인으로부터 테마파크와 관련된 설계용역 및 조형물 제작용역 등을 제공 받고 그 대가를 지급하는 경우에, 미국법인이 제공하는 용역의 성격이 노우하우의 대가에 해당되지 않는 경우에는 사업소득에 해당되는 것임.
+
+【회신】
+1. 내국법인이 미국법인으로부터 테마파크와 관련된 설계용역 및 조형물 제작용역 등을 제공 받고 그 대가를 지급하는 경우에, 미국법인이 제공하는 용역의 성격이 동종의 용역수행자가 통상적으로 보유하는 지식 또는 기술을 활용하여 수행하는 것으로서 동 용역을 제공하기 전에 이미 존재하는 비공개된 기술정보 등에 대한 정보 또는 노우하우의 대가에 해당되지 않는 경우에는 법인세법 제55조 제1항 제6호와 한ㆍ미조세조약 제18조 및 제8조에 규정에 의하여 사업소득에 해당되므로 동 미국법인의 국내사업장이 없는 경우, 국내에서 과세되지 않는 것입니다.
+
+2, 용역제공의 대가가 동종 용역수행자가 통상적으로 보유하는 지식이나 기술대가에 해당되는지 또는 용역을 제공하기전에 이미 존재하는 정보 또는 노우하우의 대가에 해당되는지 여부는 제공된 당해 용역의 실질내용에 의하여 판단하여야 하는 것입니다.
+
+【본문】
+1. 질의내용 요약
+
+미국의 법인에게 Engineering Design 용역이 송금시 원천세 과세여부.
+
+1). 당사는 제주도 서귀포시 우보악 관광지구내 약 95,000평 부지에 Mini-Land(세계의 문화적,건축학적으로 가치가 있는 건축물 등을 축소 제작한 조형물을 전시한 관람시설)World-Street(관광극장식당, 전문식당가,테마카페,쇼핑시설, 전시관람시설, 조형물,광장 및 호텔 등),Space &Future-Land (우주선, 게임시설 및 라이드시설 등)로 구성된 테마파크를 건립할 예정입니다.
+
+2). 당사는 테마파크의 Engineering Design, Schematics,간단한 Model 제작, 전시조형물 5점 제작의 용역업체를 선정하는 과정에서 통상의 전문적인 지식만 있다면 동종의 어느업체나 용역수주 완성을 할 수 있으나,Wonder Works시가 기용역(컨셉기획,스토리기획 등등)을 성실히 수행하였고 가격도 저렴하여 Wonder Works Asia/Pacific,inc.로 선정하였습니다.
+
+3). Wonder Works사는 미국 L.A에 본점이 있고 한국에는 고정사업장이 없는 외국영리법인입니다, T,V, 영화제작사 등에게 모델과 소도구 제작공급 및 박물관,전시회,테마파크 및 기타 인공제작물과 볼거리를 필요로 하는 산업분야의 기획 및 건립의 영업을 하는 업체입니다.
+
+4). 당사는 Wonder Works사에 1998년 02월 06일에 아래 내역의 건을 USD 710,6000에 용역의뢰 하였습니다.
+
+아 래
+
+각 Area의 이해를 위해 별첨 Master Plan을 첨부합니다.
+
+(1)World Street :Schematic Creative Design : USD 55,000
+
+-모든건축물 구조의 Top View Rendering과 Side Elevation의 컬러 렌더링
+
+-실제 건축시 필요한 정밀설계를 위해 선정된 용역업체에게 필요한 자문제공
+
+(2)Pre-Show(매표구전 입구의 공동구역의 광장) :Engineering Design, Schematics ,Model USD 38,500
+
+-건축물의 Schematics
+
+-분수,동상,동적 설치물등과 같은 Attraction의 Engineering Design
+
+-Miniland 매표구 뒤에 나오는 Pre-Show 구역의 Scale Model
+
+(3) Chaos Building (시간과 공간여행을 체험할 수 있는 공간) : Engineering Design,Schematics ,Model USD 44,000
+
+-Chaos Building의 ,Schematics
+
+-Chaos Building에 설치되는 Attraction의 Engineering Design
+
+-Chaos Building의 Scale Model
+
+(4) Mini Land에 실제 전시될 실물의 1/25로 축소된 조형물
+
+-White house :USD 165,000
+
+-Taj Mahal : USD 101,200
+
+-Belvedere Palace : USD 104,500
+
+-Sydney Opera House : USD 88,000
+
+-Kumamoto Castle : USD 114,400
+
+[질의]
+
+당사에서 Wonder Works회사에 상기의 건 관련 용역비(USD 710.600) 송금시 원천세 과세여부.
+
+2. 관련 조세 법령 (법률, 시행령, 시행규칙, 기본통칙)
+
+○ 법인세법 제55조 제2항 제6호 【】
+
+○ 한ㆍ미조세조약법 제18조 ,제8조 【】
+
+○ 법 제조 제항 【】
