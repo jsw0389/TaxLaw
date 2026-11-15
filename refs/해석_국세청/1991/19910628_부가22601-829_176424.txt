@@ -1,0 +1,25 @@
+해석_국세청 | 부가22601-829 | 19910628 | 사업자가 비거주자 또는 외국법인인 경우 부가가치세 적용방법 | ID 176424
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000109529 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 사업자가 비거주자 또는 외국법인인 경우 부가가치세 적용방법
+문서번호: 부가22601-829
+생산일자: 19910628
+
+【요지】
+사업자가 비거주자 또는 외국법인인 경우, 그 외국에서 대한민국의 거주자 또는 내국법인에게 당해 외국의 조세로서 우리나라의 부가가치세 또는 이와 유사한 성질의 조세를 면제하는 때와 그 외국에 부가가치세 또는 이와 유사한 성질의 조세가 없는 때에 한하여 당해 비거주자 또는 외국법인에게 영세율을 적용하는 것임.
+
+【회신】
+1. 대한민국의 부가가치세법 제11조(영세율 적용)에서는 사업자가 비거주자 또는 외국법인인 경우에는 그 외국에서 대한민국의 거주자 또는 내국법인에게 당해 외국의 조세로서 우리나라의 부가가치세 또는 이와 유사한 성질의 조세를 면제하는 때와 그 외국에 우리나라의 부가가치세 또는 이와 유사한 성질의 조세가 없는 때에 한하여 당해 비거주자 또는 외국법인에게도 영세율을 적용하도록 규정하고 있으며,
+
+2. 사업자가 재화 또는 용역의 공급에 대하여 영의 세율을 적용받는 경우에는 당해 사업과 관련된 매입세액은 환급받을 수 있는 것입니다.
+
+【본문】
+1. 질의내용 요약
+
+Some countries (so Austria) allow foreign entrepreneurs to get a tax refund for paid V.A.T. caused by business activities abroad.
+
+So I kindly ask You for information whether this possibility is applicable for Austrian entrepreneurs (or companies) and, in this case, please leave according forms and, it available, information folder.
+
+2. 관련 조세 법령 (법률, 시행령, 시행규칙, 기본통칙)
+
+○ 부가가치세법 제11조

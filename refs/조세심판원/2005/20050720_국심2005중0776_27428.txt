@@ -1,0 +1,21 @@
+조세심판원 | 국심2005중0776 | 20050720 | 과점주주로 보아 제2차 납세의무자로 지정.납부통지한 처분의 당부(기각) | ID 27428
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+
+【재결요지】
+51%의 주식을 소유하고 그 권리를 행사한 과점주주를 제2차 납세의무자로 지정.납부통지한 처분함에 있어 주식변동상황명세와 등기부등본에 의하여 주주판단은 정당함
+
+【이유】
+1. 처분개요 청구인은 1994.5.12. 설립된 (주)OOOOOO의 이사로 재직하면서 동 법인의 주식 8천주(지분율 40%)를 소유하고 있다가 1999.10.29. 이사에서 사임하고 2000.4.8. 보유주식 전부를 양도하였다. 처분청은 (주)OOOOOO이 1999사업연도 법인세 11,756,540원 및 1999년 2기분 부가가치세 7,865,870원, 합계 19,622,410원을 체납하자, 납세의무성립일인 1999.12.31. 현재 청구인과 청구인의 형인 윤OO의 소유주식이 57.5%로서 청구인이 과점주주에 해당된다 하여 청구인을 제2차 납세의무자로 지정하여 2004.8.12. 청구인에게 위 체납액 중 청구인의 지분율에 해당하는 7,848,880원을 납부통지하였다. 청구인은 이에 불복하여 2004.10.6. 이의신청을 거쳐 2005.2.7. 이 건 심판청구를 제기하였다. 2. 청구인 주장 및 처분청 의견 가. 청구인 주장 청구인은 1999년도에 OOOO(주)에 근무하였고, (주)OOOOOOO OO OOOOO OOOO OOOO OOOO OOOO OOO OOO OOO, OOOOOOOOOOOOO (O)OOOOOOO OOOO OOOOO O OOOO OOOOOOO OOOO OOOOO OOOOOOOOOO O OOOO OOOO OOO OOOOOO OOOO OOOOO OO OOOOO OO OOO OO (O)OOOOOOO OOOOOOOO OOO OOO OOO OOOOOOOOOO OOOO OOOO OO OOOO O OOOOOO OOO OOOO OO OOOO OOOOO OOOO, OOOO OOOOOOOOO OOOO OOOOO OOOOO OOOOOO OOOO OO OOO OO OOO OOOO OOO OOOO OOOO OOO OOOOOO OOOO OOOOO OO OOOOO OO OO O OO OO O O OOOO OOOOOOOOOOO OO (O)OOOOOOO OOOOO OO OOO OOOOOO OOOOOOOO OOO OO OO OOOO OOOOO OOOOOOOOO OOO OOOOOO OO(OOO OOOOOOOO OOO OOO OOOO)O OOOO O OOOO OOOOO O OOO OOO OOOOOOO OOOOOO OOOOO OOO OOOO O OOO OOOOO OOO OO OO OOO OO OOOO OO O OOOO OOO OOO OOOOO OOO OO, OOOO OOO OO OOOOO OOOO O OOOO O OOO OOOOOO(OOOO OO OOO OOOOO OO O OOO OO) OO OOOOOO OO OOO OOOOO OOOOO(OOOO OO OOO OOOO) OO OOO(OOO OO O OOO OOOOO OOOO OO OOOOO OOOOO OOO OOOO OOO OO OOO)O OOO OOO OOO OOO OOO OO OOOOOO OO OOOO O OO OOO OO OOOO O OO OO OOO OOOOOO OO OOOOO OOOOO OO OOO OO OO OOOOO OO OOO OOOOO OOOO O OO OOOOOOOOOOOOOOOOOOOOOOO OO O OOO OOOO OOO OOO OOO OOOO O OO OO O OOO OOOO OO OOO(OOO OOOOO OO OO OOOO) O OO OOO OOOO OOOOO O OOO OOOOO OOOOOOO OO OO OO OOOOOO OOO OO OOOOO OOO OO OO OOOOO OO OOO OOO OOOOO OO OO OOOO OOO OO OOO OOOOOO OO OOOOO OOOOO OO OOO OOO OOOO OOOOOOOO OOOOOOO OO OOOOOO OOOO OOOO OOOOO OOOOOO OOO OO OO OOOOO OO OOO OO OO OOO OO OOOO OO OOOO(OOOO) OO OO OOO OOOOO OO OOO OOOOO O OO OO OOO OOOOO OO O OO OOOOOO(OO) OO OOOO O OO (O) OOOO (O)OOOOOOO OOO OOOOO O OOO OOOO OOO O OOO(OOO OOO)O OOOO OOO OOOOOOOOOOO OOOO OOOOO O, OO OOOO OOO OOO (O) OOOO OO OOOO O OOO OO OOOOO(OOO OOOOO)O OOOOO OOOOOOOOO O OOO OOO OOOO OOOOOO OOOOOOOOO O OOOOOOOO OOO OOOOO (O) (O)OOOOOOO OOO OOOOOOOO OOOOOOOOOO OO, OOOO OOOOOOOOOOO, OOOO OOOOO이 2000.11.9.자로 보유주식을 우OO에게 양도한 것으로 나타난다. (4) 우OO은 2000.9.15. 동 법인의 대표이사로 취임하였음이 법인등기부등본에 의하여 확인된다. (5) 살피건대, 청구인은 1999.10.29. 이사에서 사임하면서 보유주식 전부를 양도하여 1999년말 현재 (주)OOOOOO의 주주가 아니라고 주장만 할 뿐 주식의 양도사실을 입증할 만한 자료를 제시하지 못하고 있는데 반해, 주식변동상황명세서 등에 의하여 2000년에 우OO이 청구인과 윤OO 등의 보유주식을 양수하여 대표이사로 취임한 사실이 확인된다. 그러하다면, 처분청이 이 건 납세의무성립일인 1999년말 현재 청구인과 청구인의 형인 윤OO이 법인의 발행주식총수의 100분의 51 이상을 소유하고 그 권리를 행사한 것으로 보아 청구인을 제2차 납세의무자로 지정·납부통지한 것은 잘못이 없다고 판단된다. 4. 결 론 이 건 심판청구는 심리결과 청구인의 주장이 이유없으므로 국세기본법 제81조 및 제65조 제1항 제2호의 규정에 의하여 주문과 같이 결정한다.
+의결일자: 20050720
+사건명: 과점주주로 보아 제2차 납세의무자로 지정.납부통지한 처분의 당부(기각)
+
+【주문】
+심판청구를 기각합니다.
+세목: 기타
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 27428
+재결례유형코드: 429150
+재결례유형명: 조세
+관련법령: 「국세기본법」 제39조 【출자자의 제2차 납세의무】 / 「국세기본법시행령」 제20조 【친족 기타 특수관계인의 범위】

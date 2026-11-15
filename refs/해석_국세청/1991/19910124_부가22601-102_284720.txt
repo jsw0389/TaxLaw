@@ -1,0 +1,21 @@
+해석_국세청 | 부가22601-102 | 19910124 | 외국인관광객 면세판매장에서 물품구입하고 세액상당액 미송금시 처리 | ID 284720
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000109327 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 외국인관광객 면세판매장에서 물품구입하고 세액상당액 미송금시 처리
+문서번호: 부가22601-102
+생산일자: 19910124
+
+【요지】
+외국인이 외국인관광객 면세판매장에서 물품을 구입하고 세액상당액을 송금 받지 못한바, 세액송금여부를 확인결과 판매자가 반출확인서류가 도착하지 않아 동 세액을 송금하지 못한 사실을 확인되어 즉시 송금조치함
+
+【회신】
+귀하가 외국인관광객면세판매장에서 물품을 구입하고 세액상당액을 송금받지 못하였다는 내용의 서신을 받고 우리청이 세액송금여부를 확인하였던 바 판매자인 ○○유리(주)는 반출확인서류가 도착하지 않아 동 세액을 송금하지 못한 사실을 확인하고 귀하의 신주소를 알려주고 1991.01.19 일 즉시 송금 조치하였음.
+
+【본문】
+1. 질의내용 요약
+
+In reply o your inquiry regarding tax refund, we would like to inform you that we advised ○○ co.ltd. on 19th Jan. 1991 to make a prompt remittance to you at your new address.
+
+It si found that ○○ co. ltd. the seller, made a mistake of your documentation on your tax refund account.
+
+Assuring you of our bast attention at all time.
