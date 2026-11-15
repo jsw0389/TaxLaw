@@ -1,0 +1,71 @@
+조세심판원 | 국심1994서5883 | 19950330 | 심판청구(각하) | ID 75932
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+재결요지: 60일 이내 심판청구를 하여야 함에도 심판청구기한이 경과되어 심판청구를 하였는 바 심의 대상이 아님
+
+【이유】
+1. 관련법령 국세기본법 제61조 제1항에서 「심사청구는 당해처분이 있은 것을 안 날로부터 60일(국외 거주자의 경우에는 90일) 이내에 하여야 한다」고 규정하고 있고, 한편, 상속세법 제25조의 2 및 같은법 시행령 제19조 제2항에서 「과세표준과 세액의 결정 통지에 있어서 상속인 또는 수유자가 2인 이상인 때에는 상속세신고서를 제출한 자·상속인 대표자·호주상속인중 1인에게만 통지할 수 있으며, 그 효력은 상속인 또는 수유자 모두에게 미친다」고 규정하고 있다. 2. 적법한 불복청구인지 여부 이건 상속세 납세고지서의 경우 94.4.7 상속세 신고서 제출자인 상속인 OOO에게 송달되었음이 우편물배달증명서에 의하여 확인되므로 이 날로부터 60일(OOO등인 6인의 국외 거주자는 90일)이 되는 94.6.6(OOO등 6인의 국외 거주자는 94.7.6)까지 심사청구를 하였어야 적법한 청구인 바, 청구인들은 94.9.27 심사청구 하였으므로 법정기한을 경과한 부적법한 불복청구로 판단된다. 따라서 이건 심판청구는 국세기본법 제81조 및 제65조 제1항 제1호의 규정에 의하여 주문과 같이 결정한다. 【별 지】 청구인 명단 성명
+주민등록번호
+주 소
+
+OOO
+OOOOOOOOOOOOOO
+서울 OOO구 OOO동 OO OOOO(OOO)
+
+OOO
+OOOOOOOOOOOOOO
+서울 OOO구 OOO동 OO OOOO(OOO)
+
+OOO
+OOOOOOOOOOOOOO
+OOO OOOOO OO Englewood N.J 미합중국
+
+OOO
+OOOOOOOOOOOOOO
+
+OOOO O OOOOO OO O OOO, LA, CA 90018 미합중국
+
+OOO
+OOOOOOOOOOOOOO
+
+OOOO O OOOOO OO OOOO, LA, CA 90018 미합중국
+
+OOO
+OOOOOOOOOOOOOO
+서울 OOO구 OOO동 OO OOOO(OOO)
+
+OOO
+OOOOOOOOOOOOOO
+OOOO OOOOOOOO OO OOOOO P.A 19120 미합중국
+
+OOO
+OOOOOOOOOOOOOO
+
+OOOOOOOO OOOOOOOO OO OOOOOOO N.C 27615
+미합중국
+
+OOO
+OOOOOOOOOOOOOO
+
+서울 성동구 OO O동 OOOOOOO OOOO OOOO OOOO
+
+OOO
+OOOOOOOOOOOOOO
+
+OOOO OOOOOO OO OOOOO Scottsdale, A.Z 85291 미합중국
+
+OOO
+OOOOOOOOOOOOOO
+서울 OOO구 OOO동 OO OOOO(OOO)
+의결일자: 19950330
+사건명: 심판청구(각하)
+
+【주문】
+심판청구를 각하합니다.
+세목: 기타
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 75932
+재결례유형코드: 429150
+재결례유형명: 조세
+관련법령: 「국세기본법」 제81조 【심사청구에 관한 규정의 준용】 / 「국세기본법」 제65조 【결정】
