@@ -1,0 +1,151 @@
+조세심판원 | 국심2000중0971 | 20001026 | 적법한 청구인지 여부(각하) | ID 183294
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+재결요지: 이 건 심판청구는 당초 처분의 취소결정으로 불복청구의 대상이 없음
+
+【이유】
+본안심리에 앞서 이건 심판청구에 대하여 본다.가.국세기본법 제55조제1항에서 “이 법 또는 세법에 의한 처분으로서 위법 또는 부당한 처분을 받거나 필요한 처분을 받지 못함으로써 권리 또는 이익의 침해를 당한 자는 이 장의 규정에 의한 심사청구 또는 심판청구를 하여 그 처분의 취소 또는 변경이나 필요한 처분을 청구할 수 있다”고 규정하고 있다.나. 청구인들의 심판청구 내용에 대하여 살펴보면,청구인 OOO외 44인은 1992.6.12 OOOOOOO상가조합을 결성하고, 동 조합의 조합원중 청구인들(명단 별첨, 당초 22인이었으나 상속으로 24인이 됨)은 1992.6.20 한국토지개발공사로부터 OOO조합의 명의로 경기도 고양시 OO동 OOOOO 소재 대지 582.0㎡를 취득하여, 1996.6.27 대지상에 지하 2층 지상 5층의 근린생활시설 상가건물 2,637.05㎡(이하 “쟁점상가”라고 한다)를 신축한 후 1996.6.27 조합원 각자 명의로 소유권보존등기를 경료하였고,처분청은 위 소유권보존등기의 경료에 대하여 부가가치세법상의 재화의 공급으로 보아 2000.1.9 청구인들에게 연대납세의무자로 하여 1997년 제1기분 부가가치세 161,646,610원을 경정결정고지하자, 청구인들이 위 소유권보존등기를 경료한 것을 부가가치세법상 재화의 공급에 해당되지 않는다고 주장하면서 2000.4.3 이 건 심판청구를 청구하였다.그러나, 처분청에서 2000.10.18 과세기간 착오로 위의 결정을 취소함으로써, 청구대상이 소멸되었음이 결정결의서 및 계류중 사건에 대한 경정내용 통보(고양세무서 세일46410-OOOO호, 2000.10.18)에 의하여 확인된다.다. 따라서 이 건 심판청구는 당초 처분의 취소결정으로 불복청구대상이 없어졌으므로국세기본법 제65조제1항 제1호의 규정에 의하여 주문과 같이 결정한다.청구인들 명단 순번
+성 명
+주민등록번호
+주 소
+비고
+
+1
+OOO
+OOOOOOOOOOOOOO
+고양시 OO구 OO동 OOOO
+
+2
+OOO
+OOOOOOOOOOOOOO
+서울 구로구 OOO동 OOOOOO
+
+3
+OOO
+OOOOOOOOOOOOOO
+고양시 OO구 OOO동 OOO
+OOOOOOO OOOO OOOOO
+
+4
+OOO
+OOOOOOOOOOOOOO
+충남 예산군 신암면 OO리
+OOOOO
+
+5
+OOO
+OOOOOOOOOOOOOO
+고양시 OO구 OO동 OOOO
+
+6
+OOO
+OOOOOOOOOOOOOO
+고양시 OO동 OOOOO
+
+7
+OOO
+OOOOOOOOOOOOOO
+고양시 OO구 OO동 OOOOOO
+
+8
+OOO
+OOOOOOOOOOOOOO
+서울 강남구 OO동 OOOOOO
+
+9
+OOO
+OOOOOOOOOOOOOO
+서울 중랑구 OO동 OOOOO
+OOOO OO OOOO
+
+10
+OOO
+OOOOOOOOOOOOOO
+서울 서초구 OO동 OO
+OOOOOOO OOOO OOOO
+
+11
+OOO
+OOOOOOOOOOOOOO
+고양시 OO구 OO동 OOOO
+OOOOOOO OOOOO OOOOO
+
+12
+OOO
+OOOOOOOOOOOOOO
+고양시 OO구 OOO동 OOOOOO
+
+13
+OOO
+OOOOOOOOOOOOOO
+고양시 OO구 OO동 OOOOO
+
+14
+OOO
+OOOOOOOOOOOOOO
+고양시 OO구 OO동 OOOOOO
+
+15
+OOO
+OOOOOOOOOOOOOO
+서울 종로구 OO동 OOOOOO
+
+16
+OOO
+OOOOOOOOOOOOOO
+서울 마포구 OO동 OOOOO
+
+17
+OOO
+OOOOOOOOOOOOOO
+고양시 OO구 OO동 OOOOOO
+
+18
+OOO
+OOOOOOOOOOOOOO
+고양시 OO구 OOO동
+OOOOO OOOO OOOO
+
+19
+OOO
+OOOOOOOOOOOOOO
+서울 노원구 OOO동 OOO
+OOOOO OOOOO OOOO
+
+20
+OOO
+OOOOOOOOOOOOOO
+서울 도봉구 OO동 OOOOO
+
+21
+OOO
+OOOOOOOOOOOOOO
+고양시 OO구 OOO동 OOOOO
+
+22
+OOO
+OOOOOOOOOOOOOO
+수원시 팔달구 OO동 OOOOOO
+
+23
+OOO
+OOOOOOOOOOOOOO
+서울 노원구 OOO동 OOO
+OOOOO OOOOO OOOO
+
+24
+OOO
+OOOOOOOOOOOOOO
+〃
+의결일자: 20001026
+사건명: 적법한 청구인지 여부(각하)
+
+【주문】
+이 건 심판청구는 청구대상 처분이 없으므로 이를각하합니다.
+세목: 부가
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 183294
+재결례유형코드: 429150
+재결례유형명: 조세
+관련법령: 「국세기본법」 제55조 【불 복】
