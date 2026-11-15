@@ -1,0 +1,21 @@
+조세심판원 | 국심2006서1090 | 20060726 | 가공세금계산서 해당 여부(기각) | ID 118824
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+
+【재결요지】
+쟁점 매입세금계산서 거래가 실지거래임을 입증할 수 있는 객관적인 금융자료의 제시가 없으므로 쟁점 매입세금계산서를 가공세금계산서로 보아 관련매입세액을 불공제함.
+
+【이유】
+1. 처분개요 청구인은 OOOOO OOOO OOOO OOOO에서 일식음식점을 운영하던 사업자로 주식회사 OOOO(이하 “청구외법인”이라 한다)으로부터 공급가액 27,797천원 상당의 매입세금계산서(이하 “쟁점매입세금계산서”라 한다)를 교부받아 2001년 1기 부가가치세 신고시 관련 매입세액을 매출세액에서 공제하였다. 처분청은 쟁점매입세금계산서가 실지거래없이 교부받은 가공세금계산서라 하여 관련 매입세액을 매출세액에서 불공제하여 2006. 1. 15. 청구인에게 2001년 1기 부가가치세 5,588,580원을 경정고지하였다. 청구인은 이에 불복하여 2006. 3. 22. 이 건 심판청구를 제기하였다. 2. 청구인 주장 및 처분청 의견 가. 청구인 주장 청구인은 거래처인 청구외법인으로부터 수입수산물 27,797천원을 실제 매입하고 청구외법인의 실사업자 최OO로부터 청구외법인의 실무자 허OO이 작성한 쟁점매입세금계산서를 교부받은 것임에도 처분청이 쟁점매입세금계산서를 가공세금계산서로 보아 관련 매입세액 을 매출세액에서 불공제한 처분은 부당하다. 나. 처분청 의견 OO지방국세청장이 청구외법인을 세무조사하는 과정에서 청구외법인의 대표이사 최OOOO OOOOO OOOOOO OOOOOOOOOO OOO OOOO OOOOO OOO OO OOOOOO, OOOO OOO OOOOO OOO OOOOOO OO OOOOOOO OOOOO OOO OOO OO OOOOOO OOOOOOOOO OOOOOO OO OOO OOO OOO OO OO OOO OOO OOOO OOOO OOOOO OOO O OO OO OOOO OOOO OO OOOO OOOOO OOOOOOOO OOOO OOO OOOO OOO OO OO O OO OO OO OOOO OOOO OOOOOOOOOO OOOOOO OOOO OOOOOOOOO OO OO OOOOO OOOOOO OOOOO OOO OOO OO OO OOOO (O) OOOOOO OOOO OOOOOOO OO OOO OOOOO OOOOOO OOOO OOOOO OO OOOO OOO O OOOO OOO OOO OOOOOOOOOOOOO OOOO OOO OOO OOOO OO OOO OOOOOOOOOOOOO OOOOO OOOOOOOO OO OOOOO OO OO OOO OOOO OOOOOO OOO OOO OOO OO O OOOOO OOOO OOO O OO OOO OOO OOO OO OOOOO OO, OOOOO OOO OOO OOOOO OOOOO (O) OOOOOO OOOO OOO O OOO O OOO OOOOOOOOOO OOOOOOOO OO OOOOO OOOO OO OOO OO OOOO OOO OOO O OOOOO OO OOOOOO OOOOO OOOO OO OOOOO OOO OOO OO OO OOOOO OO OOOOO OOO OO OO OOO OO O OO OOOO O OO (O) OOOO OOOOO OOO OOOOOOOOO OOO OO OOOOOOOOOO OOOO OOOOOOO OOOOO OOOOOO OO OO OOO OOOO OOO OOO OO OOOOOOO OOOO (OO O O) (2) 처분청은 청구인이 쟁점세금계산서를 청구외법인으로부터 실지거래 없이 수취한 가공매입세금계산서로 보아 동 매입세액 상당액을 매출세액에서 불공제하여 이 건 부가가치세를 과세한 것인 반면, 청구인은 쟁점세금계산서의 거래는 실지거래라고 주장하고 있어 이에 대하여 살펴본다. (가) 처분청이 제시하고 있는 청구외법인의 대표이사 확인서에 의하면 청구외법인은 2001년 OO지방국세청장으로부터 조사를 받는 과정에서 쟁점매입세금계산서를 실지매출처와 다르게 발행·교부하였다고 2001. 12. 5. 확인하고 있다. (나) 한편, 청구인은 청구외법인의 대표이사 최OOOO OOOOO OOOOO OOOO OOOOO OO OO OOOOO OOO OOOOOOOOOO OOOOOOO OO OOOOOO OOOO OOOO O OOOO OOOO OOO (O) OOOO, OOOOO OOOOOOOO OOOOOOOO OOO OOO OOO OOOOOO OOOO OOO OOOO OOOOOO O OOOO OOOO OOO OOO OOO OOOOOO OO O OOO OO OOO OOO OOOO OOO OO OOOOO OO OOOO OO OOO OOO OO O O OOOO OOOOO OO OOO O OO OOO(OO O OOOOOOOOO, OOOOO OO OO)인바, 청구인이 쟁점매입세금계산서 거래가 실지거래임을 입증할 수 있는 다른 객관적인 금융자료 등의 증빙자료의 제시 없이 당초 확인내용을 번복하는 확인서만으로 쟁점매입세금계산서의 거래가 실지거래라고 보기는 어려우므로 처분청이 쟁점매입세금계산서를 실물거래 없는 가공세금계산서로 보아 관련 매입세액을 불공제한 처분은 타당한 것으로 판단된다. 4. 결 론 이 건 심판청구는 심리결과 청구인의 주장이 이유 없으므로 국세기본법 제81조 및 제65조 제1항 제2호의 규정에 의하여 주문과 같이 결정한다.
+의결일자: 20060726
+사건명: 가공세금계산서 해당 여부(기각)
+
+【주문】
+심판청구를 기각합니다.
+세목: 부가
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 118824
+재결례유형코드: 429150
+재결례유형명: 조세
+관련법령: 「부가가치세법」 제17조 【납부세액】

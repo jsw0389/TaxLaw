@@ -1,0 +1,535 @@
+조세심판원 | 국심2006서0533 | 20070712 | 증권예탁계좌에 입고된 주식을 증여받은 것으로 볼 수 있는지 여부(기각) | ID 14554
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+
+【재결요지】
+예탁금의 실질 소유관계에 있어서 예금 명의자를 언제나 예탁금의 실질 소유자로 보는 것은 아니므로 청구인의 소유주식을 예금 명의인에게 묵시적 명시적인 동의를 받아 명의신탁하였다고 보는것이 합리적임
+
+【이유】
+1. 처분개요OO지방국세청장이 청구인 OOO(본인), OOO(처), OOO(처남)[이하 “청구인들”이라 한다]의 주식변동상황을 조사한 결과 각 청구인들 명의로 개설된 증권회사의 증권위탁계좌에서 출고된 OOOO보통주 등(이하 OOO 계좌에 입고된 주식을 “쟁점1주식”, OOO 계좌에 입고된 주식을 “쟁점2주식”, OOO 계좌에 입고된 주식을 “쟁점3주식”이라고 하고, 쟁점1～3주식을 합하여 “쟁점주식”이라 한다)이 다른 청구인들 명의의 예탁계좌에 계좌대체 형식으로 입고된 사실을 확인하고 쟁점주식을 입고 받은 청구인들이 동 주식을 출고한 다른 청구인들로부터 쟁점주식을 실질 증여받은 것으로 보아 증여세결정결의서 안을 작성하여 처분청에 통보하였다.처분청은 위 통보내용에 따라 청구인들이 쟁점주식을 증여받은 것으로 보아 2005. 8. 8. 청구인들에게「별지2, 3, 4」기재된 바와 같이 증여세를 각각 결정고지하였다.청구인들은 이에 불복하여 2005. 10. 28. 이 건 심판청구를 제기하였다.2. 청구인들 주장 및 처분청 의견가. 청구인들 주장(1) 청구인들 중 OOO은 1964년 2월 OOOO에 공채로 입사한 후 1976년 3월 주식회사 OOOO의 대표이사를 시작으로 20여년 동안 OOOO 소속의 OOOO 주식회사, OOOO 주식회사, OOOOO 주식회사, OOOOOO 주식회사 등 주요 계열회사의 대표이사 및 회장직을 역임하여 OOOOO( OOOOO OOOOOOOOO OOOOOOO)의 위치에 올랐고, OOO이 OOOO 소속회사에 근무한 것과 관련하여 1978년경부터 배정받거나 매입하였던 쟁점주식을 OOO 본인명의, 배우자 명의, 친인척 명의 등을 사용하여 관리하였는 바, 쟁점주식을 취득·관리하면서 모든 주식을 본인명의로 하지 못하였던 것은 취득주식 모두를 본인명의로 할 경우 일반인들로부터는 OOOO 계열회사의 최고경영자(CEO)가 내부거래를 통하여 우량주식을 과다 보유한 것으로 오인 받을 소지가 있었고, 또한 소속회사의 직원들에게 주식의 과다보유사실이 알려지게 될 경우 회사조직내의 위화감 등으로 최고경영자의 리더쉽에 영향을 가져와 회사의 경영관리에 손상을 줄 것이 예상되어 불가피하게 이 사건 주식을 다른 사람명의로 취득·관리하였던 것으로 처음부터 주식분산을 통한 조세회피목적으로 명의신탁한 것이 아니었으며,1993. 8. 31. 금융실명제가 실시됨에 따라 가명계좌를 모두 실명계좌로 전환하였고, 청구인 OOO(55년생)는 주로 해외에 거주하며, 청구인 OOO는 OOO의 처로 일정한 직업이 없고, 청구외 OOO(22년생, OOO의 장모), 청구외 OOO(OOO 처남의 처)은 경제적 능력이 없는 자로 OOO이 1989. 12. 5. OOO 명의로 OOOO(전 OOOO)계좌 OOOOOOOOOOOOO를, 1988. 10. 8. OOO 명의로 OOOO(전 OOOO)계좌 OOOOOOOOOOOOO를, 1988. 10. 8. OOO 명의로 OOOO 계좌 OOOOOOOOO를 개설하여 OOOO주식 등 청구인 OOO 소유주식을 입·출고하였으며,OOO 계좌(1991. 10. 7. 잔고 OOOO보통주 13,121주, 우선주 1,041주, 1995. 8. 11. 입고된 보통주 10,000주)에서 2002. 6. 25. 보통주 2,005주와 우선주 1,622주를 청구인 OOO의 OOOO OOO으로, 또한 OOO 계좌(1990. 9. 1. 잔고 OOOO보통주 9,000주, 1995. 8. 11. 입고된 15,000주)에서 1996. 2. 13. 보통주 10,000주와 1997. 6. 17. 보통주 10,000주를 OOO의 OOOO OOO점 및 OOO으로 각각 이체 입고하였으나, 이는 명의신탁하였던 주식을 환원 받은 것임에도 처분청은 OOO이 쟁점1주식을 증여받은 것으로 보아 OOO에게 증여세를 과세한 처분은 부당하다.(2) OOO는 OOO의 처로 OOO이 OOOO의 임원으로 주식 등을 관리하기가 어려워 OOO가 2001. 12. 17. OOO 명의의 OOOO OOOO OOOOOOOOOOOOO 계좌에서 OOOOOOO OO,OOOOO OOOO OOOOOO OOOOOO OOOO OOOOOOOOOOOOO 계좌에 입고한 후 이를 2002. 4. 3. OOO의 OOOO OOOO OOOOOOOOOOOOO 계좌로 반환하였고, OOOO이 2001. 12. 31. 현재 고객 계좌원장에 의하여 2001년 12월 결산법인 실질주주명세를 작성하여 2002. 1. 10 증권예탁원에 송부하였으므로 당초 OOO이 OOO에게 명의신탁하여 증여로 보는 시점인 주식명의개서일 2002. 1. 10.부터 3개월 이내인 2002. 4. 3. 반환한 것에 해당하며,2002. 8. 29. 자산소득에 대한 부부합산과세가 위헌으로 결정되기 까지 OOO은 OOO에게 명의신탁된 쟁점주식에서 발생한 소득에 대하여 종합소득세를 합산과세 받았기 때문에 조세를 회피할 목적이 없었음에도 처분청이 한초자에게 증여세를 과세한 처분은 부당하다.(3) OOO은 1995. 8. 10. OOO의 OOOO OOOOOOOOOOOOO 계좌에서 OOOO보통주 15,000주를 출고하여 OOO의 OOOO OOO OOOOOOOOOOOOO계좌에 입고하고, 1998. 7. 4. OOO의 OOOO OOO OOOOOOOOOOOOO 계좌에서 OOOO보통주를 출고하여 OOO의 OOOO OOO OOOOOOOOOOOOO 계좌에 입고하였으며, OOO 계좌에서 OOOO보통주 1,000주를 출고하여 2001. 1. 10. OOO의 OOOO OOO OOOOOOOOOOOOO 계좌에 입고하였으며, OOO의 계좌에서 출금한 금원 전액을 OOO의 예금계좌에 입금시켰고,OOO 명의의 증권회사 고객계좌부상 주소와 전화번호가 OOO·OOO부부와 동일하고, OOO에 대한 위탁자 거래 및 잔고 내역과 배당 및 무상증자 통지 등이 OOO·OOO부부의 주소지로 통지되었으며, 청구인들 3명과 청구외 2명(OOO, OOO)의 비밀번호는 모두 OOOO로 동일하고, 이들 5명의 도장을 OOO이 보관하고 있는 등 OOO이 OOO·OOO·OOO이 알지 못하는 상황에서 명의를 도용하여 OOO·OOO·OOO의 계좌를 임의로 개설 관리하여 명의신탁이 이루어진 것임에도 처분청이 OOO에게 증여세를 과세한 처분은 부당하다.나. 처분청 의견(1) OOO이 청구인 OOO와 청구외 OOO·OOO 모르게 OOO·OOO·OOO 명의의 증권예탁계좌를 개설하여 OOO 소유의 쟁점주식을 예탁하였다고 주장하나, 쟁점주식의 배당소득이 명의자들에게 귀속되었음이 관련계좌에 의하여 확인되고, 명의자들이 배당소득에 대한 종합소득세를 신고·납부한 사실과 당해 계좌개설이래 주식 유상청약대금과 주식 처분대금 중 극히 일부분이 OOO 계좌로 입금된 사실을 제외하고는 대부분 명의자에게 귀속되었음이 명의자 OOOO(OOOOOOOOOO)에 의하여 확인되며, “금융기관이 예탁금명의자의 주민등록증을 통하여 실명확인을 하고 그 명의인이 예탁금계좌를 개설한 경우에는 그 예탁금의 예금주는 예금명의자의 것으로 본다”는 OOOOO(OOOOOOOO, 1998. 6. 12.)에 비추어 보면 쟁점주식은 명의신탁된 것이 아니라 무상이전된 것으로 보아야 한다.OOO·OOO부부의 주소, 전화번호, 비밀번호가 청구인 OOO와 청구외 OOO·OOO과 같다는 사실, OOO·OOO의 위탁자거래 및 잔고내역 통지, 배당 및 무상증자의 통지를 OOO·OOO부부의 주소지로 통지한 사실, OOO이 OOO·OOO·OOO 명의의 증권예탁계좌에 날인한 도장을 보관하고 있다는 사실, OOOOOO의 필적이 동일하다는(증권회사 직원이 작성하였을 수도 있음) 사실, OOOOO OOOO OOOOO OOOO OOOOO OOOOO OOOO OO OOO OO OOO O,OOOOOO O OO OOOOOOO OOOO OOOOO OOOO OOO OOOO OOOOO OOOOO OOOO OOOO OOOO OOOOO OOOOO OOOOOOOO OOO OOOO(O) OOO OOOO OOO OOOO OO OOOO OOO OOO OOOOOOOO OOOO, OOOOOO OO OOOOO OOOOO OOOOOO OOOOO OOO OOOO, OOOOOO OOOOOO OOOOOO OOO OOOOO OO O OOOO OOOOOO OOO OOOO O OOOO OOOO OOOOOO OOO OOOO OOOOO(OOOOOOOO, OOOOO OO OOO)O OOO OO OOOOOO OOOOO OOOOO OO OOO OOOOO OOO OOO OOOOOOO OOO OOO OOOOO OOOOOO OOOO OOOOO OOO OOOOOO OOOOO OOOOOO OOOO, OOO OOOO OOO OOO OOOO OOOO OOOOO OOOOOOO OOO O OOOO OOO OO OOOOOO OOOOOOO OOO OOO OOO OOO OOOO, OOO OOO OOO OOOOO OOOO OOOOO OOOOO OOO OOOOO OOO OOOO OOOO OO OOOO OOOO OOO OOO OOOOO OO OOOOO OOO OOOO OOOOOO, OOOO OOOO OOOOOO OOOO OO OOOO OOOO OOOO OO OOOOO OO OOO OOO OOO OO OOOOO OOO OOO OO OOO OOOO OOO OOO, OOO O OOOO OOOO OOOOO OOOO OOOOO OOO OOOOO OOO OOOO OOO OOOOOOO OOOOO OOOO OO OOOOOOOO OOOOO OOO OOOOOOO OO OOO OOO OOO OOOO, OOOOO OO OOOO OOOO O OOO O OOOO OOOO(O OOOOO)OO OOOOO OOO OOOOOOO OO OOO OOOO OOO, OOOO OOOOO OOOOO OOO OOOO OOOOO OOOOO OOOOOOO OOO OOO OOO OOOOO OOOOOOO OOO OOOOO OOOO O OOO(O) OOO OOOO OOO OOOO OOOO OOOO OOO OOO OOOO OOOOOOO OOOO OOOOOO OOOOOO OOOO, OOOO OOOO OOO OO OOOO OOO OOO OOOOOOO OOOOO OOOO OOO OOOO OO OOOO, OOOO OOOOOO OOOOO OOO OO OOOO OOOO, OOOOOO OOOO OOO OOO OOO OOOOO OOO OOO OOOO OOOOO OO OOOOO OOOOOO OOO OOO OOO OOOO OOO O OOO, OO OOOOOO OOOOO OOO OOOO OOO OOOOOO OO OOOO OO OOOOOO OOOO OOOOOO OOOO OOOOOOO OOO OOO OOO OOOO OOOOO OOOO OOO OOO OOOOOOO OO O OOOO OO(O) OOOO OOO OOOOOOO OOO OOO OOOOO OOOO OOO OO OOOO OOO OOO OO(OOOOOOO OO OO OOOOO OOO O O OOO OO O OOO OOOOOOOOOOOO OO OO OO)(O) OO(O)O OOOOOOO OOO OOO OOOOO OOOO OO OOOOOOO OOO OO(OOO OOOOOOOO OO OO)(O) OOOOO OOOO OOO OO OOOO OOOO OOO OOO OOOO OOO OOO OOO OOOOO OO(OOO OOOO OO OO)OO OOOO(O) OOO O OOOO OOOOOO (OOOOOOOO) OOO OOO OO OOOO OO O OO OOO OOOO OOO OOO OOOOO OOO OO(OOO OO)OO OOOO OO OOO OOO O OOO OOO OOO OOO OOO OO OOO OOO O(OOOOO OOOO)OO OOOO OO OOO OOO OO OOO OOOOO OO O OOOOO OOO OO O OOOO OO(OOO OOOO)O OOOOO OOO OO OOOOOO OOOO OOOO OOOO OOO OOO OOO OOO OO, OOOO OO OOOOOOOO OOO OOO OOOOO OOO OOO OO OOOO OOOO OOOOOOOOO OOO OOOO OOO OOOO OOO OO OO OOOO OO(OOO OOOO)O OOOOO OOOOO OOOOO OO OOOO OOOO O OOOOO OO OOOO OO OOO OOOO OOOO OOOOO(O) OOO O OOOO OOOOOO (OOOOOO OOOO O OOO OO OOOO) OOOO OOOO O OOO OOOOOOOOOOO(OO OOOOOOO OO)O OOO OOO OOO OOOOOO OOOO OO OOOO OOOOO OOOOO OOO OOOO O OOOO OOOO O OO OOOOOO O OOOOO OOO OOO OOO OO, OOO OOO OO OOOOOOOO O OO OOOOOOOOOO OOOOOOO OOO OO OOOOO OOOO OO O OOOOOOOO OOO OOO OO OOOO O OOOO OOOOO OOO OOO OOOO OOOOOOOOOO OOO OOO OO OOOOO OO OOOOO OOO OOOO OO OOOO OO OOOO OOOOOOOOOOO OOO OO OOOOO OOOOOOOOOOO OOO OOOOOO O OOOO OOO OOO OOOO(O) OOO O OOOO OOOO (OOOOOOO OOOO) OOOO OOOO O OOO OOOO OOO OO(OOO OOO OOOO)O OOO OOOOOO OOOO OO OOOO OOOOO OOOOO OOO OOOO O OOOO OOOO O OO OOOOOO O OOOOO OOO OOO OOOOO OO, OO OOO OO OOOO OOOO OOOO OOOOOOO OOOOOOOO OOO OOO OOOO O OOOO OOOOO OOO OOOO OO OO OOOO(OO O OOO OOOOOOO OO)O O O OOOOO OO OO OOO OOO OOOOO OOOO OO OOOOO OOOO OOO OOOOOO OO OOOO OOO OOOOO OOO OOOOOO OO(OO O OOO OOOOOOOO OO)O OOOOOOOO OOOO OOO OO, OO OOOO OOO OOO OO(OOOO OOOO)O OOOOO OO O O O O OOO OO OOOOO OO OOO OOOO OOOO OOOO OOOOOOOOOOOOO OOO OOOOOO OOOOOOOO OOOO OOOOO O O OOOOO OOOOOO OO OO OOO OOOO OO OOOO OOOOOOO OOO OOOO OOOOOOO OO OOO OOOOOOOOOOOOO OOO OOOO OOOOOO OOOOOOOO OOOO OO OO OOO OOO OO OO O OOO OO OO OOO OO OO OO OOOO OOOOOOOO O OOOO OOO OOOOO OOO OO OOO OOOO OOO OOO OOOOO(O) OOO O OOOO OOOOOO (OOOOOOO OOOO) OOOO OOOO O OOO OOOO OOO OO(OOO OOO OOOOO OO O OOO OO)O OOO OOOOOO OOOO OO OOOO OOOOO OOOOO OOO OOOO O OOOO OO OO O OO O OOO OOO OOOO OOOOOOOO OOOO OOO OOO OO, OO OOO OO OOOO OOOO OOOO OOOOOOO OOOOOOOO OOO OOO OOO OO OO O OOOO OO OO OOOO(OO O OOO OOOOOOO OO)O OOOOO OO OOOO OO OO OOO OOO OOOOO OOOO OO OOOOO OOOO OOO OOOOOO OO OO OO OOO OOOOO OOO OOOOOO OO(OO O OOO OOOOOOOO OO)O OOOOOOOO OOO OOO OO, OO OO OO OOO OOO OO(OOOO OOOO)O OOOOO OO O O OOOOO OO OO OO OOOOO OO OOO OOO OOOO OOOO OOOOOOOOO OOO OOO OO OO O OOO OOOOOOO OOO OO OOOOOO OO OO OOO OOOOOOOO OOOO OOOO OOOO OOOOOOO OO OOO OOOOOOOOOOOOO OOO OO OO OOOOOO OOOOOOOO OOOO OO OO OOO OOO OO OO O OOO OOO OO OO OO OOOO OOOOOOOO O OOOOO OOOOO OOO OO OO OOOO OOO OOO OO OOOOO(O)OO OOOOO(OOO OOOO) OOOO OOO OOOO OOO OOOOO OOOOOOO OOOO OO OOO OOOOO OOOOO(O)OO OOOOO (OOOOO OOO OOOO) OOOOOO OOO OOOO OOO OOO OOOOO OOOO OOOO OOO OOOO OOOOOOOO OOO OOO OO OOO OOOOOOOO O O OOO O OO OOOOOOOO OOOO OOO OOO OOOOO OOO OOO OOO OOOO OOOOO OO OOO OOOOO OOOO O OO(O) OO(O)O OOO OOO(O) OOOO OO OOOOO OOOOOOOO OO OOOOOO OOOO의 청구외 OO월 명의의 OOOOOO(OOOOOOOOOOOOO)와 OOOO OOOO의 청구인 OOO 명의의 OOOOOO(OOOOOOOOOOOOO)에서 출고하여 청구인 OOO 명의의 OOOO OOOO 계좌(OOOOOOOOOOOOO)와 OOOOO 계좌(OOOOOOOOOOOOO) 및 OOOO 계좌(OOOOOOOOOOOOO)에 각각 대체입고된 주식을 OOO이 증여받은 것으로,OOOO OO지점의 OOO 명의의 OOOOOO(OOOOOOOOOOOOO)에서 출고하여 OOOO OO지점의 OOO 명의의 OOOO(OOOOOOOOOOOOO)로 대체 입고된 주식을 OOO가 증여받은 것으로,OOOO OOO지점의 OOO 명의의 OOOOOO(OOOOOOOOOOOO)와 OOOO OO지점의 OOO 명의의 OOOOOO(OOOOOOOOOOOOO) 및 OOOO OO지점의 OOO 명의의 OOOOOO(OOOOOOOOOOOOO)에서 OOOO OO지점의 OOO 명의의 OOOOOO(OOOOOOOOOOOOO)로 각각 대체 입고된 주식을 OOO가 증여받은 것으로 보아 와 같이 OOO, OOO, OOO에게 증여세를 부과하였음이 처분청이 제시하는 증여세결정결의서에 의하여 확인된다. 쟁점주식 거래 흐름도(단위 : 주, 원) 번호
+월일
+증여
+주식
+수량
+평가액
+거 래 내 용
+
+증여자 OOO→ 수증자 OOO
+
+1
+02.06.25
+OO
+OO
+보통주
+2,005
+694,431,750
+[1～2] 2002.4.3. OOO의 OOOO OO지점 OOOOOOOOOOOOO? 계좌에서 2002.6.25. OOO의 OOOO OOOO? OOOOOOOOOOOOO 계좌로 입고
+
+2
+02.06.25
+1,622
+278,111,364
+
+증여자 한면수→ 수증자 경주현
+
+3
+96.02.28
+OO
+OO
+보통주
+3,000
+390,000,000
+[3～6] 1996.2.19. OOO의 OOOO OO지점? OOOOOOOOOOOOO 계좌에서 OOO의 OOOOO OOOOO? OOOOOOOOOOOOO OOO OO
+OOO OOO OO OOO OOOO OOOO OOOO? OOOOOOOOOOOOO OOOO OOOO OOOO OOOO OO OOOOOOOOOOOOO 계좌에 입고
+
+4
+96.03.04
+3,000
+390,000,000
+
+5
+96.03.06
+2,000
+266,726,000
+
+6
+96.03.08
+2,000
+260,000,000
+
+7
+97.07.04
+10,000
+646,760,000
+
+증여자 OOO→ 수증자 OOO
+
+번호
+증여일
+증여
+주식
+수량
+평가액
+거 래 내 용
+
+8
+01.12.17
+OO
+OO
+보통주
+29,000
+7,387,837,000
+2001.12.17. OOO의 OOOO OO지점 OOOOOOOOOOOOO 계좌에서 OOOOO OOOO OOOO OOOOOOOOOOOOOOO 계좌에 입고한 후 2002.4.3. OOO의 OOOO OO지점 OOOOOOOOOOOOO 계좌로 이체
+
+번호
+월일
+증여
+주식
+수량
+평가액
+거 래 내 용
+
+증여자 OOO→ 수증자 OOO
+
+10
+95.08.11
+OOOO
+보통주
+15,000
+1,950,000,000
+1995.8.10. OOO의 OOOO OOO지점 OOOOOOOOOOOO? 좌에서 OOO의 OO증권 OOOOOOOOOOOOOOOO 계좌로 입고
+
+증여자 OOOOOO OOO OOO
+
+OO
+OOOOOOOO
+OOOO
+OOO
+O,OOO
+OOO,OOO,OOO
+OOOOOOOOO OOOO OOOO OOOO? OOOOOOOOOOOOO OOOO OOOOOOOOO OOOO OOOO OOOO OOOOOOOOOOOOO OOO OO
+
+OO
+OOOOOOOO
+OOOO
+OOO
+OOO
+OOO,OOO,OOO
+OOOOOOOOO OOOO OOOO OOOO? OOOOOOOOOOOOOOOOO OOOO OOOO OOOO OOOO OOOOOOOOOOOOO? OOO OO
+
+OO
+OOOOOOOO
+OOOO
+OOO
+O,OOO
+OOO,OOO,OOO
+
+OO
+OOOOOOOO
+OOOO
+OOO
+O,OOO
+OOO,OOO,OOO
+
+OOO OOOO OOO OOO
+
+OO
+OOOOOOOO
+OOOO
+OOO
+O,OOO
+OOO,OOO,OOO
+OOOOOOOOOO OOOO OOOO증권 OO지점 OOOOOOOOOOOOO 계좌에서 OOO의 OO증권 OO지점 OOOOOOOOOOOOO 계좌로 입고
+
+증여자 OOO→ 수증자 OOO
+
+16
+02.06.18
+OOOO
+보통주
+110
+38,588,660
+심판청구 제외
+
+증여자OOO→ 수증자 OOO
+
+번호
+월일
+주식종류
+수량
+평가액
+
+9
+95.08.11
+OOOO
+보통주
+10,000
+1,300,000,000
+1995.8.8. OOO의 OO증권 OO지점 OOOOOOOOOOOOO 계좌에서 1995.8.11. OOO의 OO증권 OO지점 OOOOOOOOOOOOO 계좌로 입고
+
+증여자 OOO → 수증자 OOO
+
+번호
+증여일
+증여주식
+수량
+평가액
+거 래 내 용
+
+17
+95.08.08
+OOOO보통주
+2
+47,336
+1995.8.8. OOO의 OO증권 OOO지점 OOOOOOOOO 계좌에서 출고되어 1995.8.8. OOO의 OO증권 OOO지점 OOOOOOOOOOOOO 계좌에 입고
+
+18
+″
+동1신주
+2,609
+54,841,400
+
+19
+″
+동우선주
+1,514
+18,319,400
+
+20
+″
+OOOO보통주
+13,907
+1,821,817,000
+
+21
+″
+동1신주
+3,458
+442,624,000
+
+22
+″
+동우선주
+2,630
+145,702,000
+
+23
+″
+동우선신주
+520
+27,560,000
+
+24
+″
+OOOOO보통주
+31,659
+661,731,100
+
+25
+″
+동1신주
+4,722
+92,079,000
+
+26
+″
+OOOO보통주
+1,910
+84,995,000
+
+27
+″
+동우선주
+569
+10,640,300
+
+28
+″
+OOOO보통주
+3,000
+162,087,000
+
+29
+″
+OOOO보통주
+9,203
+266,887,000
+
+30
+95.10.02
+OOOO3신주
+254
+41,021,000
+1995.9.23. 위 OOO의? 계좌에서 출고되어 1995.10.2. OOO의? 계좌에 입고
+
+(나) 처분청은 청구인들이 계좌개설이래 주식 유상청약대금과 주식처분대금이 청구인들에게 귀속되었음이 청구인들 위탁계좌에 의하여 확인되고, “명의자가 배당소득에 대한 종합소득세를 신고·납부하였으므로 금융기관이 예금 등 명의자의 주민등록증을 통하여 실명확인을 하고 그 명의인이 예탁금 등 계좌를 개설한 경우에는 그 예탁금 등은 예금명의자의 것으로 본다”는 OOOOO(OOOOOOOO, 1998. 6. 12.)에 따라 청구인들이 쟁점주식을 증여받았다고 주장하는 반면,OOO은 1964년 2월 OOOO에 공채로 입사한 후 1976년 3월 주식회사 OOOO의 대표이사를 시작으로 20여년 동안 OOOO 소속의 OOOO 주식회사, OOOO 주식회사, OOOOO 주식회사, OOOOOO 주식회사 등 주요 계열회사의 대표이사 및 회장직을 역임하여 OOOOO( OOOOO OOOOOOOOO OOOOOOO)의 위치에 올랐고, OOO이 OOOO 소속회사에 근무한 것과 관련하여 1978년경부터 배정받거나 매입하였던 쟁점주식을 OOO 본인명의, 배우자 명의, 친인척 명의 등을 사용하여 관리하였는 바, 쟁점주식을 취득·관리하면서 모든 주식을 본인명의로 하지 못하였던 것은 취득주식 모두를 본인명의로 할 경우 일반인들로부터는 삼성그룹 계열회사의 최고경영자(CEO)가 내부거래를 통하여 우량주식을 과다 보유한 것으로 오인 받을 소지가 있었고, 또한 소속회사의 직원들에게 주식의 과다보유사실이 알려지게 될 경우 회사조직내의 위화감 등으로 최고경영자의 리더쉽에 영향을 가져와 회사의 경영관리에 손상을 줄 것이 예상되어 불가피하게 배우자명의, 친인척명의 등을 사용하여 관리하였을 뿐으로 명의신탁하였던 쟁점주식을 반환받은 주식이라고 주장하는데 대하여 본다.1) 청구인들 OOO·OOO·OOO와 청구외 OOO·OOO 명의의 증권예탁계좌를 보면 아래 과 같이 OOO과 처 OOO의 주소지·전화번호가 OOO·OOO·OOO의 주소지·전화번호와 같고, 2000. 4. 5. OOOO OOOO OOO 계좌(OOOOOOOOOOOOO), 2000. 11. 14. OOOO OOOOO OOO 계좌(OOOOOOOOOOOOO), 1997. 6. 25. OOOO OOO지점 OOO 계좌(OOOOOOOOOOOOO), 1998. 10. 9. OO증권 OO지점 OOO 계좌(OOOOOOOOOOOOO), 1997. 12. 30. OO증권 OO지점 OOO 계좌(OOOOOOOOOOOOO)에서 출금한 전표상 비밀번호가 OOOO로 모두 동일하며,출금계좌의 필체가 서로 비슷하게 나타난다. 증권위탁계좌 개설 현황 증권회사
+계좌번호
+명의자
+개설일
+실명확인일
+주민번호
+비밀번호
+
+전화번호
+주소
+
+OO OO
+OOOOOOOOOOOOO
+OOO
+
+1377
+
+OOOOOOOO
+OOO,OOOO OOOOOOO
+
+OO OO
+OOOOOOOOOOOOO
+OOO
+96.02.24
+96.02.24
+OOO
+1377
+
+OOOOOOOO
+OOO,OOOO OOOOOOO
+
+OO OO
+OOOOOOOOOOOOO
+OOO
+89.12.05
+
+1377
+
+OOOOOOOOOO
+OOO,OOOO OOOOOOO
+
+OO OO
+OOOOOOOOOOOOO
+OOO
+OOOOOOOO
+
+OOOOOOOOOOOOOO
+OOOO
+
+OOOOOOOOOOOO
+OOO,OOOO OOOOOOO
+
+OOOO OO
+OOOOOOOOOOOOO
+OOO
+95.08.08
+95.08.08
+OOO
+1377
+
+OOOOOOOOOO
+OOOO,OOOO OOOOOO OOOOOO
+
+OOO OOOO OOOOOO OO OOO호에서 1998. 12. 12. OOO OOO OOOO OOOOO OO으로 주소변경2) 증권예탁원이 1996. 4. 1. OOO의 OOOOOO( OOOOOOOOOOOO)와 OOO의 OOOOOO(OOOOOOOOOOO)로 무상증자(주식배당)와 현금배당이 있었음을 통지하고, 1996. 6. 30. OOO의 증권예탁계좌의 위탁자거래 및 잔고내역을 통지한 주소지는 OOOOO OOO OOOO OOOOOOO 번지로 OOO의 주소지임이 확인된다.3) 청구외 OOO은 심판청구일 현재 84세로 일정한 직업이 없고 OOO 명의의 주식으로 인한 배당소득 등을 제외하면 별다른 소득이 없어 OOO 명의의 주식을 취득할 능력은 없어 보이고, 1995. 8. 11. OOO의 증권예탁계좌에서 OOO의 계좌로 입고된 OOOO 보통주 10,000주는 1996. 2. 13. 출고되었다.4) 청구외 OOO의 OOOOOO에서 주식을 양도한 대금 중 2000. 1. 18. 32,000,000원을, 2001. 4. 18. 23,024,973원을 OOO의 처 OOO의 계좌(OOOO OOOOOOOOOOOOOO)로 입금하였음이 청구인들이 제시한 금융자료에 의하여 확인된다.5) 청구외 OOO은 일정한 직업이 없는 가정주부로서 OOO 명의의 주식에 대한 배당소득 등을 제외하면 별다른 소득이 없어 OOO이 쟁점2주식을 취득할 능력은 없어 보이고, OOO의 증권예탁계좌에서 1995. 8. 8. 및 1995. 10. 2. 각각 OOO 계좌로 대체 입고된 쟁점2주식은 1997. 3. 31.까지 모두 매도되어 현금으로 출금하였다.6) OOO의 OOOO계좌에서 주식을 양도한 대금 중 일부가 아래와 같이 OOO의 예금계좌(OOOO OOOOOOOOOOOOOOOO)O OOOOOO OOOOO OOO OOOOO OOO OOOOOOOOOOOO OOOOOO OOO OO(OO O O)O) OOOO OOOOO OO OOO OOOO OOOOO OO OO OOOOOO OOOOOO, OOOO OOOOOO OOOOOOO OOO OOOOOOOOO OO OOOOOO OOOOOO로 아래 출입국 현황표와 같이 수시로 출·입국하였으며 출국기간에도 다수의 주식매도거래가 있었음이 확인된다.OOO의 출입국 현황 출국
+입국
+출국
+입국
+출국
+입국
+출국
+입국
+
+97.03.04
+97.03.07
+97.03.11
+97.03.15
+97.04.11
+97.04.12
+97.04.13
+97.04.27
+
+97.05.12
+97.05.13
+97.06.02
+97.06.11
+97.07.01
+97.07.05
+97.07.19
+97.08.03
+
+97.08.13
+97.08.16
+97.08.22
+97.08.31
+97.09.12
+97.09.18
+97.10.06
+97.10.09
+
+97.10.17
+97.10.25
+97.10.26
+97.10.29
+97.11.02
+97.11.06
+97.11.15
+97.11.18
+
+97.11.29
+97.12.04
+97.12.16
+97.12.19
+97.12.31
+98.01.11
+98.02.06
+98.02.12
+
+98.02.26
+98.03.08
+98.04.17
+98.04.29
+98.05.11
+98.05.13
+98.05.16
+98.05.21
+
+98.05.31
+98.06.01
+98.07.05
+98.07.08
+98.08.08
+98.08.12
+98.08.21
+98.09.03
+
+98.09.05
+98.09.13
+98.10.26
+98.10.28
+98.12.18
+99.01.03
+99.01.05
+99.01.12
+
+99.02.09
+99.02.12
+99.03.12
+99.03.22
+99.04.11
+99.04.15
+99.04.29
+99.05.08
+
+99.06.05
+99.06.13
+99.06.18
+99.06.22
+99.06.26
+99.07.11
+99.08.24
+99.08.27
+
+99.09.09
+99.09.15
+99.10.22
+99.10.24
+99.10.31
+99.11.06
+99.12.21
+00.01.16
+
+00.01.22
+00.01.24
+00.02.08
+00.02.13
+00.03.18
+00.03.26
+00.03.30
+00.03.31
+
+00.05.02
+00.05.15
+00.05.17
+00.05.20
+00.06.01
+00.06.12
+00.07.03
+00.07.04
+
+00.08.26
+00.09.10
+00.09.23
+00.10.02
+00.10.15
+00.10.18
+00.10.30
+00.11.04
+
+00.11.23
+00.11.24
+00.12.24
+01.01.13
+01.01.29
+01.02.17
+01.03.03
+01.03.25
+
+01.04.03
+01.04.22
+01.05.09
+01.05.25
+01.09.05
+01.09.16
+01.11.16
+01.12.04
+
+01.02.08
+01.12.12
+01.12.18
+02.01.23
+02.01.29
+02.02.01
+02.02.12
+02.03.30
+
+02.04.07
+02.04.12
+02.04.15
+02.04.20
+02.04.22
+02.04.27
+02.05.04
+02.06.15
+
+02.06.24
+02.06.28
+02.07.09
+02.09.29
+02.09.30
+02.11.16
+02.11.26
+03.03.12
+
+03.03.21
+03.09.11
+03.09.26
+04.01.06
+04.01.14
+04.03.25
+04.04.03
+04.05.27
+
+04.06.04
+04.07.27
+047.07.31
+04.09.04
+04.09.05
+
+8) 이상의 사실관계를 종합하여 보면 청구인 OOO와 OOOOO OO OOO OOOO OO OOOO, OOO OOOO OOOO OO OOO OO OOOOO의 처로 모두 친인척에 해당하고,OOO과 처 OOO의 증권예탁계좌상 주소지·전화번호가 OOO·OOO·OOO의 주소지·전화번호와 같고, 각 증권회사의 OOOO OO, OOO OO, OOO OO, OOO OO, OOO OOOO OOO OOO OOOOO OOOOO OO OOOO, OOOOO OOO OO OOO OOO OOOO, OOOOOO OOOO OOOO OOOOOOO OOOOO OOO OOOO(OOOO)O OOOOO OOO OOOO OOOO OOOO OOOO, OOO OOOO OOOOOOOO OOO OOO OO O OOO OOOO OOOOO, OOOO OOOOOOOO OOO OOO OO O OOO OOOO OOOOO OOOOOO OOOO, OOOO OOO OOOOO OOO OOOOOOO OOOO OOOO OO, OOOO OOOOO OOOOO OOO O OOO OO OO OOOOO(OOOOOOOO, OOOOO OO OO)O OOOOO OOOO OOOOO OOOOOOO OOO OOO OOOOOO OOO OOO OOOO OOOOO OOOOO OOOO O OOO OO OOOOOO OOOO OOOOO OOO OO O OOOO OO OOOOO OOO OO OOOO OOO OOOO OO OOOO OOO OOO OO OOO OOO O OOO OOO O O OOOO OOOOO OOOOOOOOOOOOOOOOO OOO OO OOOO OOO OO OOOOO OOOOOOOO OO OO OOOOOO OOOOOOO, OOOOO OOOO OOO OO OOO OOOO OOO OOO OO OOOOOO OOOO OOO OOOOO OO OOO OOOOO OO OO O OOOOOO OOO OO OOOOO OOO OOO OOO O OO OOOO O O O O OOOOO OOO OO OOOO OOO OOO OOOO(O) OO(O)O OOO OOO(O) OOO OOOO OOOOO(O)OO OOO OOOO OOO OOOOOOOO OOO OOOOOOOOO OOOOO OOOOO OOO O OO OOOOOO OOO OOOOOOO OOO OOOOOO OOO OOO OOO OOO OOO OOOOOOOO OO OOOO OO OO OOOO OOO OOOO OOO(OOO O OOOO OOOO OOOOOOOO, OO O)OO OOOO OOOO OOOOOO OOOO OOO OO O O OOOO OOO OOO OOOO OOOO(O) OOO OOOO OOOO) OOOOO OO OOOO OOO OOOOOOO OOO OOOO OOO OOOOO OOOO OOOOO OOOOO OOOO OOOOOOO OO OOO OOO OO OOOO OOOOO OOO OOOOO OOO OOOO OO OO OOOO OOO O OOOO OOOOO O OOO OOO OOOO OO O OO OOO OOO OOOO OOO O OOO, OOOOO OOO OOOOO OOO OOOO OO OO OOOOO OO OOOO OOOOO OOO O O(OO O, OOOOO OOOOOOO. 1996. 8. 20, OOO OOOOOOOO. 1996. 5. 10)으로, 조세회피의 목적이 없었다는 점을 조세회피의 목적이 아닌 다른 목적이 있었음을 증명하는 등의 방법으로 입증할 수 있으나, 입증책임을 부담하는 명의자로서는 명의신탁에 있어 조세회피 목적이 없었다고 인정될 정도로 조세회피와 상관없는 뚜렷한 목적이 있었고, 명의신탁 당시에나 장래에 있어 회피될 조세가 없었다는 점을 객관적이고 납득할 만한 증거자료에 의하여 통상인이라면 의심을 가지지 않을 정도로 입증하여야 한다(같은 뜻, OOOOOOOOOOOO, 2006.9.22).2) OOO은 OOOO 계열회사의 최고 경영자로서 내부거래의 오해소지와 조직내 위화감 조성 등의 우려를 이유로 불가피하게 배우자 OOO 등에게 쟁점주식을 명의신탁하였고, OOO는 OOO의 처로서 자산소득에 대하여 2002. 8. 29. 자산소득에 대한 부부합산과세 규정에 대한 위헌결정 전까지는 자산소득으로 부부합산과세를 받아 쟁점2주식의 명의신탁으로 인하여 회피한 조세가 없었으며, 3개월여 후에 반환하여 장래 조세경감이 발생할 수 있는 가능성이 없다고 주장하나, 그렇다고 하여 청구인이 조세를 회피할 목적이 없었다고 단정하기 어렵고, OOO이 처 OOO 명의로 조세회피와 상관없이 명의신탁할만한 다른 뚜렷한 목적이 있었다고 보기 어려우므로 처분청이 OOO에게 이 건 증여세를 부과한 처분은 잘못이 없다 하겠다.(다) 청구인 OOO에 대하여OOO는 OOO과 자산소득의 합산과세대상이 아니므로 OOO 명의로 명의신탁한 쟁점3주식에 대한 배당소득 등은 OOO의 과세소득에서 누락되었고, 누락소득이 있는 경우 조세회피목적이 있다고 보아야 할 것으로 처분청이 OOO에게 이 건 증여세를 부과한 처분은 잘못이 없다 하겠다.(3) 쟁점(3)에 대하여 본다.청구인 OOO는 2001. 12. 17. 명의신탁 받은 쟁점2주식이 실질주주명부에 OOO 명의로 개서된 일자는 2002. 1. 10.경이고, 이로부터 3개월 이내인 2002. 4. 3. 쟁점2주식을 실질소유자에게 반환하였으므로 증여세 과세대상이 아니라고 주장하나, 청구인 OOO에게 증여의제하여 증여세가 과세된 쟁점2주식의 명의개서일은 2002. 1. 10.경이 아니라 2001. 12. 31.로 보아야 하고, 동 주식이 2002. 4. 3. 실질소유자 OOO의 OOOOOO로 입고되었으므로 쟁점2주식을 명의개서일로부터 3개월 이내에 반환하였다는 청구주장은 받아들이기 어려운 것으로 판단된다.라. 결 론이 건 심판청구는 심리결과 청구인의 주장이 일부 이유있으므로국세기본법 제81조및 제65조 제1항 제2호 및 3호의 규정에 의하여 주문과 같이 결정한다.
+의결일자: 20070712
+사건명: 증권예탁계좌에 입고된 주식을 증여받은 것으로 볼 수 있는지 여부(기각)
+
+【주문】
+OO세무서장이 2005. 8. 8. OOO에게 한「별지2」기재의 증여세 부과처분은 이를 각각 취소하고, OOO에게 한「별지3」기재의 증여세 부과처분과 OOO에게 한「별지4」기재의 증여세 부과처분에 대한 심판청구는 이를 각각 기각합니다.
+세목: 증여
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 14554
+재결례유형코드: 429150
+재결례유형명: 조세
+관련법령: 「상속세및증여세법」 제29조의2 【증여세납부의무자】

@@ -1,0 +1,81 @@
+해석_국세청 | 소비22641-1306 | 19910907 | 수입 카메라의 특별소비세 과세여부 | ID 98840
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000111168 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 수입 카메라의 특별소비세 과세여부
+문서번호: 소비22641-1306
+생산일자: 19910907
+요지: 귀문의 [CCD CAMERA]는 과세물품임
+
+【회신】
+귀문의 [CCD CAMERA]는 특별소비세법 시행령 제1조 별표1 제2종 제11호 “나”에 해당하는 과세물품입니다.
+
+【본문】
+1. 질의내용 요약
+
+특별소비세법 제1조 제2항과 관련하여 질의합니다.
+
+본인은 전자제품을 취급하는 개인사업자로서 최근 널리 보급되기 시작한 DOOR VIDEO PHONE을 자체개발 시판코자 하오나, 현재 동종 물품을 제조 판매하는 업계에서 동 제품 또는 동 제품 제조에 소요되는 일부 부분품에 대한 특별소비세 과세여부가 쟁점화되고 있어 다음과 같이 질의합니다.
+
+가. DOOR VIDEO PHONE 제품의 개요
+
+본 물품은 현관 또는 대문에 설치되는 OUT DOOR PHONE과 실내에 설치되는 IN DOOR VIDEO PHONE으로 구성되어 방문개 내방시 방문객이 현관의 도어폰을 누르면 자동으로 실내 모니터 화면을 통하여 방문객 모습이 나타나며, 모니터와 일체인 수화기를 들고 직접 통화할 수 있도록 설계 제작된 INTER PHONE(일명 DOOR VIDEO PHONE)임.
+
+나. 쟁점사항
+
+상기 제품을 구성하는 부분품중 주요 부분품은 외국에서 수입되고 있는바(주요 수입 부분품 LIST 참조), IN DOOR VIDEO PHONE의 4" 흑백 MONITOR는 1988년 이후 특별소비세 과세대상에서 제외되었으나, OUT DOOR PHONE의 구성 부분품중 CCD CAMERA MODULE은 수입 통관 과정에서 세 번부여시 DOOR VIDEO PHONE을 INTER PHONE의 일종으로 보아 INTER PHONE부분품(H.S. 0000-00-000)으로 분류하여 특별소비세 과세대상 품목이 아니라는 의견과 다른 일방에서 본 CCD CAMERA MODULE이 DOOR VIDEO PHONE에 사용토록 특별히 제작되어 , 일반 CCTY CAMERA와 구분된다고 하더라도, 수입신고시 물품의 성상과 기능에 의하여 세 번분류를 하여야하며, 본물품이 CCTV CAMERA의 주요 기능을 가지고 있으므로 가장 협의로 표현된 폐쇄뢰로 TV CAMERA(H.S.0000-00- 0000)로 분류하여 특별소비세 과세대상 품목으로 보아야 한다는 의견임.
+
+* DOOR VIDEO PHONE의 주요 수입 부분품 LIST
+
+기능부분
+
+품 명
+
+수입선
+
+OUT DOOR PHONE
+
+CCD(CHARGE COUPLED DEVICE)
+
+CAMERA MODULE
+
+SANYO(JAPAN)
+
+IN DOOR VIDED
+
+PHONE
+
+4" C.R.T.(CATHODE TUBE)
+
+F.B.T.(FLY BACK TRANSFORMER)
+
+D.Y.(DEFLECTION YOKE)
+
+SONY(JAPAN)
+
+SONY(JAPAN)
+
+SONY(JAPAN)
+
+다. 업계현황
+
+(1) DOOR VIDEO PHONE은 1988년경부터 국내에서 제조, 판매되었으며 현재까지 총 생산량은 30만대 정도로 추정됨.
+
+(2) 기존 생산업체들은 이제까지 CCD CAMERA MODULE을 수입신고시 INTER PHONE 부분품의 세 번 H.S.0000-00-0000을 적용하여 특별소비세를 납부치 않았으나, 최근 관세청 내부지침(문서번호 : 감정22701-891, 1991.06.28)에 의해 적용세번 정정(H.S.0000-00-0000에서 H.S.0000-00-0000으로) 및 특별소비세 과세대상품목으로 판정되어, DOOR VIDEO PHONE제조및 유통에 혼선을 빚고 있음.
+
+라. 질의내용
+
+(1) 위의 내용중 DOOR VIDEO PHONE의 OUT DOOR PHONE에 들어가는 CCD CAMERA MODULE을 완제품으로 수입하거나, 동 CCD CAMERA MODULE의 주요 부품을 수입, 조립하여 판매시 특별소비세가 과세되는지 여부.
+
+(2) CCD CAMERA MODULE이 특별소비세 과세대상 품목일 경우 이를 장착한 DOOR VIDEO PHONE 완제품도 특별소비세 과세대상 품목인지 여부
+
+(3) CCD CAMERA MODULE이 특별소비세 과세대상 품목으로 확정될 경우, INTER PHONE 부분품으로 기 수입된 분에 대해서도 소급적용되는지 여부
+
+* 첨부 : 1. DOOR VIDEO PHONE 사양
+
+2. CCD CAMERA MODULE 사양
+
+3. 관세청 공문 사본
+
+2. 관련 조세 법령 (법률, 시행령, 시행규칙, 기본통칙)
+
+○ 특별소비세법 시행령 제1조 별표1 제2종 제11호 나목

@@ -1,0 +1,21 @@
+조세심판원 | 국심2007서2892 | 20071106 | 청구인이 청구외법인으로부터 수취한 세금계산서가 실물이 수반된 정상거래인지 여부(기각) | ID 8198
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+
+【재결요지】
+쟁점세금계산서를 발행한 법인은 자료상으로 고발된 업체로서 그 실질대표자인 000는 쟁점세금계산서가 가공세금계산서임을 확인한 사실이 있고, 청구인은 법인으로부터 지금을 매입한 후 제품으로 가공한 구체적인 내역과 청구인이 법인에게 쟁점거래와 관련하여 객관적이고 구체적인 대금지급 증빙자료 등을 제공하지 못하고 있으므로, 처분청이 쟁점세금계산서의 매입세액을 매출세액에서 불공제한 처분은 정당함
+
+【이유】
+청구인은 1988.4.2.부터 OOOOO OOO OOO OOOOO에서 OOOOO이라는 상호로 귀금속 소매업을 영위하는 사업자인 바, 2001년 제2기～2003년 제1기 과세기간 중 OOOO 주식회사(이하 “청구외법인”이라 한다)로부터 세금계산서(공급가액 68,999천원, 이하 “쟁점세금계산서” 또는 이와 관련된 거래를 “쟁점거래”라 한다)를 수취하여 각 과세기간의 부가가치세 신고시 관련 매입세액을 공제하였다.처분청은 청구외법인이 실물거래 없이 쟁점세금계산서를 청구인에게 발행하였다는 OOOO국세청장의 자료상 조사 과세자료를 통보받고 쟁점세금계산서 관련 매입세액을 매출세액에서 불공제하여 2007.2.20. 청구인에게 부가가치세 13,585,010원(2001년 제2기 2,526,600원, 2002년 제1기 6,649,470원, 2002년 제2기 3,461,400원, 2003년 제1기 947,540원)을 경정고지하였다.청구인은 이에 불복하여 2007.5.11. 이의신청을 거쳐 2007.7.23. 시판청구를 제기하였다.2. 청구인 주장 및 처분청 의견가. 청구인 주장청구인은 귀금속소매업을 영위하기 위하여 청구외법인을 직접방문하여 금지금원재료(1㎏ 상당의 금괴와 1㎏ 상당의 금괴를 37.5g 상당으로 분할하여 청구외법인의 상호인 OO 이라는 문자가 각인된 금덩어리, 1㎏ 상당의 금괴를 일정한 크기로 분할한 조각금)를 구입하였으며, 특히 청구인은 인근지역의 주민들과 적게는 10여명, 많게는 50여명의 계원을 조직하여 순금계를 하는 경우가 많았으며 수소문한 결과 현재도 일부 순금계원들이 OOOOOOO OOO OOO OOOOOOOO OOOOO OOOO OOOOO, OOO OOO OOOO OOO OOOOO OOO OOO OO OO OOOOO OOOOO OO OO OOOOOO OOOOO OOOOOO OO OOO OOOO OOOO OOOO OOOO OOOOOO OO OOOO OOOO OOOOOO OOO OOOOO OOOOO OO O O OOOOOO OOO OOO OOOO OOOOO OOOOO OOO OOOOOOOO OOOOO OOOOOO OO OOO OOO OOO OOOOOO OOO OOOOOO OOO OOOOOO OO OOO OO OOO OOOO OOO OOOO OO OOOOOO OOOO OOO OOO OOOO OOOOOO OOOO OOOO OOOO OOOO OOOOOO OOOO O OOO OOO OOO OOOO OOOOO OOO OOOO OOOOOOO OOOO OOOOO, OOOO OOO OOOOOOO OOOOOOO OOOOO OO OOOOOOOOOO OOOOOOO OOOO OOO OOO, OO OOO OOO OOO OOO OOOO OOOOOO OOO OOO OOO OO OOOOOOO OOOOOO OOO OOOOO O O OOOOOO OO OOOO OOO OOO OOOO OOO OO OOOOOOOO OOO OO OOOOOO OO OO OOOOO OOOOO OOOOOO OOO OOO OOOOOOO OO O OOOO O OOOOO OOOOOOOOO OOO OOOOOOOO OOO OOO OOOOOO OOOO OOOOOOOOOOOOOOOOO OOOO OOOOO O OOOOOO(OOOOOOOOOOOO OO)O OOO OOO OO OO OOO OO OO(OOOOOOOOOOOO OO)OO OO OOO OO(OOOOOOOOOOOO OO)O OOO OOOO OOO OO, OOOOO OOOO OOOOO OOOO OO(OOOOOOOOOOOO OO)OO OOOOO OOO OOO OOO OOOOOO OOO OO OO OOO OOO OO OOOO OOO OOO OOO OOOOOO OOO OOO OOO OO OOO OO OOO OOOOO OOOOOO OOOO OOOOOOO OO OOOO OOO O OOOO OOO OO OOOOOO OOOO OOO OO OO OOOO OOOOOO OOOO OOO OOO OO OOOO OOO OO OOOO(OOOOOOO OOOOOOOO OO)O OO OO OOO OOOO OOOOOO OOO OOO OOO OOO OOOOO OO, OOOOO OOO OOO OOOOO OOOOOOO OOOO O OO(O) OOOOOOOOO OOOOOO OO OOO OOOOO OOO, OOOOO OOOOO OOOOO OOOOO OOO O O,OOOO OOOO OOOO OOO,OOOOOOO OOOOOOO OO,OOOOO OOOO OO OOOO OOOO, O OO O OOO O OOO OOOOO OOOO OOO,OOOOOOO OOOOOOO OOOOO OOOO OO OOOO OOOO OO, OOOOOOOOOOO OOOOOOOOOOOOO OOO OOO OO OOOOOO OOO OOOO OOO,OOOOOOO OOOOOO OOOO OO,OOOOOOO OOO OOO OO OOOOOO O OOO OOOOO OOO, OOO OOO OOO O OOOOOO OOO OOO O OO OOOO OOO OOO OOOOO(O) OOOO OOOOOO OOOOOO OOO OOOO OOOOOO, OOO OOOOOOO OOO OOO OO OOOOOOOOOO 이라는 상호가 각인된 37.5g 상당의 금덩어리를 보관 중에 있고, 처분청이 OOO의 일방적 진술에 의하여 쟁점거래를 가공거래로 보아 이 건 부가가치세를 부과한 처분은 부당하다고 주장하면서 증빙자료로 OO 이라는 상호가 새겨진 금덩어리(37.5g) 사진 사본 및 OOO, OOO, OOO의 인감증명을 첨부한 사실확인서와 2007.3.22. OOO를 사기죄로 형사고소(OOOO)한 고소장, CD기에서 현금을 인출한 금융거래내역표 등을 제출하고 있어 이에 대하여 본다.(가) 청구인이 과세기간 중 부가가치세를 신고한 내역, 매출내역 등은 아래〈표〉와 같다.(OO O OO)(나) 청구인이 제출한 통장거래내역과 쟁점세금계산서 발행내역을 보면 세금계산서거래내역과 통장출금내역이 일치되는 부분이 없으며, 일부 동일한 날자에 출금된 금액이 확인되나 현금지급기를 통한 출금으로 인출한 대금이 실제 청구외법인에게 지급되었는지 여부가 불분명하고, 청구인은 OO 이라는 상호가 새겨진 37.5g 상당의 금덩어리를 청구인으로부터 매입하였다는 OOO 외 2인의 사실확인서를 증거자료로 제출하고 있으나, OO 이라는 상호가 새겨진 위 금덩어리가 존재한다는 사실만으로 청구인이 청구외법인으로부터 쟁점거래를 실제하였다고 확인하기는 어려운 것으로 보인다.(3) 이상의 사실관계를 종합해 보면, 쟁점세금계산서를 발행한 청구외법인은 자료상으로 고발된 업체로서 그 실질대표자인 OOO는 쟁점세금계산서가 가공세금계산서임을 확인한 사실이 있고, 청구인은 청구외법인으로부터 지금을 매입한 후 제품으로 가공한 구체적인 내역과 청구인이 청구외법인에게 쟁점거래와 관련하여 객관적이고 구체적인 대금지급 증빙자료 등을 제공하지 못하고 있으므로, 처분청이 쟁점세금계산서의 매입세액을 매출세액에서 불공제한 처분은 잘못이 없다고 판단된다.따라서 쟁점세금계산서를 사실과 다른 세금계산서로 보아 매입세액 공제를 배제하고 이 건 부가가치세를 부과한 처분은 타당하다고 판단된다.4. 결 론이 건 심판청구는 심리결과 청구인의 주장이 이유 없으므로국세기본법 제81조및 제65조 제1항 제2호의 규정에 의하여 주문과 같이 결정한다.
+의결일자: 20071106
+사건명: 청구인이 청구외법인으로부터 수취한 세금계산서가 실물이 수반된 정상거래인지 여부(기각)
+
+【주문】
+심판청구를 기각합니다.
+세목: 부가
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 8198
+재결례유형코드: 429150
+재결례유형명: 조세
+관련법령: 「부가가치세법」【납부세액】

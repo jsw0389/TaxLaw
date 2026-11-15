@@ -1,0 +1,41 @@
+해석_국세청 | 소비22641-1812 | 19921207 | 정제수 등으로 제조한 로션제품의 특별소비세 과세여부 | ID 89422
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000114075 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: 정제수 등으로 제조한 로션제품의 특별소비세 과세여부
+문서번호: 소비22641-1812
+생산일자: 19921207
+
+【요지】
+귀 질의 물품인 Vital Care Professional Extra Body Styling Gel 및 Vital Care Professional Super Hold Styling Gel은 특수화장품 중 세트로션에 해당하는 과세물품임
+
+【회신】
+귀 질의 물품인 『Vital Care Professional Extra Body Styling Gel』및 『Vital Care Professional Super Hold Styling Gel』은 특별소비세법시행령 별표1 제1종 제1류 제5호의 특수화장품 중 세트로션에 해당하는 과세물품입니다.
+
+【본문】
+1. 질의내용 요약
+
+가. 품명
+
+① Vital Care Professional Extra Body Styling Gel
+
+② Vital Care Professional Super Hold Styling Gel
+
+나. 상품의 설명(제시자료에 의하면)
+
+① 성분. 규격
+
+○ 정제수, 프로필렌 글리콜, 피뷔피/포리콰러니움Ⅱ, 솔비롤, 글리세린 등 (차목자료 참조)으로 된 점도가 있는 겔타입의 액상을 450g플라스틱용기에 포장한 것,
+
+○ 정제수, 피뷔피/포리콰터트니움 Ⅱ, 프로필렌 글리콜 등 (관련자료 참조)으로 된 점도가 있는 겔타입의 액상을 450g 플라스틱용기에 포장 한 것
+
+② 용도 : 모발의 세팅효과를 주며, 수분 및 지방을 공급하여 유지하고 윤기를 줌(관련자료 참조)
+
+다. 질의사항
+
+① 현행 특별소비세법상 세트로션 등에 해당되어 특별소비세법상 특별소비세 과세대상인지 여부.
+
+②특별소비세 과세품목 이라면 해당품목
+
+2. 관련 조세 법령 (법률, 시행령, 시행규칙, 기본통칙)
+
+○ 특별소비세법 시행령 별표1 제1종 제1류 제5호
