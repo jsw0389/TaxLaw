@@ -1,0 +1,19 @@
+조세심판원 | 국심2003부1075 | 20030901 | 실제사업자 여부(기각) | ID 125042
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+재결요지: 사업장의 대표로 되어 있으나 명의 대여라는 주장은 이유없음
+
+【이유】
+1. 처분개요청구인은 2002. 1. 15부터 2002. 5. 6까지 OOOO시 OOO구 OOOO OOOOOO번지에서 청구인 명의로 “OO”(이하“쟁점사업장”이라 한다)이라는 상호로 사업자등록을 하고 건강식품 및 화장품 도·소매 사업을 영위하였으며 부가가치세 및 소득세를 신고납부 하였다.OOO세무서장은 OOOO시 OOO구 OOOO OOOO번지 소재 “(주)OO마운틴”에 대한 부가가치세 특별조사결과 2002년 제1기 과세기간 중 “(주)OO마운틴”이 청구인에게 공급가액 OOO,OOO,OOO원의 무자료 매출을 한 사실을 확인하고 2002. 7.16 처분청에 과세자료를 통보하였다.처분청은 OOO세무서장으로부터 통보 받은 과세자료에 따라 청구인이 “(주)OO마운틴”으로부터 교부받은 매입세금계산서 OOO,OOO,OOO원을 가공거래로 확인하고 이에 대한 매입세액을 불공제하여 2002. 10. 23 2002년 제1기 귀속 부가가치세 OO,OOO,OOO원을 결정고지하였다.청구인은 위 처분에 불복하여 2002.11.19 이의신청을 거쳐 2003.3.31심판청구를 제기하였다.2. 청구인 주장 및 처분청 의견가. 청구인 주장청구인은 쟁점 사업장의 대표로 되어 있으나 이는 명의일 뿐이고 실제 사업자는 OOOO시 OO구 OOO OOOOOO번지에 거주하는 윤OO이므로 청구인에게 고지된 부가가치세를 취소하고 이를 윤OO에게 고지하여야 한다나. 처분청 의견청구인은 명의만 빌려 주었을 뿐이라며 실제 사업자라고 주장하는 윤OOOOO OO, OOO, OOOO, OOOOOO O OOO OOOO OOO OOO OOOO OO OOOO OOO OOO OOO OOOOOOO OOO O OO OOOO OOO O O OOO, OO OOOOO OOOO OOOO OOO OOOOOOO OOO OOOOOOO OOO OOO OOO OOOO OOOOOO OOOO OOOOOO OOOO OOOOO OOO OOOOOOO OO O OOO OOOOO OOOOO OOOOOO OOOO O OO OOO OOOOOOO OO O OOOO OOOOOO OOO OO OOO O OO OOOO OOOOOO OOO OOOO OOOO(O) OOOOO OOOO OOOOOOO OOO OOO OO OOOOOOOOOOO OO OOO OOOOOO OOO OOO OOOO OO OO OO OOO OOO OOOO OO OOOOOO OO OOO OOOOOO OO O OOOOO OOO OO OOO OOOOOOOOOOO OO OOO OOOO OOO OOOO O OOOOO OO OOOO(O) OOOOOO OOOO OOOOO OOO OOOOOOOOOO OOOOOOOO OO OOOOOOOOO OO OOO OO OOOO OOO OOO O OOOOO OO OOOOOO OOOOO OOOO OO OOOOO OOO OOO OOOOOOO OOOOO OO OOO OOO OOOOO OOO OO OO OOO OO OOOO O (OOOO)OO OOOO O OO(O) OOOO(O) OOOO OOOOO OO OO OOOOO OOOO OOOO OOOOOOOOO OOOOO, OOOO OOOOO OO OOOO OOOOOO OOOO, OOOOOOOO OOOOO OOOO OOOOO OOOOOO번지로 사업장을 이전하고 처분청에 사업자등록 정정신고를 한 사실이 확인된다.(나) 또한, 청구인은 청구인을 사업자로 하여 2002.4.25 2002년 제1기 부가가치세 예정신고를, 2002.5.6 쟁점사업장을 폐업하면서 2002.5.8 2002년 제1기 부가가치세 확정신고를 하였고 2002.5.31에는 소득세확정신고를 한 사실이 확인된다.(다) 청구인이 당원에 제출한 증빙서류에 의하면 청구인은 쟁점사업을 운영하면서 최초 사업장인 OOOO시 OOO구 OOOO OOOOOO번지는 물론 이전 사업장인 OOOO시 OOO구 OOO OOOOOO번지도 청구인이 직접 사업장을 임차하여 사용한 사실이 확인된다.(라) 청구인은 쟁점사업장의 실사업자가 윤OO이고 청구인은 명의만 빌려 주었다고 주장하며 윤OO이 실제사업자라는 각서와 인감증명, 내용증명서를 제시하고 있으나 윤OO은 현재 연락이 두절되어 사실여부를 확인할 수 없다.(2) 판단(가) 위와 같은 사실을 종합하면 청구인은 쟁점사업장을 명의만 빌려주었을 뿐 실제로 사업을 영위한 자는 윤OO이라고 주장하면서 각서 등을 제시하고 있으나(나) 쟁점 사업장에 대하여 청구인 명의로 사업자등록과 부가가치세 등의 신고 및 납부가 이루어진 사실과 특히 청구인 명의로 사업장을 임차한 사실이 확인되는 반면, 실제 사업자라고 주장하는 윤OO은 현재 행방불명으로 윤OO이 쟁점사업장에서 실제로 사업을 영위하였는지에 대한 확인이 어려운 점등으로 보아 청구인을 쟁점사업장의 사업자로 보아 과세한 당초처분에는 잘못이 없다고 판단된다.4. 결론이 건 심판청구는 심리결과 청구주장이 이유 없으므로국세기본법 제81조및 제65조 제1항 제2호의 규정에 의하여 주문과 같이 결정한다.
+의결일자: 20030901
+사건명: 실제사업자 여부(기각)
+
+【주문】
+심판청구를 기각합니다
+세목: 부가
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 125042
+재결례유형코드: 429150
+재결례유형명: 조세
+관련법령: 「국세기본법」 제14조 【실질과세】

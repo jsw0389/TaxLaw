@@ -1,0 +1,21 @@
+해석_국세청 | 소비22641-687 | 19880427 | Poly Propylen Needle Punching 부직포가 특별소비세 과세품목인지의 여부 | ID 236604
+출처: 국세법령정보시스템 https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=010000000000120729 (scripts/fetch_refs.py 로 자동 수집)
+
+제목: Poly Propylen Needle Punching 부직포가 특별소비세 과세품목인지의 여부
+문서번호: 소비22641-687
+생산일자: 19880427
+
+【요지】
+Needle Punched 부직포는 승용차의 내장재로서 뿐만 아니라 “깔개”로서 범용성을 갖을 수 있는 물품이므로 특별소비세법상 “융단”에 해당하는 과세물품임.
+
+【회신】
+귀하가 질의하신 Needle Punched 부직포는 승용차의 내장재로서 뿐만 아니라 “깔개”로서 범용성을 갖을 수 있는 물품이므로 특별소비세법상 “융단”에 해당하는 과세물품임.
+
+【본문】
+1. 질의내용 요약
+
+○ 다음의 용도 및 공정과 거래과정의 Poly Propylen Needle Punching 부직포가 특별소비세법 제1조 2항의 제4종 2류 2호의 “융단”에 해당되는 과세품목인지의 여부
+
+가. 공정 및 거래과정
+
+원재료 : Polyplopylene Resin

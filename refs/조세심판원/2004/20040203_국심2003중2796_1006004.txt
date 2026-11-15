@@ -1,0 +1,22 @@
+조세심판원 | 국심2003중2796 | 20040203 | 전업농민이 아니라 하여 토지에 대한 증여세 감면을 배제한 처분의 당부(취소) | ID 1006004
+출처: 국가법령정보센터 Open API (scripts/fetch_refs.py 로 자동 수집)
+
+재결청: 조세심판원
+재결요지: 전업농민이 아니나 쟁점토지를 증여받아 실지로 경작한 사실이 입증되므로 증여세 감면을 배제한 처분은 부당함
+
+【이유】
+1. 처분개요청구인은 2002.8.5 청구인의 부(父) 최OO로부터 OOO OOOOOO OOO OOOOO OOO OOO OOO O,OOOO(OO OOOOOOO OO)O OOOO OOOOO OOOO OOO OOO OOOOO OOOOOOOO OOOO OOOOO OOO OO OOO OOO OOOO OOOOOOOOO OOOOO OOOO OOO OOO OO,OOO,OOOOO OOOO OOOOOOOO OO OOOO OOOOOOOOOO OOOOO OO OOOOOOOOOO O O OOOOO OOOOOOOO OOO OO O OOO OOOO OOO OOOOOO OOOOO(OOOO OO)O OOOOO OO, OO OOO OO O OOO OOO OOO OOOO OOOO OO OOOOOOO OOOO OOOO OOOOO OO OOO OOO OOO OOO OOOOOOO OOO OOOOOO OOOOO(OOOO OO)O OOOOO OOOOOOO OOOO OO OOOOO OOOOO OOOOOOO OOOOOO OOO, OOOOO OO OOO OOOO OOOO OO OOO OOO OOO OOO OO OOOO OOO OOOO OOOO OOO OOOO O OOOOO OO O OOOO OOOOOO OOOOO OOO OO OOOOO OO OOO OOO OOO OOO OOOO OOOO(O) OOOOOOO OOOOOOOOOO OOOO OOOO OO OOOO OOO(OOOOOOOOOOOOO)O OOOOO OOO OOOO OO(OO O OOOOOOOOOOO OO OO)O OO OOO OOOO OOOOOOOOO(OO O OOO OOOOOOOOO OO)O OOOOO OOO OOO OOOO OOOO(OO O OOO OOOOOOOOO OO)OO OOOO OOOO OO OO OO OOO OO OOOO OO OOO O OO OOOO OOOO OO OO OOOOO OO OO OOO OOO OO OOOO OOO OOO OOOOO OO OOO OO OOOO OO OOOOOOOO OO OOO OOOO(OOOOOO O OO OOOO OOO OOOO)O OO OOOO OO,OOOOOOOOOOOOOOOOO OOOOOOOOOO OOOO OOOO OO OOOO OOOO O OOOO OOO OOOOOOOOOOO OOO OOOO OOOOOO OO OO OOO OOO OO OO OO OOOOOO OO OOOO OOOO OOOOO(OOOO OOOO OO O OOO OO) OO OO OOO OOOOOO OOO OOO OO OOOO OOOOO OOOO OO OO OOOO OO OOO OOOO OO OO O OOOO OOO OOOO OOOOOO OOO OOO OOOO OOOOOOO OO OOOO OOO OO OO OOOO OOOOO OO OOO OO O OOO OOO OOO OOO OOO OOOOO OO OO OOOO OO, OOOOOOO OOO OOOOOO OOOO OOO OOOO OOO OO OO OOOO(O) OOOOOOO(OOOOOO, OOOOOOOOOOO OO) OO OOOOOOOOOO OOOO OO OO OO OOO OOO OO OOOOOO O O OOO(OOOOOOOOO)OO OOO OOOOOOO OOOOO OOO OOO OOOO OOO OO OO OO OO OOOO O OOO OOOO OOO OOO OOOOO O O OOOO OOO OOOOOOO OOOO OOOO OOOOOO OOOO OOOOO OO OO OOOO OOOOO OOO OOO OO OOOOO OOOOOO OOOO OO OOOO OOOOOOOOOO OOOO OOO OO OOOO OOO OOO OOOO OOOOOOO OOOO O OO(O) OOOO OOOOOOOO OOOO O(O) OOOOOO OOOOO OOOO OOO OOOOO OOO O OOOOOOOOO OOO (OO) OOO OOOO OOOOO, OOO OOO OO OOO OO OOO(O) OOOO OOOO OO OOOOOOOO OOOOO OOOO OOOOO OOO OOOOO OOO, OOOOO OOO OOO OOO OOOO OOOO OO OOOO OOO OOO OOOO O O OOOOOO OOOOO O OOOOO OOO OOOOO(O) OOOO OOOO OO OOOOOOOO OO, OOOOO OOOOOOOOO OOOOOO OOOO OOO OOO OOO OOOOO OOO OOO OOO OOO OOOOO OOOOO OO OOO OOOO OO O, OO OOO OOOOO(O) OOOO OOOOO OOO OOO OOO OOO에 1988.1.29. 전입하여 처, 부(최OO OOOO년생), 모(이OO, OOOO년생)와 함께 거주하고 있는 사실이 주민등록등본에 나타나고, 쟁점토지의 인근에 소재한OO초등학교의 교장으로 재직(1999.9.1～2003.8.31 교직자 총근무경력은 34년 4월임)한 사실이 재직증명서에 나타난다.(나) OOOO조합장이 2003년 9월 발행한 조합원증명서에는청구인이 1998.1.4.부터 O,OOO,OOO원의 출자금을 납입한 영농조합원이라고 되어 있다.(다) OO읍장이 발행(2003.6.9.)한 농지원부(1991.6.25. 최초작성, OOOOOOOOOOOOOOOOOOO)에는 쟁점토지의 소유자가 청구인, 경작구분은 자경, 주재배작물은 채소 및 서류라고 기재된 사실이 나타난다.(라) OOOO조합장은 확인서(2003.9.6)에서 2001년의 경우 복합비료 10포, 요소비료 10포, 퇴비 100포, 2002년의 경우 복합비료 10포, 요소비료 10포, 퇴비 100포, 2003년의 경우 복합비료 5포, 요소비료 5포, 퇴비 100포를 청구인에게 공급하였다고 확인하였다.(마) OOOOO이 발행한 영수증(2000.4.20)에는 청구인이 OOOO원(OOOOOOOOOOOO)에서 봄배추 O,OOO원, 상추 O,OOO원, 쑥갓 O,OOO원, 열무 O,OOO원, 분무기 OO,OOO원, 농약 OO,OOO원, 비니루 OO,OOO원 합계 OO,OOO원의 씨앗 및 농약 등을 구입한 내역이 나타나고 있다.부채 증명원에는 청구인이 「단기농사자금대출금」 O,OOO,OOO원을 2001.3.16. 대출받은 사실이, 2002.12.25. 발행한 부채증명원에는 「재정농사자금대출금」 O,OOO,OOO원을 2002.3.21. 대출받은 사실이 각각 나타나고, 2003.9.25. 발행한 완제계좌내역조회서에는 청구인이 1998.12.17. 대출받은 영농자금 OO,OOO,OOO원을 1999.2.23. 상환, 2001.3.16. 대출받은 O,OOO,OOO원을 2002.2.22. 상환, 2002.3.21. 대출받은 O,OOO,OOO원을 2002.12.26 각각 상환한 내역이 나타난다.(사) 청구인의 거주지 인근 주민 임OO, 박OO, 최OO,최OO 등은 확인서(2003.9.2)에서 청구인은 쟁점토지를 실지로 경작한 사실이있으며, 청구인 이외에도 OO, 면사무소에 근무하는 직원들은 출퇴근 전후, 주말, 휴가철에 직접 농사를 짓고 봄에는 작물파종, 거름치기, 농약살포, 잡초제거 등의 일을 하고 있다고 확인하였다.(3) 이상의 사실관계를 종합하건대, 청구인이 비록 교직자의 신분이기는 하나 쟁점토지의 소재지에서 오랜기간 거주하여 왔고, 청구인이 영농조합원으로서 채소 및 서류를 경작하면서 씨앗 및 농약 등을 구입하고, 농사자금을 대출받은 사실이 확인되는 점 등에 비추어 볼 때, 청구인이 쟁점토지를 자경하고 있다고 봄이 상당한 것으로 판단된다.따라서 청구인이 교직자로서 전업농민이 아니라는 이유로 증여세 감면을 배제한 이 건 처분은 잘못이 있다 하겠다.4. 결론이 건 심판청구는 심리결과 청구인의 주장이 이유있으므로 국세기본법 제81조및 제65조 제1항 제3호의 규정에 의하여 주문과 같이 결정한다.
+따른결정: OOOOOOOOOO
+의결일자: 20040203
+사건명: 전업농민이 아니라 하여 토지에 대한 증여세 감면을 배제한 처분의 당부(취소)
+
+【주문】
+OO세무서장이 2003.6.5. 청구인에게 한 2002년도분 증여세 OO,OOO,OOO원의 부과처분은 이를 취소한다.
+세목: 증여
+데이터기준일시: 20241218
+특별행정심판재결례일련번호: 1006004
+재결례유형코드: 429150
+재결례유형명: 조세
+
+【관련법령】
+「조세감면규제법」 제58조 【영농자녀가 증여받는 농지등에 대한 증여세의 면제】 / 「조세감면규제법시행령」 제57조 【영농자녀가 증여받는 농지등에 대한 증여세의 면제】
